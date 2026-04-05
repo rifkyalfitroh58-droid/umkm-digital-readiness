@@ -1,0 +1,1001 @@
+id_umkm,provinsi,sektor,skala_usaha,usia_usaha,punya_smartphone,punya_medsos_bisnis,punya_marketplace,jumlah_platform,frekuensi_posting_mgg,pakai_pembayaran_digital,persen_omzet_online,ikut_pelatihan_digital,punya_website,pakai_tools_manajemen,digital_readiness_score,kategori_score,klaster,pca_1,pca_2,nama_klaster
+UMKM0001,Jawa Barat,Kuliner,Kecil,1-3 tahun,1,1,0,0,3,1,0.0,1,0,1,51.0,Tinggi (50-75),2,-0.6154913738524058,1.5530035130296758,Digital Beginner
+UMKM0002,Kalimantan Timur,Fashion,Kecil,1-3 tahun,1,1,1,1,1,1,40.1,0,0,0,64.34,Tinggi (50-75),3,1.0794501060707802,-0.49401268389053105,Digital Adopter
+UMKM0003,Sumatera Utara,Elektronik,Mikro,> 5 tahun,1,0,0,0,0,0,4.7,0,0,0,10.47,Rendah (0-25),0,-2.1704592532902,-1.3688728318822152,Digital Laggard
+UMKM0004,Jawa Tengah,Kerajinan,Mikro,1-3 tahun,1,1,1,1,4,1,28.0,0,0,0,69.13,Tinggi (50-75),3,1.090696284197456,0.8356125335384925,Digital Adopter
+UMKM0005,Jawa Timur,Jasa,Mikro,1-3 tahun,1,0,0,0,0,1,9.7,0,0,0,20.97,Rendah (0-25),0,-1.8270370751225067,-1.5446040523800562,Digital Laggard
+UMKM0006,Jawa Timur,Kerajinan,Kecil,> 5 tahun,1,0,1,3,0,0,33.6,1,0,0,48.36,Sedang (25-50),3,1.5507462676129933,-2.4031636172222415,Digital Adopter
+UMKM0007,Jawa Timur,Kerajinan,Menengah,1-3 tahun,1,1,1,2,2,1,73.6,1,1,1,88.03,Sangat Tinggi (75-100),1,3.6780487315233827,0.09246573973113428,Digital Champion
+UMKM0008,Sulawesi Selatan,Jasa,Mikro,> 5 tahun,1,0,0,0,0,0,0.6,0,1,0,15.06,Rendah (0-25),0,-1.8383831075416435,-1.1261539786043697,Digital Laggard
+UMKM0009,DKI Jakarta,Kuliner,Kecil,< 1 tahun,1,1,1,2,2,1,48.9,0,0,1,75.56,Sangat Tinggi (75-100),3,2.328573250785092,-0.10222053413700805,Digital Adopter
+UMKM0010,DKI Jakarta,Fashion,Mikro,3-5 tahun,1,1,0,0,5,1,3.8,0,1,0,50.38,Tinggi (50-75),2,-0.5978160264058382,2.216715801528367,Digital Beginner
+UMKM0011,Jawa Timur,Kuliner,Mikro,< 1 tahun,1,1,1,2,5,0,47.1,0,1,0,71.38,Tinggi (50-75),1,2.404676741754914,1.294589895165282,Digital Champion
+UMKM0012,Kalimantan Timur,Pertanian,Mikro,< 1 tahun,1,0,0,0,0,0,3.4,0,0,1,15.34,Rendah (0-25),0,-1.8047720959740743,-1.1333369633974582,Digital Laggard
+UMKM0013,Sulawesi Selatan,Elektronik,Mikro,> 5 tahun,1,1,0,0,4,0,3.9,0,0,0,33.39,Sedang (25-50),2,-1.3511183907927389,1.7259144929589592,Digital Beginner
+UMKM0014,Jawa Barat,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,1,9.9,0,0,0,20.99,Rendah (0-25),0,-1.8221543071382147,-1.545882825787986,Digital Laggard
+UMKM0015,Jawa Timur,Kerajinan,Mikro,3-5 tahun,1,1,1,3,1,0,21.7,0,0,0,59.17,Tinggi (50-75),3,1.4781591205542148,-0.6257745858224276,Digital Adopter
+UMKM0016,Jawa Timur,Elektronik,Mikro,1-3 tahun,1,1,1,3,3,0,48.8,1,0,0,70.88,Tinggi (50-75),3,2.6584906884616886,0.1719020262347803,Digital Adopter
+UMKM0017,Jawa Barat,Kuliner,Kecil,1-3 tahun,1,1,1,2,1,0,46.3,1,0,1,68.3,Tinggi (50-75),3,2.2558071532885036,-0.22314361195186605,Digital Adopter
+UMKM0018,Jawa Tengah,Fashion,Mikro,> 5 tahun,1,1,0,0,4,1,7.9,1,0,1,53.79,Tinggi (50-75),2,-0.32040415808076916,1.9199117721661945,Digital Beginner
+UMKM0019,Jawa Tengah,Elektronik,Mikro,< 1 tahun,1,1,0,0,1,1,9.9,0,0,0,37.99,Sedang (25-50),2,-1.2899360138799167,0.2915299791722084,Digital Beginner
+UMKM0020,Jawa Barat,Kuliner,Kecil,3-5 tahun,1,1,0,0,1,1,9.7,1,0,1,47.97,Sedang (25-50),2,-0.5831128873984732,0.6561433852455647,Digital Beginner
+UMKM0021,DKI Jakarta,Kerajinan,Mikro,> 5 tahun,1,0,0,0,0,0,4.9,0,0,0,10.49,Rendah (0-25),0,-2.165576485305908,-1.3701516052901452,Digital Laggard
+UMKM0022,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,1,1,1,3,0,21.9,0,0,0,56.52,Tinggi (50-75),3,0.6182010017240473,0.600957199030195,Digital Adopter
+UMKM0023,Jawa Barat,Elektronik,Kecil,> 5 tahun,1,0,1,3,0,1,55.8,0,1,0,60.58,Tinggi (50-75),1,2.4319786366046072,-2.6084761437189945,Digital Champion
+UMKM0024,Jawa Barat,Pertanian,Mikro,< 1 tahun,1,0,0,0,0,0,4.4,0,0,0,10.44,Rendah (0-25),0,-2.177783405266638,-1.3669546717703203,Digital Laggard
+UMKM0025,Jawa Tengah,Elektronik,Mikro,1-3 tahun,1,0,0,0,0,1,8.1,0,0,0,20.81,Rendah (0-25),0,-1.866099218996841,-1.5343738651166163,Digital Laggard
+UMKM0026,Sumatera Utara,Fashion,Mikro,1-3 tahun,1,1,0,0,1,1,5.1,0,0,0,37.51,Sedang (25-50),2,-1.4071224455029203,0.322220540962528,Digital Beginner
+UMKM0027,Jawa Timur,Jasa,Menengah,> 5 tahun,1,1,0,0,3,1,7.0,1,1,1,56.7,Tinggi (50-75),2,-0.01242160497565388,1.7247504421674074,Digital Beginner
+UMKM0028,Jawa Tengah,Jasa,Mikro,> 5 tahun,1,1,0,0,3,1,7.5,0,0,0,41.75,Sedang (25-50),2,-1.1440934689071984,1.141714877566875,Digital Beginner
+UMKM0029,Jawa Tengah,Kuliner,Kecil,1-3 tahun,1,1,0,0,2,1,2.5,0,0,1,44.25,Sedang (25-50),2,-0.9709553996925812,0.9834882453485831,Digital Beginner
+UMKM0030,Jawa Timur,Jasa,Mikro,3-5 tahun,1,1,1,1,2,1,23.0,0,0,1,69.63,Tinggi (50-75),3,1.1616164730199625,0.25996609257044795,Digital Adopter
+UMKM0031,DKI Jakarta,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,1,4.6,1,0,0,44.46,Sedang (25-50),2,-1.0028307398198268,0.8789480745643204,Digital Beginner
+UMKM0032,Jawa Timur,Fashion,Mikro,3-5 tahun,1,1,0,0,2,1,2.1,0,0,1,44.21,Sedang (25-50),2,-0.9807209356611647,0.9860457921644431,Digital Beginner
+UMKM0033,Jawa Timur,Kuliner,Kecil,3-5 tahun,1,1,1,1,4,0,55.0,0,0,0,61.83,Tinggi (50-75),3,1.5285169835164525,0.806740008767536,Digital Adopter
+UMKM0034,Bali,Kuliner,Mikro,> 5 tahun,0,0,0,0,0,1,4.2,0,0,0,10.42,Rendah (0-25),0,-1.760310777062138,-1.225369796443501,Digital Laggard
+UMKM0035,Kalimantan Timur,Kuliner,Mikro,3-5 tahun,1,1,1,2,4,1,29.3,0,0,0,72.6,Tinggi (50-75),3,1.6570725998946925,0.6307150360064244,Digital Adopter
+UMKM0036,Sumatera Utara,Kerajinan,Mikro,1-3 tahun,0,1,0,0,2,0,5.5,1,0,1,29.55,Sedang (25-50),2,-0.603783695608496,1.5282473080799193,Digital Beginner
+UMKM0037,Jawa Barat,Kuliner,Mikro,< 1 tahun,0,0,0,0,0,1,3.8,0,0,0,10.38,Rendah (0-25),0,-1.7700763130307218,-1.2228122496276412,Digital Laggard
+UMKM0038,Jawa Timur,Kerajinan,Menengah,1-3 tahun,1,1,1,1,4,1,63.9,1,1,1,87.72,Sangat Tinggi (75-100),1,3.1110319212701105,1.1859113378957682,Digital Champion
+UMKM0039,DKI Jakarta,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,0,5.8,1,0,0,15.58,Rendah (0-25),0,-1.8293232841248817,-1.2397952942936161,Digital Laggard
+UMKM0040,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,0,1,2,0,0,33.5,0,0,0,40.02,Sedang (25-50),3,0.6993858145697943,-2.3420495514699677,Digital Adopter
+UMKM0041,Jawa Timur,Fashion,Mikro,> 5 tahun,1,0,1,2,0,1,30.4,0,1,0,54.71,Tinggi (50-75),1,1.2772287788002077,-2.2494864505313634,Digital Champion
+UMKM0042,Jawa Tengah,Jasa,Menengah,3-5 tahun,1,1,1,2,2,1,49.8,1,0,1,80.65,Sangat Tinggi (75-100),3,2.6648264519661184,0.028135776859521202,Digital Adopter
+UMKM0043,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,1,0,0,4,0,0.4,0,0,0,33.04,Sedang (25-50),2,-1.4365668305178454,1.7482930275977338,Digital Beginner
+UMKM0044,Bali,Kerajinan,Mikro,< 1 tahun,1,0,1,2,0,0,38.7,0,0,0,40.54,Sedang (25-50),3,0.8263377821613815,-2.3752976600761473,Digital Adopter
+UMKM0045,Jawa Barat,Elektronik,Kecil,> 5 tahun,1,1,1,1,3,1,62.2,1,0,1,80.55,Sangat Tinggi (75-100),3,2.535137623584981,0.5628571046981385,Digital Adopter
+UMKM0046,DKI Jakarta,Kerajinan,Kecil,> 5 tahun,1,1,1,2,1,1,53.7,1,0,1,79.04,Sangat Tinggi (75-100),3,2.6578225472676986,-0.4142201133448667,Digital Adopter
+UMKM0047,Jawa Barat,Kuliner,Mikro,< 1 tahun,1,1,1,1,2,1,32.8,0,0,0,65.61,Tinggi (50-75),3,1.003446955036239,-0.029917645751333374,Digital Adopter
+UMKM0048,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,1,0,0,5,0,1.5,0,0,0,35.15,Sedang (25-50),2,-1.3074937262121302,2.158679582603872,Digital Beginner
+UMKM0049,Jawa Tengah,Elektronik,Mikro,3-5 tahun,1,1,1,1,4,0,31.0,0,0,0,59.43,Tinggi (50-75),3,0.9425848254014352,0.9601928177191342,Digital Adopter
+UMKM0050,Jawa Timur,Kuliner,Mikro,< 1 tahun,1,1,0,0,1,1,7.6,1,1,0,47.76,Sedang (25-50),2,-0.5996342110210212,0.6588506631108985,Digital Beginner
+UMKM0051,Kalimantan Timur,Elektronik,Mikro,3-5 tahun,1,1,0,0,1,0,7.6,0,0,0,27.76,Sedang (25-50),2,-1.5674408242596705,0.44999775866299446,Digital Beginner
+UMKM0052,Sumatera Utara,Fashion,Mikro,3-5 tahun,1,0,0,0,0,1,5.3,1,0,0,25.53,Sedang (25-50),0,-1.6201772255252134,-1.3803602460733824,Digital Laggard
+UMKM0053,Bali,Elektronik,Mikro,1-3 tahun,1,1,1,2,3,0,18.2,0,0,0,59.49,Tinggi (50-75),3,1.0625081178139888,0.42802903669637665,Digital Adopter
+UMKM0054,Bali,Jasa,Mikro,> 5 tahun,1,1,1,2,4,0,11.2,0,0,0,60.79,Tinggi (50-75),3,0.9938291187558855,0.8902059147236793,Digital Adopter
+UMKM0055,Jawa Tengah,Pertanian,Kecil,> 5 tahun,1,0,1,3,0,1,26.6,1,0,1,62.66,Tinggi (50-75),3,1.9986275159372002,-2.274944591911072,Digital Adopter
+UMKM0056,Bali,Fashion,Menengah,3-5 tahun,1,1,1,1,2,1,89.7,1,1,1,86.3,Sangat Tinggi (75-100),1,3.5364732304595337,0.1861099507732938,Digital Champion
+UMKM0057,Jawa Timur,Jasa,Mikro,3-5 tahun,1,1,0,0,4,1,3.5,0,0,0,43.35,Sedang (25-50),2,-1.1395309482009246,1.5847101544752278,Digital Beginner
+UMKM0058,Jawa Timur,Fashion,Mikro,1-3 tahun,1,1,0,0,2,1,10.0,0,0,0,40.0,Sedang (25-50),2,-1.1852767494956609,0.7083104012179966,Digital Beginner
+UMKM0059,Jawa Timur,Fashion,Mikro,3-5 tahun,1,1,0,0,1,0,4.3,1,0,1,37.43,Sedang (25-50),2,-0.9363006015347498,0.8344321525592655,Digital Beginner
+UMKM0060,Jawa Barat,Kerajinan,Menengah,3-5 tahun,0,1,1,2,3,1,85.0,1,1,1,81.17,Sangat Tinggi (75-100),1,4.259586804648519,0.7210634514473586,Digital Champion
+UMKM0061,Jawa Barat,Elektronik,Mikro,< 1 tahun,1,0,0,0,0,0,3.6,0,0,0,10.36,Rendah (0-25),0,-2.197314477203805,-1.3618395781386003,Digital Laggard
+UMKM0062,Jawa Barat,Pertanian,Mikro,3-5 tahun,1,0,0,0,0,1,1.3,0,0,0,20.13,Rendah (0-25),0,-2.0321133304627628,-1.4908955692469967,Digital Laggard
+UMKM0063,Sulawesi Selatan,Jasa,Mikro,> 5 tahun,1,1,1,3,3,1,45.8,0,0,0,75.58,Sangat Tinggi (75-100),3,2.492321402005996,-0.08878904927807547,Digital Adopter
+UMKM0064,Jawa Barat,Fashion,Mikro,3-5 tahun,1,1,0,0,3,0,2.8,1,0,1,41.28,Sedang (25-50),2,-0.7684856006327184,1.6788625706182472,Digital Beginner
+UMKM0065,Jawa Barat,Fashion,Mikro,< 1 tahun,1,0,1,1,0,1,42.5,1,0,1,57.58,Tinggi (50-75),3,1.3175309230897196,-1.9834361370804592,Digital Adopter
+UMKM0066,Jawa Tengah,Kerajinan,Mikro,> 5 tahun,1,1,0,0,2,0,6.9,0,0,0,29.69,Sedang (25-50),2,-1.4823126318125819,0.8718932743405027,Digital Beginner
+UMKM0067,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,0,0.7,0,0,1,34.07,Sedang (25-50),2,-1.2362532901116057,1.1387590913195444,Digital Beginner
+UMKM0068,Sumatera Utara,Kuliner,Menengah,1-3 tahun,0,1,1,1,5,1,41.3,0,0,1,67.46,Tinggi (50-75),3,2.116045802387387,1.6792857392125946,Digital Adopter
+UMKM0069,Jawa Timur,Fashion,Mikro,1-3 tahun,1,0,0,0,0,0,0.9,0,0,0,10.09,Rendah (0-25),0,-2.2632318449917443,-1.3445761371315457,Digital Laggard
+UMKM0070,Kalimantan Timur,Kuliner,Kecil,1-3 tahun,1,1,1,2,2,1,65.1,1,0,1,82.18,Sangat Tinggi (75-100),3,3.038358202764442,-0.06969038884712245,Digital Adopter
+UMKM0071,Sumatera Utara,Kuliner,Kecil,> 5 tahun,1,0,0,0,0,1,2.7,0,1,1,30.27,Sedang (25-50),0,-1.1683359159321591,-1.0561191433540136,Digital Laggard
+UMKM0072,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,0,5.7,0,0,1,15.57,Rendah (0-25),0,-1.7486202641547184,-1.148042857588653,Digital Laggard
+UMKM0073,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,1,1,1,1,34.6,0,0,0,63.79,Tinggi (50-75),3,0.9451739865027552,-0.4588464151724565,Digital Adopter
+UMKM0074,Sumatera Utara,Kuliner,Mikro,> 5 tahun,1,1,1,1,5,1,22.9,0,0,0,70.62,Tinggi (50-75),3,1.0684035809901247,1.2856410641904608,Digital Adopter
+UMKM0075,DKI Jakarta,Pertanian,Mikro,> 5 tahun,1,0,1,1,0,0,32.8,1,0,1,46.61,Sedang (25-50),3,0.8593636972911688,-1.7776537414962634,Digital Adopter
+UMKM0076,Sumatera Utara,Fashion,Kecil,> 5 tahun,1,1,0,0,4,1,1.8,0,0,0,43.18,Sedang (25-50),2,-1.181034476067405,1.5955797284426327,Digital Beginner
+UMKM0077,Sumatera Utara,Fashion,Menengah,1-3 tahun,1,1,1,1,1,1,86.2,1,0,1,78.95,Sangat Tinggi (75-100),3,2.9166340209157786,-0.4254353217529658,Digital Adopter
+UMKM0078,Jawa Timur,Kerajinan,Mikro,3-5 tahun,1,1,0,0,2,0,0.8,0,0,0,29.08,Sedang (25-50),2,-1.631237055333482,0.9108958632823672,Digital Beginner
+UMKM0079,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,1,0,0,1,0,7.8,1,0,0,32.78,Sedang (25-50),2,-1.2482773110236656,0.5848297765872786,Digital Beginner
+UMKM0080,Jawa Timur,Elektronik,Menengah,> 5 tahun,1,1,0,0,4,1,0.7,1,0,0,48.07,Sedang (25-50),2,-0.893608954729297,1.7387237735184617,Digital Beginner
+UMKM0081,Sulawesi Selatan,Jasa,Kecil,< 1 tahun,1,1,1,3,3,1,36.4,1,1,1,89.64,Sangat Tinggi (75-100),1,3.4067100906365555,0.5511519319753411,Digital Champion
+UMKM0082,DKI Jakarta,Kuliner,Kecil,< 1 tahun,1,0,1,1,0,0,43.4,1,0,1,47.67,Sedang (25-50),3,1.118150400458635,-1.8454287321165526,Digital Adopter
+UMKM0083,Jawa Barat,Fashion,Mikro,3-5 tahun,1,0,0,0,0,1,2.4,0,1,0,25.24,Sedang (25-50),0,-1.5730852171226193,-1.2814248245753306,Digital Laggard
+UMKM0084,Jawa Timur,Elektronik,Mikro,> 5 tahun,1,1,0,0,1,0,9.9,1,0,1,37.99,Sedang (25-50),2,-0.7995830979745792,0.798626497137226,Digital Beginner
+UMKM0085,Jawa Barat,Elektronik,Kecil,3-5 tahun,1,1,1,2,1,1,61.3,0,1,0,74.8,Tinggi (50-75),1,2.56383472563159,-0.6096441370963515,Digital Champion
+UMKM0086,Jawa Barat,Fashion,Kecil,3-5 tahun,1,1,1,1,1,1,42.5,0,0,0,64.58,Tinggi (50-75),3,1.1380433218822819,-0.5093579647856908,Digital Adopter
+UMKM0087,Sumatera Utara,Kerajinan,Mikro,< 1 tahun,1,0,1,3,0,1,41.8,0,0,0,54.18,Tinggi (50-75),3,1.6580119882776423,-2.7354660035791767,Digital Adopter
+UMKM0088,DKI Jakarta,Kuliner,Mikro,3-5 tahun,1,1,1,2,3,0,20.3,0,0,1,64.7,Tinggi (50-75),3,1.5112023308630753,0.641825757246324,Digital Adopter
+UMKM0089,Sulawesi Selatan,Pertanian,Mikro,> 5 tahun,1,1,0,0,3,0,6.5,0,0,1,36.65,Sedang (25-50),2,-0.9924351381750328,1.5190944712393284,Digital Beginner
+UMKM0090,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,1,1,2,2,1,48.4,0,0,0,70.51,Tinggi (50-75),3,1.91894118161034,-0.3262474419503953,Digital Adopter
+UMKM0091,Jawa Timur,Elektronik,Mikro,> 5 tahun,1,1,1,3,1,1,13.6,0,0,0,68.36,Tinggi (50-75),3,1.5017599957507943,-0.7177461481008547,Digital Adopter
+UMKM0092,DKI Jakarta,Kerajinan,Menengah,> 5 tahun,1,1,1,2,1,1,77.9,0,0,1,76.46,Sangat Tinggi (75-100),3,2.9343567281152945,-0.705062487036609,Digital Adopter
+UMKM0093,Sumatera Utara,Kerajinan,Mikro,1-3 tahun,1,0,0,0,0,1,6.9,0,0,0,20.69,Rendah (0-25),0,-1.895395826902592,-1.5267012246690363,Digital Laggard
+UMKM0094,Jawa Tengah,Fashion,Kecil,3-5 tahun,1,1,0,0,4,0,3.9,0,0,1,38.39,Sedang (25-50),2,-0.9536932415787164,1.9531383342921713,Digital Beginner
+UMKM0095,Sumatera Utara,Kuliner,Mikro,1-3 tahun,1,1,0,0,3,0,8.8,0,0,0,31.88,Sedang (25-50),2,-1.3337084555696994,1.2771647357149214,Digital Beginner
+UMKM0096,Jawa Tengah,Kuliner,Kecil,> 5 tahun,1,1,0,0,1,1,9.8,0,1,1,47.98,Sedang (25-50),2,-0.4627793592315018,0.7358972056246667,Digital Beginner
+UMKM0097,Jawa Tengah,Kuliner,Menengah,3-5 tahun,1,1,1,2,1,1,69.7,1,1,1,85.64,Sangat Tinggi (75-100),1,3.480616875437582,-0.30001798756398435,Digital Champion
+UMKM0098,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,1,0,0,4,1,3.9,0,0,1,48.39,Sedang (25-50),2,-0.7323402630183186,1.80937644899258,Digital Beginner
+UMKM0099,Jawa Timur,Jasa,Mikro,> 5 tahun,1,1,0,0,3,1,4.7,1,0,0,46.47,Sedang (25-50),2,-0.898171475435571,1.295728496610109,Digital Beginner
+UMKM0100,Jawa Timur,Fashion,Mikro,1-3 tahun,1,1,0,0,3,1,8.5,0,0,0,41.85,Sedang (25-50),2,-1.1196796289857396,1.1353210105272251,Digital Beginner
+UMKM0101,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,1,1,1,2,1,43.3,1,0,0,71.66,Tinggi (50-75),3,1.5740730194632724,0.03905754166455669,Digital Adopter
+UMKM0102,DKI Jakarta,Pertanian,Kecil,3-5 tahun,1,1,0,0,1,1,0.4,0,0,0,37.04,Sedang (25-50),2,-1.521867493133778,0.35227171604888263,Digital Beginner
+UMKM0103,Jawa Barat,Elektronik,Menengah,1-3 tahun,1,0,0,0,0,1,5.4,1,0,1,30.54,Sedang (25-50),0,-1.220310692319045,-1.1537757914441351,Digital Laggard
+UMKM0104,Jawa Tengah,Elektronik,Mikro,3-5 tahun,1,1,0,0,4,0,0.2,0,0,0,33.02,Sedang (25-50),2,-1.4414495985021374,1.7495718010056638,Digital Beginner
+UMKM0105,Bali,Pertanian,Mikro,> 5 tahun,1,1,1,2,2,0,13.1,0,0,0,56.98,Tinggi (50-75),3,0.8357796538224374,0.043217949848838116,Digital Adopter
+UMKM0106,Jawa Barat,Kuliner,Mikro,1-3 tahun,1,1,0,0,4,0,3.3,0,0,0,33.33,Sedang (25-50),2,-1.3657666947456142,1.729750813182749,Digital Beginner
+UMKM0107,Jawa Barat,Fashion,Kecil,> 5 tahun,0,1,1,2,4,1,25.6,1,1,1,77.23,Sangat Tinggi (75-100),1,2.911622593705961,1.518278962352317,Digital Champion
+UMKM0108,Sumatera Utara,Jasa,Mikro,> 5 tahun,1,1,0,0,1,0,8.0,1,0,0,32.8,Sedang (25-50),2,-1.2433945430393738,0.5835510031793487,Digital Beginner
+UMKM0109,Jawa Barat,Kerajinan,Mikro,1-3 tahun,1,0,1,1,0,0,39.2,0,0,0,37.25,Sedang (25-50),3,0.3039063783227713,-2.1819091232154495,Digital Adopter
+UMKM0110,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,0,1,2,0,1,43.1,0,0,0,50.98,Tinggi (50-75),3,1.1551116563761996,-2.5471925603501986,Digital Adopter
+UMKM0111,Jawa Barat,Jasa,Mikro,< 1 tahun,1,0,0,0,0,1,4.0,1,0,1,30.4,Sedang (25-50),0,-1.2544900682090876,-1.1448243775886253,Digital Laggard
+UMKM0112,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,1,2.3,1,0,1,30.23,Sedang (25-50),0,-1.2959935960755682,-1.1339548036212204,Digital Laggard
+UMKM0113,Bali,Kuliner,Kecil,1-3 tahun,1,0,1,1,0,1,22.3,1,0,1,55.56,Tinggi (50-75),3,0.8243713566762466,-1.8542800228795309,Digital Adopter
+UMKM0114,Sumatera Utara,Fashion,Mikro,> 5 tahun,1,0,1,1,0,1,46.1,0,0,0,47.94,Sedang (25-50),3,0.6937148523412365,-2.369788691088625,Digital Adopter
+UMKM0115,DKI Jakarta,Fashion,Mikro,3-5 tahun,1,1,0,0,5,0,8.3,0,1,0,40.83,Sedang (25-50),2,-0.7093067253196704,2.3317052851495337,Digital Beginner
+UMKM0116,Sulawesi Selatan,Fashion,Kecil,1-3 tahun,1,1,1,3,1,1,24.8,0,0,0,69.48,Tinggi (50-75),3,1.7751950028711359,-0.7893574589449337,Digital Adopter
+UMKM0117,Sumatera Utara,Kuliner,Kecil,1-3 tahun,1,1,0,0,2,1,9.4,0,0,1,44.94,Sedang (25-50),2,-0.8024999042345137,0.9393705627749988,Digital Beginner
+UMKM0118,Jawa Timur,Elektronik,Mikro,3-5 tahun,1,1,0,0,4,1,3.4,0,0,0,43.34,Sedang (25-50),2,-1.1419723321930706,1.585349541179193,Digital Beginner
+UMKM0119,Bali,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,0,3.0,0,0,0,10.3,Rendah (0-25),0,-2.2119627811566804,-1.3580032579148105,Digital Laggard
+UMKM0120,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,1,0,0,4,1,2.3,0,0,0,43.23,Sedang (25-50),2,-1.1688275561066754,1.5923827949228078,Digital Beginner
+UMKM0121,Sumatera Utara,Elektronik,Mikro,> 5 tahun,1,1,0,0,2,0,8.3,0,0,0,29.83,Sedang (25-50),2,-1.448133255922539,0.8629418604849927,Digital Beginner
+UMKM0122,Bali,Pertanian,Mikro,3-5 tahun,1,0,0,0,0,1,6.8,1,0,0,25.68,Sedang (25-50),0,-1.5835564656430248,-1.3899510466328573,Digital Laggard
+UMKM0123,Jawa Barat,Jasa,Mikro,> 5 tahun,1,1,0,0,3,1,2.4,1,0,0,46.24,Sedang (25-50),2,-0.9543233072549268,1.3104343908013039,Digital Beginner
+UMKM0124,Jawa Timur,Jasa,Mikro,1-3 tahun,1,1,1,2,5,0,42.0,0,0,0,65.87,Tinggi (50-75),3,1.8479932687289347,1.1106946186522155,Digital Adopter
+UMKM0125,Jawa Barat,Kerajinan,Kecil,> 5 tahun,1,0,1,1,0,1,38.3,1,0,0,52.16,Tinggi (50-75),3,0.817567646205569,-2.1838057368471415,Digital Adopter
+UMKM0126,Jawa Tengah,Fashion,Mikro,3-5 tahun,1,0,0,0,0,1,5.3,0,0,0,20.53,Rendah (0-25),0,-1.9344579707769265,-1.5164710374055965,Digital Laggard
+UMKM0127,Sumatera Utara,Kuliner,Kecil,3-5 tahun,1,1,1,2,1,1,54.3,0,0,1,74.1,Tinggi (50-75),3,2.3581901059688604,-0.5541672249008709,Digital Adopter
+UMKM0128,Sulawesi Selatan,Fashion,Mikro,1-3 tahun,1,1,1,1,5,0,23.0,0,0,0,60.63,Tinggi (50-75),3,0.8494919864218726,1.428763562786087,Digital Adopter
+UMKM0129,Jawa Timur,Fashion,Menengah,> 5 tahun,1,1,1,1,3,1,89.0,1,1,1,88.23,Sangat Tinggi (75-100),1,3.6216014229066227,0.6080054664508018,Digital Champion
+UMKM0130,Jawa Tengah,Kuliner,Kecil,1-3 tahun,1,1,0,0,2,1,4.4,1,1,1,54.44,Tinggi (50-75),2,-0.17811546916355755,1.3239546877207438,Digital Beginner
+UMKM0131,Jawa Barat,Kerajinan,Kecil,1-3 tahun,1,1,1,2,3,1,44.8,1,0,1,82.15,Sangat Tinggi (75-100),3,2.644975132750933,0.47752492080752396,Digital Adopter
+UMKM0132,Jawa Barat,Fashion,Kecil,< 1 tahun,1,1,0,0,1,1,9.3,0,1,1,47.93,Sedang (25-50),2,-0.47498627919223135,0.7390941391444915,Digital Beginner
+UMKM0133,Jawa Timur,Kuliner,Menengah,3-5 tahun,1,1,1,1,1,1,52.7,1,0,1,75.6,Sangat Tinggi (75-100),3,2.0987703835469,-0.21124077592469365,Digital Adopter
+UMKM0134,Jawa Barat,Kuliner,Mikro,3-5 tahun,1,1,0,0,1,1,0.6,0,0,0,37.06,Sedang (25-50),2,-1.516984725149486,0.3509929426409526,Digital Beginner
+UMKM0135,Bali,Kerajinan,Mikro,> 5 tahun,1,0,1,2,0,0,49.5,0,1,0,46.62,Sedang (25-50),1,1.522180142739678,-2.2278474256890854,Digital Champion
+UMKM0136,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,1,0,0,2,0,4.8,0,0,0,29.48,Sedang (25-50),2,-1.5335816956476458,0.8853203951237675,Digital Beginner
+UMKM0137,Jawa Tengah,Jasa,Kecil,< 1 tahun,1,1,0,0,4,1,4.3,1,0,1,53.43,Tinggi (50-75),2,-0.4082939817980218,1.9429296935089342,Digital Beginner
+UMKM0138,DKI Jakarta,Fashion,Kecil,> 5 tahun,1,0,1,3,0,1,64.1,1,0,1,66.41,Tinggi (50-75),3,2.914146512991915,-2.5147146058979435,Digital Adopter
+UMKM0139,Jawa Barat,Fashion,Mikro,1-3 tahun,1,0,0,0,0,0,9.4,1,0,0,15.94,Rendah (0-25),0,-1.741433460407629,-1.2628132156363558,Digital Laggard
+UMKM0140,Kalimantan Timur,Fashion,Mikro,> 5 tahun,1,0,0,0,0,1,1.1,0,0,0,20.11,Rendah (0-25),0,-2.0369960984470548,-1.489616795839067,Digital Laggard
+UMKM0141,Kalimantan Timur,Jasa,Mikro,> 5 tahun,1,1,0,0,3,0,4.5,1,0,0,36.45,Sedang (25-50),2,-1.1244072219802606,1.44076915531763,Digital Beginner
+UMKM0142,Jawa Barat,Kuliner,Menengah,3-5 tahun,1,1,1,3,5,0,73.0,1,0,1,82.3,Sangat Tinggi (75-100),3,3.8511665245592406,1.079233902707971,Digital Adopter
+UMKM0143,Jawa Tengah,Kerajinan,Mikro,> 5 tahun,1,1,0,0,3,1,8.9,0,0,0,41.89,Sedang (25-50),2,-1.1099140930171558,1.132763463711365,Digital Beginner
+UMKM0144,Jawa Barat,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,9.6,0,0,1,25.96,Sedang (25-50),0,-1.43205330990063,-1.3167408243428789,Digital Laggard
+UMKM0145,Jawa Barat,Kuliner,Mikro,3-5 tahun,1,1,1,1,2,1,44.0,0,0,0,66.73,Tinggi (50-75),3,1.2768819621565806,-0.10152895659541247,Digital Adopter
+UMKM0146,Jawa Timur,Elektronik,Mikro,> 5 tahun,1,0,0,0,0,0,1.0,0,0,0,10.1,Rendah (0-25),0,-2.2607904609995986,-1.3452155238355106,Digital Laggard
+UMKM0147,DKI Jakarta,Jasa,Kecil,3-5 tahun,1,1,1,1,1,1,56.1,0,0,1,70.94,Tinggi (50-75),3,1.8674966940281477,-0.3690907151917175,Digital Adopter
+UMKM0148,Jawa Tengah,Kerajinan,Kecil,1-3 tahun,1,1,1,1,1,1,36.3,1,0,1,73.96,Tinggi (50-75),3,1.6983834088349712,-0.10638135647443497,Digital Adopter
+UMKM0149,Jawa Timur,Jasa,Kecil,3-5 tahun,1,1,1,3,1,1,51.5,1,0,1,82.15,Sangat Tinggi (75-100),3,3.1387504232398284,-0.59673907623816,Digital Adopter
+UMKM0150,Jawa Barat,Jasa,Mikro,> 5 tahun,1,1,0,0,1,0,8.9,1,0,0,32.89,Sedang (25-50),2,-1.2214220871100605,0.5777965228436638,Digital Beginner
+UMKM0151,Bali,Kerajinan,Mikro,1-3 tahun,1,1,0,0,2,1,9.8,0,0,1,44.98,Sedang (25-50),2,-0.7927343682659301,0.9368130159591388,Digital Beginner
+UMKM0152,Jawa Barat,Jasa,Mikro,1-3 tahun,1,1,1,2,2,1,28.2,0,0,0,68.49,Tinggi (50-75),3,1.4257816151968672,-0.19709132774946694,Digital Adopter
+UMKM0153,Jawa Timur,Kerajinan,Kecil,> 5 tahun,1,1,1,1,1,1,41.6,1,0,0,69.49,Tinggi (50-75),3,1.430351611204682,-0.36749269311779176,Digital Adopter
+UMKM0154,Jawa Tengah,Kerajinan,Mikro,> 5 tahun,1,0,1,1,0,1,34.4,0,0,0,46.77,Sedang (25-50),3,0.4080729252601656,-2.294980446724721,Digital Adopter
+UMKM0155,Kalimantan Timur,Kerajinan,Mikro,< 1 tahun,1,0,1,2,0,1,41.5,0,0,0,50.82,Tinggi (50-75),3,1.116049512501865,-2.5369623730867588,Digital Adopter
+UMKM0156,Jawa Barat,Jasa,Mikro,1-3 tahun,1,1,0,0,1,1,4.4,0,0,0,37.44,Sedang (25-50),2,-1.4242121334479416,0.32669624789028295,Digital Beginner
+UMKM0157,DKI Jakarta,Kuliner,Menengah,< 1 tahun,1,1,1,3,1,1,47.8,0,0,1,76.78,Sangat Tinggi (75-100),3,2.734138470278716,-0.7091925595236696,Digital Adopter
+UMKM0158,Sumatera Utara,Elektronik,Mikro,1-3 tahun,1,0,0,0,0,1,0.7,0,0,0,20.07,Rendah (0-25),0,-2.0467616344156383,-1.4870592490232069,Digital Laggard
+UMKM0159,Jawa Barat,Elektronik,Kecil,3-5 tahun,0,1,0,0,2,0,2.5,1,1,1,34.25,Sedang (25-50),2,-0.2448523259463347,1.7639329076141501,Digital Beginner
+UMKM0160,Sumatera Utara,Kuliner,Mikro,> 5 tahun,1,1,1,2,1,1,21.8,0,0,0,65.85,Tinggi (50-75),3,1.167315159307419,-0.5735903874454608,Digital Adopter
+UMKM0161,Jawa Barat,Jasa,Mikro,3-5 tahun,1,0,1,1,0,1,31.9,0,1,0,51.52,Tinggi (50-75),1,0.7792112148830563,-2.062491780710315,Digital Champion
+UMKM0162,DKI Jakarta,Kuliner,Mikro,3-5 tahun,1,1,0,0,3,0,6.0,1,0,0,36.6,Sedang (25-50),2,-1.087786462098072,1.4311783547581554,Digital Beginner
+UMKM0163,DKI Jakarta,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,1,6.1,0,0,0,39.61,Sedang (25-50),2,-1.2804907251893511,0.7332464826726313,Digital Beginner
+UMKM0164,Jawa Tengah,Kerajinan,Mikro,> 5 tahun,1,1,0,0,1,1,3.9,1,0,0,42.39,Sedang (25-50),2,-1.1221383081569583,0.46600397274232214,Digital Beginner
+UMKM0165,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,1,0,0,2,1,4.2,0,0,0,39.42,Sedang (25-50),2,-1.3268770210401233,0.7453948300479661,Digital Beginner
+UMKM0166,Sulawesi Selatan,Jasa,Mikro,> 5 tahun,1,0,0,0,0,1,8.3,0,1,0,25.83,Sedang (25-50),0,-1.4290435615860109,-1.3191486401092651,Digital Laggard
+UMKM0167,Jawa Barat,Jasa,Menengah,3-5 tahun,1,1,1,1,4,1,31.3,1,0,1,79.46,Sangat Tinggi (75-100),3,1.8829678504040064,1.1778474049730745,Digital Adopter
+UMKM0168,Jawa Timur,Fashion,Mikro,< 1 tahun,1,1,1,1,4,1,48.9,1,0,0,76.22,Sangat Tinggi (75-100),3,1.915226283807663,0.8380915037420236,Digital Adopter
+UMKM0169,Jawa Timur,Kuliner,Kecil,3-5 tahun,1,1,1,1,3,1,30.1,1,1,0,77.34,Sangat Tinggi (75-100),1,1.7862011023186615,0.7573803937529698,Digital Champion
+UMKM0170,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,0,6.5,1,0,0,15.65,Rendah (0-25),0,-1.8122335961798601,-1.244271001221371,Digital Laggard
+UMKM0171,DKI Jakarta,Kerajinan,Kecil,3-5 tahun,1,1,1,2,2,0,54.7,1,0,0,66.14,Tinggi (50-75),3,2.1656761398068474,-0.08665612766838422,Digital Adopter
+UMKM0172,Jawa Timur,Pertanian,Mikro,< 1 tahun,0,1,1,2,4,1,19.5,0,0,0,61.62,Tinggi (50-75),3,1.6188193862927867,0.9774429202134739,Digital Adopter
+UMKM0173,Jawa Tengah,Kerajinan,Mikro,1-3 tahun,1,1,0,0,1,1,8.5,0,0,0,37.85,Sedang (25-50),2,-1.3241153897699594,0.3004813930277183,Digital Beginner
+UMKM0174,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,1,0,0,5,0,9.4,0,0,0,35.94,Sedang (25-50),2,-1.114624390832604,2.108168032990638,Digital Beginner
+UMKM0175,DKI Jakarta,Kerajinan,Mikro,1-3 tahun,1,1,0,0,3,1,10.0,0,0,0,42.0,Sedang (25-50),2,-1.083058869103551,1.1257302099677502,Digital Beginner
+UMKM0176,Jawa Timur,Fashion,Mikro,> 5 tahun,0,0,0,0,0,0,2.8,0,0,0,0.28,Rendah (0-25),0,-2.0158431315125784,-1.0726564972884003,Digital Laggard
+UMKM0177,DKI Jakarta,Jasa,Kecil,1-3 tahun,1,1,1,2,1,1,33.8,0,0,1,72.05,Tinggi (50-75),3,1.85770638757895,-0.4230929505880476,Digital Adopter
+UMKM0178,Jawa Barat,Kuliner,Kecil,3-5 tahun,1,1,0,0,3,1,4.5,1,1,0,51.45,Tinggi (50-75),2,-0.47088135399332404,1.5135112684333198,Digital Beginner
+UMKM0179,Bali,Jasa,Kecil,3-5 tahun,1,1,1,2,2,1,53.0,0,1,0,75.97,Sangat Tinggi (75-100),1,2.46341773467559,-0.1391552319175038,Digital Champion
+UMKM0180,Jawa Timur,Fashion,Kecil,3-5 tahun,1,1,1,1,1,1,36.5,0,0,1,68.98,Tinggi (50-75),3,1.38898543156755,-0.24377092121457916,Digital Adopter
+UMKM0181,Jawa Barat,Pertanian,Mikro,1-3 tahun,1,1,0,0,1,1,8.6,1,0,0,42.86,Sedang (25-50),2,-1.0073932605261007,0.43595279765596745,Digital Beginner
+UMKM0182,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,1,9.1,0,0,0,20.91,Rendah (0-25),0,-1.841685379075382,-1.540767732156266,Digital Laggard
+UMKM0183,Bali,Kerajinan,Mikro,< 1 tahun,1,1,0,0,2,1,4.5,1,0,0,44.45,Sedang (25-50),2,-1.0052721238119728,0.8795874612682855,Digital Beginner
+UMKM0184,Sulawesi Selatan,Elektronik,Mikro,1-3 tahun,1,0,1,2,0,1,22.2,1,0,0,53.89,Tinggi (50-75),3,0.959143147269418,-2.2774499478893007,Digital Adopter
+UMKM0185,Jawa Barat,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,1.4,0,0,0,20.14,Rendah (0-25),0,-2.029671946470617,-1.4915349559509619,Digital Laggard
+UMKM0186,DKI Jakarta,Elektronik,Mikro,> 5 tahun,1,0,0,0,0,0,6.8,0,0,0,10.68,Rendah (0-25),0,-2.1191901894551357,-1.3822999526654802,Digital Laggard
+UMKM0187,Sumatera Utara,Kerajinan,Mikro,> 5 tahun,1,0,0,0,0,1,3.1,0,0,0,20.31,Rendah (0-25),0,-1.9881684186041364,-1.5024045299183666,Digital Laggard
+UMKM0188,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,1,1,2,3,0,49.7,0,0,0,62.64,Tinggi (50-75),3,1.8315440753399492,0.2266222249474043,Digital Adopter
+UMKM0189,Jawa Tengah,Kuliner,Kecil,> 5 tahun,1,1,0,0,2,1,6.7,0,1,0,44.67,Sedang (25-50),2,-0.8336695318099373,0.9459141608641225,Digital Beginner
+UMKM0190,Jawa Barat,Kerajinan,Kecil,3-5 tahun,1,1,0,0,2,1,6.5,1,0,1,49.65,Sedang (25-50),2,-0.5590192947550321,1.0940235685221977,Digital Beginner
+UMKM0191,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,1,2,3,0,17.5,0,0,0,59.42,Tinggi (50-75),3,1.0454184298689675,0.43250474362413155,Digital Adopter
+UMKM0192,Bali,Fashion,Menengah,> 5 tahun,1,1,1,1,1,1,89.1,1,0,1,79.24,Sangat Tinggi (75-100),3,2.9874341566880096,-0.4439775361679505,Digital Adopter
+UMKM0193,Bali,Kuliner,Menengah,3-5 tahun,1,1,1,1,5,1,62.5,1,1,0,84.58,Sangat Tinggi (75-100),1,2.781645276558155,1.3850587191678194,Digital Champion
+UMKM0194,DKI Jakarta,Kerajinan,Mikro,3-5 tahun,1,0,0,0,0,0,6.3,0,0,0,10.63,Rendah (0-25),0,-2.1313971094158655,-1.3791030191456553,Digital Laggard
+UMKM0195,Jawa Barat,Kuliner,Mikro,< 1 tahun,1,1,0,0,2,0,9.9,0,0,0,29.99,Sedang (25-50),2,-1.4090711120482047,0.8527116732215528,Digital Beginner
+UMKM0196,Jawa Barat,Elektronik,Mikro,1-3 tahun,1,0,0,0,0,0,5.4,1,0,1,20.54,Rendah (0-25),0,-1.4416636708794428,-1.010013906144544,Digital Laggard
+UMKM0197,Sumatera Utara,Pertanian,Menengah,3-5 tahun,1,1,1,2,4,1,40.6,1,1,1,88.73,Sangat Tinggi (75-100),1,3.076827774899454,1.138302969539088,Digital Champion
+UMKM0198,Bali,Pertanian,Kecil,> 5 tahun,1,0,0,0,0,0,0.6,1,0,0,15.06,Rendah (0-25),0,-1.9562752517164685,-1.2065471856874366,Digital Laggard
+UMKM0199,Sulawesi Selatan,Kerajinan,Mikro,3-5 tahun,1,1,0,0,1,1,6.3,1,0,1,47.63,Sedang (25-50),2,-0.6661199431314341,0.6778825331803744,Digital Beginner
+UMKM0200,Sumatera Utara,Kuliner,Mikro,1-3 tahun,1,1,0,0,3,1,7.6,1,0,0,46.76,Sedang (25-50),2,-0.8273713396633396,1.277186282195124,Digital Beginner
+UMKM0201,DKI Jakarta,Jasa,Mikro,> 5 tahun,1,1,0,0,2,1,7.8,0,0,0,39.78,Sedang (25-50),2,-1.2389871973228708,0.7223769087052264,Digital Beginner
+UMKM0202,Jawa Timur,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,1,7.7,0,0,0,20.77,Rendah (0-25),0,-1.8758647549654246,-1.5318163183007563,Digital Laggard
+UMKM0203,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,0,1,2,0,0,26.7,0,1,0,44.34,Sedang (25-50),1,0.9655445925304112,-2.0820672571850674,Digital Champion
+UMKM0204,Bali,Kuliner,Kecil,< 1 tahun,0,1,1,2,4,0,61.0,1,0,1,65.77,Tinggi (50-75),3,3.1223466589386755,1.21919395603302,Digital Adopter
+UMKM0205,DKI Jakarta,Fashion,Kecil,> 5 tahun,1,1,0,0,1,0,10.0,0,0,0,28.0,Sedang (25-50),2,-1.5088476084481688,0.4346524777678346,Digital Beginner
+UMKM0206,Jawa Timur,Jasa,Kecil,> 5 tahun,1,0,1,3,0,1,36.0,0,0,1,58.6,Tinggi (50-75),3,1.9138368659472023,-2.4711577334159953,Digital Adopter
+UMKM0207,Jawa Timur,Kerajinan,Kecil,1-3 tahun,1,1,1,2,4,1,48.6,1,0,1,84.53,Sangat Tinggi (75-100),3,2.8399656048445876,0.8706480348066075,Digital Adopter
+UMKM0208,DKI Jakarta,Fashion,Kecil,> 5 tahun,1,1,0,0,3,0,2.9,1,0,0,36.29,Sedang (25-50),2,-1.1634693658545952,1.45099934258107,Digital Beginner
+UMKM0209,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,1,6.9,0,0,0,20.69,Rendah (0-25),0,-1.895395826902592,-1.5267012246690363,Digital Laggard
+UMKM0210,Jawa Timur,Pertanian,Mikro,> 5 tahun,1,1,0,0,1,0,3.4,0,0,0,27.34,Sedang (25-50),2,-1.6699789519297987,0.47685200022952406,Digital Beginner
+UMKM0211,Jawa Tengah,Fashion,Mikro,> 5 tahun,1,0,0,0,0,0,9.7,0,0,0,10.97,Rendah (0-25),0,-2.0483900536829047,-1.400842167080465,Digital Laggard
+UMKM0212,DKI Jakarta,Fashion,Kecil,> 5 tahun,1,1,0,0,2,0,1.0,1,1,0,39.1,Sedang (25-50),2,-0.8799006526709389,1.2622318796219325,Digital Beginner
+UMKM0213,DKI Jakarta,Kuliner,Mikro,< 1 tahun,1,1,0,0,5,1,5.0,0,0,0,45.5,Sedang (25-50),2,-1.000692307926626,1.992539162665506,Digital Beginner
+UMKM0214,Jawa Barat,Jasa,Kecil,> 5 tahun,1,1,1,1,5,0,48.7,1,0,1,73.2,Tinggi (50-75),3,2.1886335668691066,1.6277758125325106,Digital Adopter
+UMKM0215,DKI Jakarta,Kerajinan,Mikro,> 5 tahun,1,1,0,0,3,1,3.3,1,0,0,46.33,Sedang (25-50),2,-0.9323508513256136,1.3046799104656188,Digital Beginner
+UMKM0216,Jawa Barat,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,1,6.5,0,0,0,20.65,Rendah (0-25),0,-1.9051613628711754,-1.5241436778531763,Digital Laggard
+UMKM0217,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,1,0,0,2,1,1.3,1,0,0,44.13,Sedang (25-50),2,-1.0833964115606416,0.9000478357951651,Digital Beginner
+UMKM0218,Sumatera Utara,Kerajinan,Mikro,1-3 tahun,1,0,0,0,0,0,7.2,0,0,0,10.72,Rendah (0-25),0,-2.109424653486552,-1.38485749948134,Digital Laggard
+UMKM0219,DKI Jakarta,Kerajinan,Kecil,> 5 tahun,1,1,0,0,1,1,9.8,1,1,1,52.98,Tinggi (50-75),2,-0.14849861397978867,0.8720079969568808,Digital Beginner
+UMKM0220,Sulawesi Selatan,Kuliner,Kecil,< 1 tahun,1,1,1,1,2,1,55.1,1,1,1,82.84,Sangat Tinggi (75-100),1,2.6917543691770502,0.4073377503451808,Digital Champion
+UMKM0221,DKI Jakarta,Pertanian,Mikro,> 5 tahun,1,1,1,1,1,1,11.2,0,0,0,61.45,Tinggi (50-75),3,0.3738901323406131,-0.3092299264446485,Digital Adopter
+UMKM0222,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,1,0,0,1,0,3.6,1,0,0,32.36,Sedang (25-50),2,-1.3508154386937936,0.6116840181538084,Digital Beginner
+UMKM0223,Jawa Timur,Fashion,Mikro,< 1 tahun,1,1,0,0,1,0,3.2,0,0,0,27.32,Sedang (25-50),2,-1.6748617199140905,0.4781307736374541,Digital Beginner
+UMKM0224,Jawa Barat,Elektronik,Mikro,1-3 tahun,1,1,1,3,2,0,33.9,1,0,0,67.39,Tinggi (50-75),3,2.1925065932398384,-0.15024916362418916,Digital Adopter
+UMKM0225,Jawa Barat,Fashion,Mikro,< 1 tahun,1,1,0,0,4,1,0.5,0,0,0,43.05,Sedang (25-50),2,-1.2127724679653018,1.6038917555941776,Digital Beginner
+UMKM0226,Jawa Barat,Kerajinan,Kecil,3-5 tahun,1,1,0,0,2,1,9.5,1,0,0,44.95,Sedang (25-50),2,-0.8832029242046775,0.8476181260700358,Digital Beginner
+UMKM0227,Kalimantan Timur,Fashion,Mikro,1-3 tahun,1,1,0,0,2,1,1.4,0,0,1,44.14,Sedang (25-50),2,-0.9978106236061862,0.9905214990921981,Digital Beginner
+UMKM0228,Jawa Barat,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,0,9.0,0,0,0,10.9,Rendah (0-25),0,-2.065479741627926,-1.39636646015271,Digital Laggard
+UMKM0229,Bali,Pertanian,Mikro,1-3 tahun,1,1,0,0,3,1,0.8,0,0,0,41.08,Sedang (25-50),2,-1.3076661963809741,1.1845537867325295,Digital Beginner
+UMKM0230,DKI Jakarta,Fashion,Mikro,1-3 tahun,1,1,0,0,1,1,8.2,1,0,0,42.82,Sedang (25-50),2,-1.0171587964946842,0.4385103444718274,Digital Beginner
+UMKM0231,Sumatera Utara,Elektronik,Mikro,> 5 tahun,1,0,0,0,0,1,1.5,0,0,1,25.15,Sedang (25-50),0,-1.6298054132644484,-1.2649505013217146,Digital Laggard
+UMKM0232,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,1,0,0,5,1,0.4,0,0,0,45.04,Sedang (25-50),2,-1.1129959715653377,2.021950951047896,Digital Beginner
+UMKM0233,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,0,1,1,0,0,39.1,1,0,1,47.24,Sedang (25-50),3,1.0131708887963609,-1.817935103846058,Digital Adopter
+UMKM0234,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,1,0,0,1,1,2.8,1,0,1,47.28,Sedang (25-50),2,-0.7515683828565406,0.7002610678191491,Digital Beginner
+UMKM0235,Jawa Timur,Kerajinan,Mikro,3-5 tahun,1,1,0,0,2,0,7.1,0,0,1,34.71,Sedang (25-50),2,-1.0800047146142677,1.097838342265785,Digital Beginner
+UMKM0236,Sumatera Utara,Fashion,Mikro,3-5 tahun,1,1,0,0,5,0,5.6,0,0,1,40.56,Sedang (25-50),2,-0.8099718333201257,2.3596885690745197,Digital Beginner
+UMKM0237,Jawa Barat,Jasa,Mikro,> 5 tahun,1,0,1,2,0,1,18.6,0,0,0,48.53,Sedang (25-50),3,0.5569725783004522,-2.3905428178787758,Digital Adopter
+UMKM0238,Jawa Timur,Fashion,Menengah,1-3 tahun,1,1,1,3,4,1,38.3,0,0,1,81.83,Sangat Tinggi (75-100),3,2.8088606322011853,0.6038086036022642,Digital Adopter
+UMKM0239,DKI Jakarta,Pertanian,Mikro,< 1 tahun,1,1,0,0,2,0,4.5,1,0,0,34.45,Sedang (25-50),2,-1.2266251023723704,1.023349346567877,Digital Beginner
+UMKM0240,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,5,0,7.3,0,0,1,40.73,Sedang (25-50),2,-0.7684683054536453,2.3488189951071146,Digital Beginner
+UMKM0241,Bali,Jasa,Mikro,> 5 tahun,1,0,1,1,0,1,13.2,0,0,0,44.65,Sedang (25-50),0,-0.10950048107476645,-2.1594304654841427,Digital Laggard
+UMKM0242,Kalimantan Timur,Jasa,Mikro,< 1 tahun,1,1,1,3,1,1,31.4,1,0,0,75.14,Sangat Tinggi (75-100),3,2.2506070916044782,-0.6954461900744089,Digital Adopter
+UMKM0243,Bali,Jasa,Mikro,3-5 tahun,1,1,0,0,4,1,3.0,1,0,0,48.3,Sedang (25-50),2,-0.8374571229099411,1.724017879327267,Digital Beginner
+UMKM0244,Jawa Barat,Jasa,Kecil,> 5 tahun,1,1,0,0,5,1,2.0,0,0,1,50.2,Tinggi (50-75),2,-0.6765086784769806,2.238944605117668,Digital Beginner
+UMKM0245,Jawa Timur,Jasa,Kecil,> 5 tahun,1,1,1,1,1,0,34.5,0,0,0,53.78,Tinggi (50-75),3,0.7213796239502112,-0.3144451431689002,Digital Adopter
+UMKM0246,Bali,Kerajinan,Mikro,3-5 tahun,1,1,1,2,1,0,34.2,0,0,0,57.09,Tinggi (50-75),3,1.2486937957731135,-0.5091124534375284,Digital Adopter
+UMKM0247,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,1,3.9,0,0,1,25.39,Sedang (25-50),0,-1.5712121974529467,-1.2802957822168743,Digital Laggard
+UMKM0248,Kalimantan Timur,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,1,6.7,0,0,0,20.67,Rendah (0-25),0,-1.9002785948868837,-1.5254224512611063,Digital Laggard
+UMKM0249,Kalimantan Timur,Elektronik,Kecil,3-5 tahun,1,1,1,1,1,1,26.0,0,0,0,62.93,Tinggi (50-75),3,0.7352149631782071,-0.4038591586314672,Digital Adopter
+UMKM0250,Sulawesi Selatan,Kerajinan,Mikro,< 1 tahun,0,1,1,3,5,1,48.6,0,0,0,69.86,Tinggi (50-75),3,2.9661183321986946,1.0122157277288917,Digital Adopter
+UMKM0251,Jawa Barat,Jasa,Mikro,< 1 tahun,1,1,1,2,3,0,17.2,1,1,0,69.39,Tinggi (50-75),1,1.7845479125707813,0.7870376934835219,Digital Champion
+UMKM0252,Jawa Barat,Fashion,Mikro,> 5 tahun,1,0,1,2,0,1,33.8,0,0,0,50.05,Tinggi (50-75),3,0.9280629451066301,-2.4877295968814543,Digital Adopter
+UMKM0253,Sulawesi Selatan,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,1.0,1,0,1,30.1,Sedang (25-50),0,-1.3277315879734648,-1.1256427764696755,Digital Laggard
+UMKM0254,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,1,0,0,2,1,2.4,0,0,0,39.24,Sedang (25-50),2,-1.3708219328987497,0.756903790719336,Digital Beginner
+UMKM0255,Jawa Timur,Kerajinan,Mikro,> 5 tahun,1,0,0,0,0,1,0.5,0,0,0,20.05,Rendah (0-25),0,-2.05164440239993,-1.4857804756152768,Digital Laggard
+UMKM0256,Jawa Tengah,Fashion,Mikro,3-5 tahun,1,1,1,3,3,1,41.3,0,0,0,75.13,Sangat Tinggi (75-100),3,2.38245912235943,-0.060016647599650835,Digital Adopter
+UMKM0257,Bali,Kuliner,Kecil,3-5 tahun,0,1,1,1,2,1,27.2,0,0,0,55.05,Tinggi (50-75),3,1.0677318691044615,0.2899559968891863,Digital Adopter
+UMKM0258,DKI Jakarta,Fashion,Mikro,1-3 tahun,1,1,1,1,3,1,48.8,1,0,0,74.21,Tinggi (50-75),3,1.810567019423407,0.4213110816962354,Digital Adopter
+UMKM0259,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,1,0.2,0,0,0,39.02,Sedang (25-50),2,-1.4245323807259596,0.7709702982065658,Digital Beginner
+UMKM0260,Jawa Timur,Fashion,Kecil,1-3 tahun,1,1,1,1,4,1,35.3,1,0,0,74.86,Tinggi (50-75),3,1.58319806087582,0.9250480954812623,Digital Adopter
+UMKM0261,DKI Jakarta,Kuliner,Mikro,> 5 tahun,1,1,0,0,5,0,4.4,1,1,0,45.44,Sedang (25-50),2,-0.49023995576164753,2.492752157936383,Digital Beginner
+UMKM0262,Kalimantan Timur,Jasa,Mikro,3-5 tahun,1,0,0,0,0,1,7.9,1,0,1,30.79,Sedang (25-50),0,-1.1592760925153973,-1.16976045904326,Digital Laggard
+UMKM0263,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,1,1,2,4,0,40.1,0,0,0,63.68,Tinggi (50-75),3,1.6993890924860526,0.7054231572777966,Digital Adopter
+UMKM0264,Jawa Tengah,Fashion,Mikro,1-3 tahun,1,1,0,0,1,0,6.0,1,0,0,32.6,Sedang (25-50),2,-1.292222222882292,0.5963387372586485,Digital Beginner
+UMKM0265,Sulawesi Selatan,Kuliner,Kecil,3-5 tahun,1,0,0,0,0,1,1.9,0,1,0,25.19,Sedang (25-50),0,-1.5852921370833488,-1.2782278910555058,Digital Laggard
+UMKM0266,Sumatera Utara,Kuliner,Mikro,3-5 tahun,1,1,0,0,2,0,7.8,0,0,0,29.78,Sedang (25-50),2,-1.4603401758832686,0.8661387940048176,Digital Beginner
+UMKM0267,DKI Jakarta,Fashion,Mikro,3-5 tahun,1,1,1,2,1,1,21.7,0,0,0,65.84,Tinggi (50-75),3,1.164873775315273,-0.5729510007414957,Digital Adopter
+UMKM0268,DKI Jakarta,Fashion,Mikro,> 5 tahun,1,1,0,0,2,0,5.8,0,0,0,29.58,Sedang (25-50),2,-1.5091678557261867,0.8789265280841175,Digital Beginner
+UMKM0269,Jawa Barat,Kerajinan,Mikro,1-3 tahun,1,0,0,0,0,0,6.8,0,0,0,10.68,Rendah (0-25),0,-2.1191901894551357,-1.3822999526654802,Digital Laggard
+UMKM0270,Jawa Barat,Kuliner,Kecil,3-5 tahun,1,1,1,1,1,1,52.1,0,0,0,65.54,Tinggi (50-75),3,1.372416185128289,-0.57073908836633,Digital Adopter
+UMKM0271,Sumatera Utara,Kerajinan,Mikro,< 1 tahun,1,1,0,0,5,1,3.8,0,0,0,45.38,Sedang (25-50),2,-1.0299889158323767,2.000211803113086,Digital Beginner
+UMKM0272,Sumatera Utara,Jasa,Mikro,1-3 tahun,0,1,0,0,1,1,7.3,1,0,0,32.73,Sedang (25-50),2,-0.8381288347956045,0.7283328120259926,Digital Beginner
+UMKM0273,Sulawesi Selatan,Jasa,Kecil,3-5 tahun,1,1,0,0,5,1,9.3,1,0,1,55.93,Tinggi (50-75),2,-0.18400690179861637,2.3283801670604376,Digital Beginner
+UMKM0274,Bali,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,0,6.3,1,0,0,15.63,Rendah (0-25),0,-1.8171163641641521,-1.242992227813441,Digital Laggard
+UMKM0275,Jawa Tengah,Fashion,Kecil,> 5 tahun,1,1,0,0,2,1,7.9,1,0,0,44.79,Sedang (25-50),2,-0.922265068079012,0.8578483133334758,Digital Beginner
+UMKM0276,Jawa Tengah,Kuliner,Kecil,3-5 tahun,1,1,1,1,2,1,53.6,0,0,0,67.69,Tinggi (50-75),3,1.5112548254025877,-0.16291008017605169,Digital Adopter
+UMKM0277,Sumatera Utara,Kuliner,Kecil,> 5 tahun,1,1,1,1,3,1,27.5,0,0,0,67.08,Tinggi (50-75),3,0.9762714838446162,0.4213896583085643,Digital Adopter
+UMKM0278,DKI Jakarta,Pertanian,Mikro,3-5 tahun,1,1,0,0,3,0,5.3,0,0,1,36.53,Sedang (25-50),2,-1.0217317460807838,1.5267671116869082,Digital Beginner
+UMKM0279,DKI Jakarta,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,1.8,1,0,0,25.18,Sedang (25-50),0,-1.7056256652503199,-1.3579817114346076,Digital Laggard
+UMKM0280,Sumatera Utara,Fashion,Kecil,< 1 tahun,1,1,1,2,2,1,56.0,0,0,0,71.27,Tinggi (50-75),3,2.1044863650134285,-0.37484083145173464,Digital Adopter
+UMKM0281,Bali,Kerajinan,Mikro,1-3 tahun,1,0,0,0,0,0,2.9,0,0,1,15.29,Rendah (0-25),0,-1.8169790159348036,-1.1301400298776332,Digital Laggard
+UMKM0282,Jawa Barat,Kerajinan,Mikro,1-3 tahun,1,1,1,1,5,1,24.4,1,0,0,75.77,Sangat Tinggi (75-100),3,1.4193050861240264,1.4121610549632002,Digital Adopter
+UMKM0283,Jawa Barat,Fashion,Kecil,3-5 tahun,1,1,0,0,1,1,8.1,1,0,1,47.81,Sedang (25-50),2,-0.6221750312728077,0.6663735725090045,Digital Beginner
+UMKM0284,Jawa Timur,Kuliner,Kecil,< 1 tahun,1,1,1,1,2,1,43.8,1,0,1,76.71,Sangat Tinggi (75-100),3,1.9837050886380243,0.2630844494779439,Digital Adopter
+UMKM0285,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,1,0,0,1,0,1.8,0,0,0,27.18,Sedang (25-50),2,-1.709041095804133,0.487082187492964,Digital Beginner
+UMKM0286,Jawa Timur,Fashion,Mikro,1-3 tahun,1,0,1,1,0,0,30.1,1,0,1,46.34,Sedang (25-50),3,0.7934463295032295,-1.7603903004892087,Digital Adopter
+UMKM0287,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,0,9.9,1,0,0,15.99,Rendah (0-25),0,-1.7292265404468994,-1.2660101491561806,Digital Laggard
+UMKM0288,Jawa Tengah,Fashion,Kecil,1-3 tahun,1,1,0,0,1,0,6.2,0,0,1,32.62,Sedang (25-50),2,-1.204195050935691,0.6861730138517165,Digital Beginner
+UMKM0289,Jawa Barat,Kuliner,Menengah,3-5 tahun,1,1,1,1,1,1,82.4,0,1,0,73.57,Tinggi (50-75),1,2.5443284241750366,-0.5479692612524415,Digital Champion
+UMKM0290,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,1,0.2,1,0,0,25.02,Sedang (25-50),0,-1.7446878091246545,-1.3477515241711677,Digital Laggard
+UMKM0291,Jawa Timur,Fashion,Mikro,3-5 tahun,1,1,1,2,2,1,27.9,1,0,0,73.46,Tinggi (50-75),3,1.7327382084721425,-0.05906237630535778,Digital Adopter
+UMKM0292,Jawa Timur,Kuliner,Kecil,1-3 tahun,1,1,1,1,2,1,42.5,0,0,1,71.58,Tinggi (50-75),3,1.6376863514884143,0.13528568529727455,Digital Adopter
+UMKM0293,Sulawesi Selatan,Fashion,Mikro,1-3 tahun,1,1,0,0,5,1,8.1,0,0,0,45.81,Sedang (25-50),2,-0.9250094041701029,1.9727181748425913,Digital Beginner
+UMKM0294,Jawa Barat,Kerajinan,Mikro,3-5 tahun,1,1,0,0,2,1,8.4,1,0,0,44.84,Sedang (25-50),2,-0.9100581481182825,0.8546513798136508,Digital Beginner
+UMKM0295,Jawa Timur,Jasa,Menengah,< 1 tahun,1,1,1,1,1,1,87.1,1,1,1,84.04,Sangat Tinggi (75-100),1,3.37077936627163,-0.21468580367336965,Digital Champion
+UMKM0296,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,1,1,1,4,1,34.4,0,0,0,69.77,Tinggi (50-75),3,1.2469448596947939,0.7946917844847331,Digital Adopter
+UMKM0297,Sumatera Utara,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,0,2.4,0,0,0,29.24,Sedang (25-50),2,-1.5921749114591477,0.9006656760189273,Digital Beginner
+UMKM0298,Jawa Barat,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,0,9.1,0,0,0,10.91,Rendah (0-25),0,-2.06303835763578,-1.3970058468566748,Digital Laggard
+UMKM0299,DKI Jakarta,Kerajinan,Mikro,< 1 tahun,1,1,0,0,1,1,5.0,1,0,0,42.5,Sedang (25-50),2,-1.0952830842433532,0.4589707189987072,Digital Beginner
+UMKM0300,Jawa Timur,Kerajinan,Kecil,1-3 tahun,1,1,1,1,2,1,57.3,0,1,0,73.06,Tinggi (50-75),1,2.0337589225385244,0.02993661019252476,Digital Champion
+UMKM0301,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,0,1,1,0,1,27.3,1,0,0,51.06,Tinggi (50-75),3,0.5490154070695192,-2.113473199410992,Digital Adopter
+UMKM0302,Jawa Tengah,Elektronik,Menengah,3-5 tahun,1,1,0,0,3,1,6.3,0,1,0,46.63,Sedang (25-50),2,-0.741217187386411,1.3658915164297358,Digital Beginner
+UMKM0303,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,0,1,2,0,1,12.5,0,0,0,47.92,Sedang (25-50),3,0.40804815477955203,-2.351540228936911,Digital Adopter
+UMKM0304,DKI Jakarta,Fashion,Mikro,1-3 tahun,1,0,0,0,0,0,3.4,0,1,0,15.34,Rendah (0-25),0,-1.7700243557615583,-1.1440568063153893,Digital Laggard
+UMKM0305,Sumatera Utara,Kerajinan,Mikro,> 5 tahun,1,1,0,0,5,0,6.3,0,0,0,35.63,Sedang (25-50),2,-1.1903072945891269,2.1279890208135526,Digital Beginner
+UMKM0306,Kalimantan Timur,Elektronik,Mikro,1-3 tahun,1,1,0,0,1,0,5.9,0,0,0,27.59,Sedang (25-50),2,-1.6089443521261508,0.4608673326303993,Digital Beginner
+UMKM0307,Jawa Tengah,Kerajinan,Mikro,< 1 tahun,1,1,0,0,2,1,2.9,0,1,0,44.29,Sedang (25-50),2,-0.9264421235114818,0.970210855614792,Digital Beginner
+UMKM0308,Jawa Barat,Jasa,Mikro,3-5 tahun,1,1,0,0,5,0,1.5,0,0,1,40.15,Sedang (25-50),2,-0.9100685769981077,2.385903423937084,Digital Beginner
+UMKM0309,Sumatera Utara,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,0,3.7,0,0,0,10.37,Rendah (0-25),0,-2.194873093211659,-1.3624789648425655,Digital Laggard
+UMKM0310,Jawa Barat,Jasa,Mikro,1-3 tahun,1,0,0,0,0,1,4.2,1,0,0,25.42,Sedang (25-50),0,-1.6470324494388182,-1.3733269923297673,Digital Laggard
+UMKM0311,Jawa Tengah,Kuliner,Kecil,3-5 tahun,1,1,1,1,3,1,38.2,1,0,1,78.15,Sangat Tinggi (75-100),3,1.9492054654699638,0.7163099136497365,Digital Adopter
+UMKM0312,Jawa Timur,Elektronik,Kecil,> 5 tahun,1,1,1,2,3,1,63.0,1,0,0,78.97,Sangat Tinggi (75-100),3,2.6918818701074656,0.13393269935268337,Digital Adopter
+UMKM0313,Jawa Timur,Fashion,Kecil,3-5 tahun,1,1,0,0,2,1,0.4,1,0,0,44.04,Sedang (25-50),2,-1.1053688674899549,0.9058023161308499,Digital Beginner
+UMKM0314,Kalimantan Timur,Jasa,Mikro,> 5 tahun,1,0,0,0,0,0,2.4,1,0,0,15.24,Rendah (0-25),0,-1.9123303398578424,-1.2180561463588062,Digital Laggard
+UMKM0315,Sulawesi Selatan,Fashion,Mikro,> 5 tahun,0,1,0,0,3,1,1.9,0,0,1,36.19,Sedang (25-50),2,-0.6823834056249538,1.6888123615406068,Digital Beginner
+UMKM0316,DKI Jakarta,Kerajinan,Kecil,< 1 tahun,1,0,1,2,0,1,59.8,1,0,0,57.65,Tinggi (50-75),3,1.8771035283162785,-2.5178593485801377,Digital Adopter
+UMKM0317,Jawa Barat,Fashion,Mikro,1-3 tahun,1,1,1,2,2,1,29.9,1,0,0,73.66,Tinggi (50-75),3,1.7815658883150607,-0.0718501103846576,Digital Adopter
+UMKM0318,Jawa Timur,Kerajinan,Mikro,1-3 tahun,1,0,1,1,0,1,34.3,0,0,0,46.76,Sedang (25-50),3,0.4056315412680196,-2.294341060020756,Digital Adopter
+UMKM0319,Jawa Timur,Kuliner,Kecil,1-3 tahun,1,1,0,0,1,0,2.4,1,0,0,32.24,Sedang (25-50),2,-1.3801120465995447,0.6193566586013882,Digital Beginner
+UMKM0320,Jawa Barat,Kuliner,Kecil,1-3 tahun,1,1,0,0,5,1,5.9,0,0,1,50.59,Tinggi (50-75),2,-0.5812947027832902,2.214008523663033,Digital Beginner
+UMKM0321,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,1,0,0,2,0,8.8,0,0,0,29.88,Sedang (25-50),2,-1.4359263359618095,0.8597449269651677,Digital Beginner
+UMKM0322,DKI Jakarta,Kuliner,Mikro,> 5 tahun,1,1,1,2,5,1,10.1,0,0,0,72.68,Tinggi (50-75),3,1.2905447537947885,1.1708970919174566,Digital Adopter
+UMKM0323,DKI Jakarta,Elektronik,Kecil,3-5 tahun,1,1,0,0,1,1,9.6,0,0,1,42.96,Sedang (25-50),2,-0.899835016642332,0.5206719806173155,Digital Beginner
+UMKM0324,Jawa Barat,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,1,7.7,1,0,0,25.77,Sedang (25-50),0,-1.5615840097137115,-1.395705526968542,Digital Laggard
+UMKM0325,Kalimantan Timur,Pertanian,Kecil,> 5 tahun,1,1,1,3,1,0,32.8,1,1,1,75.28,Sangat Tinggi (75-100),1,2.8930315275746845,-0.11690787888183424,Digital Champion
+UMKM0326,Sumatera Utara,Kuliner,Kecil,> 5 tahun,0,1,0,0,4,0,2.3,0,1,0,28.23,Sedang (25-50),2,-0.7570052276121421,2.23671666585616,Digital Beginner
+UMKM0327,Jawa Tengah,Kuliner,Kecil,> 5 tahun,1,0,0,0,0,1,2.0,1,0,1,30.2,Sedang (25-50),0,-1.3033177480520057,-1.1320366435093254,Digital Laggard
+UMKM0328,DKI Jakarta,Jasa,Mikro,< 1 tahun,0,1,1,1,1,1,20.8,1,0,0,57.41,Tinggi (50-75),3,1.1235461584667263,0.04956772852540675,Digital Adopter
+UMKM0329,Jawa Barat,Kerajinan,Mikro,3-5 tahun,1,1,1,2,5,1,41.4,0,0,0,75.81,Sangat Tinggi (75-100),3,2.0546979433364565,0.9707690535764141,Digital Adopter
+UMKM0330,Jawa Barat,Fashion,Kecil,< 1 tahun,1,1,0,0,1,1,9.4,1,0,1,47.94,Sedang (25-50),2,-0.5904370393749109,0.6580615453574596,Digital Beginner
+UMKM0331,Jawa Barat,Fashion,Mikro,1-3 tahun,1,1,1,2,3,1,39.3,0,0,0,71.6,Tinggi (50-75),3,1.7989931187171728,0.14935655686017218,Digital Adopter
+UMKM0332,Sumatera Utara,Kerajinan,Kecil,< 1 tahun,1,1,0,0,5,1,6.4,0,0,1,50.64,Tinggi (50-75),2,-0.5690877828225607,2.210811590143208,Digital Beginner
+UMKM0333,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,1,1,3,4,1,16.8,1,0,0,79.68,Sangat Tinggi (75-100),3,2.2008186699275067,0.6501636949537395,Digital Adopter
+UMKM0334,Jawa Timur,Pertanian,Mikro,3-5 tahun,1,1,0,0,5,0,9.3,0,0,0,35.93,Sedang (25-50),2,-1.11706577482475,2.1088074196946027,Digital Beginner
+UMKM0335,Jawa Timur,Pertanian,Kecil,< 1 tahun,1,1,1,1,2,1,39.4,0,0,0,66.27,Tinggi (50-75),3,1.164578298517869,-0.07211716821302284,Digital Adopter
+UMKM0336,Jawa Timur,Kerajinan,Kecil,1-3 tahun,1,1,1,2,1,0,68.0,1,0,0,65.47,Tinggi (50-75),3,2.3881623303701423,-0.5891143680454813,Digital Adopter
+UMKM0337,Sulawesi Selatan,Kuliner,Menengah,3-5 tahun,1,1,1,1,1,1,60.6,0,0,1,71.39,Tinggi (50-75),3,1.9773589736747135,-0.39786311687014225,Digital Adopter
+UMKM0338,DKI Jakarta,Kerajinan,Kecil,1-3 tahun,1,1,0,0,2,0,3.5,0,0,0,29.35,Sedang (25-50),2,-1.5653196875455426,0.8936324222753124,Digital Beginner
+UMKM0339,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,1,5.4,0,0,0,20.54,Rendah (0-25),0,-1.9320165867847805,-1.5171104241095614,Digital Laggard
+UMKM0340,Jawa Timur,Kuliner,Kecil,1-3 tahun,1,1,1,1,1,1,47.2,0,0,1,70.05,Tinggi (50-75),3,1.650213518727162,-0.3121852985388333,Digital Adopter
+UMKM0341,Jawa Tengah,Kuliner,Kecil,> 5 tahun,1,1,0,0,3,1,0.0,0,1,1,51.0,Tinggi (50-75),2,-0.4975992296775803,1.6333967201127426,Digital Beginner
+UMKM0342,Jawa Tengah,Fashion,Mikro,< 1 tahun,1,0,0,0,0,1,7.3,0,0,1,25.73,Sedang (25-50),0,-1.488205141719986,-1.302034930151684,Digital Laggard
+UMKM0343,Jawa Timur,Jasa,Mikro,< 1 tahun,1,1,0,0,2,1,7.5,0,0,1,44.75,Sedang (25-50),2,-0.848886200085286,0.9515189101503336,Digital Beginner
+UMKM0344,Jawa Tengah,Kerajinan,Mikro,1-3 tahun,1,1,0,0,3,0,7.5,0,0,0,31.75,Sedang (25-50),2,-1.3654464474675962,1.2854767628664663,Digital Beginner
+UMKM0345,Jawa Barat,Kerajinan,Mikro,> 5 tahun,1,0,1,1,0,0,27.8,1,0,0,41.11,Sedang (25-50),3,0.33986934846985106,-1.972908247631226,Digital Adopter
+UMKM0346,DKI Jakarta,Fashion,Kecil,3-5 tahun,1,1,0,0,4,1,5.2,1,0,1,53.52,Tinggi (50-75),2,-0.3863215258687086,1.9371752131732494,Digital Beginner
+UMKM0347,DKI Jakarta,Kuliner,Mikro,3-5 tahun,1,1,1,3,1,1,27.6,0,0,0,69.76,Tinggi (50-75),3,1.8435537546512208,-0.8072602866559535,Digital Adopter
+UMKM0348,Jawa Timur,Fashion,Mikro,1-3 tahun,1,1,0,0,4,1,0.2,0,0,1,48.02,Sedang (25-50),2,-0.8226714707277168,1.8330337570392847,Digital Beginner
+UMKM0349,Jawa Barat,Pertanian,Mikro,3-5 tahun,1,1,0,0,1,1,5.6,1,0,1,47.56,Sedang (25-50),2,-0.6832096310764554,0.6823582401081293,Digital Beginner
+UMKM0350,DKI Jakarta,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,1,1.2,0,0,0,20.12,Rendah (0-25),0,-2.0345547144549085,-1.4902561825430318,Digital Laggard
+UMKM0351,Jawa Tengah,Jasa,Mikro,3-5 tahun,1,0,1,1,0,0,41.2,0,0,0,37.45,Sedang (25-50),3,0.35273405816568937,-2.1946968572947494,Digital Adopter
+UMKM0352,Sulawesi Selatan,Fashion,Mikro,> 5 tahun,1,0,0,0,0,1,7.6,0,0,0,20.76,Rendah (0-25),0,-1.8783061389575706,-1.5311769315967914,Digital Laggard
+UMKM0353,DKI Jakarta,Fashion,Menengah,3-5 tahun,1,1,1,1,1,1,34.6,0,0,1,68.79,Tinggi (50-75),3,1.3425991357167777,-0.23162257383924434,Digital Adopter
+UMKM0354,Jawa Timur,Kerajinan,Mikro,> 5 tahun,0,1,0,0,2,0,9.6,0,0,0,19.96,Rendah (0-25),2,-1.2153928463962493,1.1386978205519285,Digital Beginner
+UMKM0355,Jawa Timur,Fashion,Mikro,> 5 tahun,1,1,0,0,2,1,5.2,1,0,1,49.52,Sedang (25-50),2,-0.5907572866529288,1.1023355956737426,Digital Beginner
+UMKM0356,DKI Jakarta,Elektronik,Mikro,< 1 tahun,1,1,0,0,1,0,9.8,1,0,0,32.98,Sedang (25-50),2,-1.1994496311807474,0.5720420425079789,Digital Beginner
+UMKM0357,Jawa Timur,Elektronik,Kecil,> 5 tahun,1,1,0,0,4,0,0.6,1,0,1,43.06,Sedang (25-50),2,-0.7199781680678182,2.11034888685523,Digital Beginner
+UMKM0358,Jawa Tengah,Fashion,Mikro,< 1 tahun,1,0,0,0,0,0,5.8,1,0,0,15.58,Rendah (0-25),0,-1.8293232841248817,-1.2397952942936161,Digital Laggard
+UMKM0359,Bali,Kuliner,Kecil,3-5 tahun,1,0,0,0,0,0,3.5,0,0,0,10.35,Rendah (0-25),0,-2.1997558611959507,-1.3612001914346354,Digital Laggard
+UMKM0360,Jawa Tengah,Fashion,Kecil,< 1 tahun,1,1,0,0,2,0,8.4,1,0,1,39.84,Sedang (25-50),2,-0.7339859774646579,1.2256371064464544,Digital Beginner
+UMKM0361,Jawa Barat,Elektronik,Kecil,< 1 tahun,1,1,1,2,4,0,20.6,1,1,0,71.73,Tinggi (50-75),1,1.9697728486958523,1.1827183542984654,Digital Champion
+UMKM0362,DKI Jakarta,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,1,2.6,0,0,0,39.26,Sedang (25-50),2,-1.3659391649144579,0.755625017311406,Digital Beginner
+UMKM0363,Jawa Tengah,Kerajinan,Kecil,1-3 tahun,1,1,1,2,3,1,38.0,0,1,0,76.47,Sangat Tinggi (75-100),1,2.199428016245814,0.37417258242699813,Digital Champion
+UMKM0364,Jawa Tengah,Kerajinan,Mikro,3-5 tahun,1,0,0,0,0,1,3.7,1,1,0,30.37,Sedang (25-50),0,-1.2270664799730093,-1.1536260603946615,Digital Laggard
+UMKM0365,Bali,Kerajinan,Menengah,3-5 tahun,1,1,1,1,3,1,50.4,0,0,1,74.37,Tinggi (50-75),3,1.932773567260051,0.5021939444337934,Digital Adopter
+UMKM0366,Jawa Barat,Kuliner,Mikro,< 1 tahun,1,0,1,2,0,0,48.7,1,0,1,51.54,Tinggi (50-75),3,1.782182075841708,-2.0759016978072204,Digital Adopter
+UMKM0367,Kalimantan Timur,Kerajinan,Mikro,< 1 tahun,1,0,0,0,0,1,6.5,1,0,1,30.65,Sedang (25-50),0,-1.19345546840544,-1.16080904518775,Digital Laggard
+UMKM0368,Bali,Elektronik,Mikro,3-5 tahun,1,1,1,3,2,0,49.7,0,0,0,63.97,Tinggi (50-75),3,2.263964518747178,-0.38738305418287206,Digital Adopter
+UMKM0369,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,0,4.3,0,0,0,10.43,Rendah (0-25),0,-2.1802247892587836,-1.3663152850663554,Digital Laggard
+UMKM0370,Jawa Timur,Kuliner,Kecil,> 5 tahun,1,0,1,3,0,0,62.0,0,0,1,51.2,Tinggi (50-75),3,2.3272437253447396,-2.4936363911473016,Digital Adopter
+UMKM0371,Jawa Timur,Pertanian,Mikro,3-5 tahun,1,1,0,0,1,0,5.9,0,0,0,27.59,Sedang (25-50),2,-1.6089443521261508,0.4608673326303993,Digital Beginner
+UMKM0372,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,1,0,0,2,1,7.6,0,1,0,44.76,Sedang (25-50),2,-0.8116970758806242,0.9401596805284375,Digital Beginner
+UMKM0373,Jawa Timur,Jasa,Mikro,3-5 tahun,1,1,0,0,2,1,4.1,1,0,0,44.41,Sedang (25-50),2,-1.0150376597805564,0.8821450080841454,Digital Beginner
+UMKM0374,DKI Jakarta,Fashion,Kecil,1-3 tahun,1,0,0,0,0,1,4.2,0,0,0,20.42,Rendah (0-25),0,-1.9613131946905313,-1.5094377836619814,Digital Laggard
+UMKM0375,Jawa Timur,Kuliner,Kecil,3-5 tahun,1,1,1,3,5,0,30.4,1,1,0,78.04,Sangat Tinggi (75-100),1,2.8458846841176006,1.3408927956791263,Digital Champion
+UMKM0376,Jawa Barat,Elektronik,Kecil,1-3 tahun,1,1,1,1,4,0,69.5,1,0,0,68.28,Tinggi (50-75),3,2.1967984076293217,0.8501397280248265,Digital Adopter
+UMKM0377,Sulawesi Selatan,Fashion,Kecil,1-3 tahun,1,1,0,0,1,0,1.5,0,0,0,27.15,Sedang (25-50),2,-1.7163652477805709,0.48900034760485894,Digital Beginner
+UMKM0378,Jawa Timur,Fashion,Mikro,> 5 tahun,1,1,0,0,3,0,4.8,1,0,1,41.48,Sedang (25-50),2,-0.7196579207898003,1.6660748365389473,Digital Beginner
+UMKM0379,Sumatera Utara,Fashion,Mikro,1-3 tahun,1,0,0,0,0,0,5.3,0,0,1,15.53,Rendah (0-25),0,-1.758385800123302,-1.1454853107727931,Digital Laggard
+UMKM0380,Jawa Barat,Fashion,Kecil,> 5 tahun,1,0,1,1,0,1,52.4,1,0,0,53.57,Tinggi (50-75),3,1.161802789098142,-2.2739592621062052,Digital Adopter
+UMKM0381,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,1,0,0,2,1,0.7,0,0,0,39.07,Sedang (25-50),2,-1.41232546076523,0.7677733646867408,Digital Beginner
+UMKM0382,DKI Jakarta,Fashion,Mikro,> 5 tahun,1,1,0,0,3,1,6.0,0,0,0,41.6,Sedang (25-50),2,-1.180714228789387,1.15130567812635,Digital Beginner
+UMKM0383,DKI Jakarta,Pertanian,Mikro,> 5 tahun,1,1,1,2,2,0,18.8,0,1,0,62.55,Tinggi (50-75),1,1.4071114308012926,0.22327690613811463,Digital Champion
+UMKM0384,Sulawesi Selatan,Kuliner,Mikro,1-3 tahun,1,1,1,2,2,1,30.0,0,0,0,68.67,Tinggi (50-75),3,1.4697265270554936,-0.2086002884208368,Digital Adopter
+UMKM0385,Sumatera Utara,Kerajinan,Mikro,1-3 tahun,1,0,0,0,0,1,8.7,0,1,0,25.87,Sedang (25-50),0,-1.419278025617427,-1.3217061869251252,Digital Laggard
+UMKM0386,Sumatera Utara,Kuliner,Kecil,3-5 tahun,1,1,0,0,1,0,2.1,0,1,0,32.21,Sedang (25-50),2,-1.269544054401157,0.70166802579635,Digital Beginner
+UMKM0387,Jawa Barat,Jasa,Mikro,1-3 tahun,0,1,1,1,4,0,34.9,1,0,0,54.82,Tinggi (50-75),3,1.5530819639752318,1.355435514815194,Digital Adopter
+UMKM0388,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,6.7,0,1,0,25.67,Sedang (25-50),0,-1.4681057054603452,-1.3089184528458253,Digital Laggard
+UMKM0389,Sumatera Utara,Pertanian,Mikro,> 5 tahun,1,1,0,0,5,0,3.5,1,0,1,45.35,Sedang (25-50),2,-0.5469601519034768,2.509226481189999,Digital Beginner
+UMKM0390,Sumatera Utara,Fashion,Kecil,3-5 tahun,1,1,1,1,1,1,56.6,0,1,0,70.99,Tinggi (50-75),1,1.9144513542013935,-0.3830074916294736,Digital Champion
+UMKM0391,Kalimantan Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,3,1,2.5,0,0,1,46.25,Sedang (25-50),2,-0.8687375193004713,1.4009080540983367,Digital Beginner
+UMKM0392,Jawa Barat,Kuliner,Kecil,1-3 tahun,1,1,0,0,5,0,3.1,0,0,1,40.31,Sedang (25-50),2,-0.8710064331237733,2.375673236673644,Digital Beginner
+UMKM0393,Jawa Barat,Kuliner,Kecil,1-3 tahun,1,1,1,2,3,1,31.2,1,0,1,80.79,Sangat Tinggi (75-100),3,2.31294690981909,0.5644815125467627,Digital Adopter
+UMKM0394,Sumatera Utara,Fashion,Mikro,< 1 tahun,1,1,1,2,4,0,41.3,1,0,0,68.8,Tinggi (50-75),3,2.042966445643516,0.833861308162431,Digital Adopter
+UMKM0395,Jawa Barat,Kuliner,Menengah,> 5 tahun,1,1,1,2,4,0,89.8,1,1,1,83.65,Sangat Tinggi (75-100),1,4.056635720474842,0.9674865964879032,Digital Champion
+UMKM0396,Bali,Jasa,Menengah,1-3 tahun,1,1,1,1,2,1,65.7,1,1,1,83.9,Sangat Tinggi (75-100),1,2.9505410723445165,0.33956275972489175,Digital Champion
+UMKM0397,Sulawesi Selatan,Fashion,Kecil,1-3 tahun,1,1,1,2,3,0,38.8,1,0,0,66.55,Tinggi (50-75),3,1.8797139654477586,0.43242616701180264,Digital Adopter
+UMKM0398,Jawa Tengah,Kuliner,Kecil,< 1 tahun,1,1,1,2,1,1,37.7,0,0,1,72.44,Tinggi (50-75),3,1.9529203632726404,-0.44802903204268235,Digital Adopter
+UMKM0399,Sumatera Utara,Kerajinan,Mikro,3-5 tahun,1,1,1,1,2,1,16.4,1,0,0,68.97,Tinggi (50-75),3,0.9173407255760234,0.2110525650311394,Digital Adopter
+UMKM0400,Sumatera Utara,Kerajinan,Mikro,3-5 tahun,1,0,1,2,0,1,49.2,0,0,0,51.59,Tinggi (50-75),3,1.3040360798970998,-2.586195149292063,Digital Adopter
+UMKM0401,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,3,0,5.8,0,0,0,31.58,Sedang (25-50),2,-1.4069499753340766,1.296346336833871,Digital Beginner
+UMKM0402,Bali,Kuliner,Mikro,< 1 tahun,1,0,1,1,0,0,40.1,0,0,0,37.34,Sedang (25-50),3,0.3258788342520844,-2.1876636035511345,Digital Adopter
+UMKM0403,Jawa Tengah,Kuliner,Menengah,1-3 tahun,1,1,1,3,2,1,64.2,1,1,1,90.42,Sangat Tinggi (75-100),1,3.983196960061007,-0.0440173804766798,Digital Champion
+UMKM0404,Sulawesi Selatan,Kerajinan,Mikro,1-3 tahun,1,1,0,0,1,1,4.5,0,0,0,37.45,Sedang (25-50),2,-1.4217707494557958,0.326056861186318,Digital Beginner
+UMKM0405,Jawa Barat,Kerajinan,Kecil,3-5 tahun,0,1,1,2,5,1,22.8,0,1,0,68.95,Tinggi (50-75),1,2.23377582785225,1.5902669661476638,Digital Champion
+UMKM0406,Bali,Fashion,Kecil,3-5 tahun,1,0,1,2,0,1,22.5,1,1,1,63.92,Tinggi (50-75),1,1.7960653378864166,-1.8356402682527027,Digital Champion
+UMKM0407,Jawa Barat,Jasa,Kecil,1-3 tahun,1,1,1,1,1,1,64.2,1,1,1,81.75,Sangat Tinggi (75-100),1,2.8117024320702177,-0.06826624846538665,Digital Champion
+UMKM0408,Jawa Timur,Jasa,Menengah,1-3 tahun,1,0,1,2,0,1,47.5,1,0,1,61.42,Tinggi (50-75),3,1.974238446496355,-2.2119909426592317,Digital Adopter
+UMKM0409,Bali,Fashion,Mikro,> 5 tahun,1,1,0,0,5,1,5.0,0,0,0,45.5,Sedang (25-50),2,-1.000692307926626,1.992539162665506,Digital Beginner
+UMKM0410,Jawa Timur,Jasa,Mikro,3-5 tahun,1,1,0,0,5,0,9.0,0,0,0,35.9,Sedang (25-50),2,-1.1243899268011877,2.110725579806498,Digital Beginner
+UMKM0411,Jawa Barat,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,3.2,0,0,0,20.32,Rendah (0-25),0,-1.9857270346119904,-1.5030439166223317,Digital Laggard
+UMKM0412,Kalimantan Timur,Kuliner,Mikro,< 1 tahun,1,1,1,1,4,1,24.0,0,0,0,68.73,Tinggi (50-75),3,0.9930409245116195,0.8611880016970922,Digital Adopter
+UMKM0413,Kalimantan Timur,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,7.1,0,0,1,25.71,Sedang (25-50),0,-1.4930879097042777,-1.3007561567437542,Digital Laggard
+UMKM0414,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,1,0,0,5,1,7.8,0,0,0,45.78,Sedang (25-50),2,-0.9323335561465406,1.974636334954486,Digital Beginner
+UMKM0415,DKI Jakarta,Fashion,Kecil,3-5 tahun,1,1,1,1,1,1,63.3,0,1,1,76.66,Sangat Tinggi (75-100),1,2.475449230889191,-0.19862255946191587,Digital Champion
+UMKM0416,Jawa Tengah,Elektronik,Mikro,> 5 tahun,1,1,0,0,1,1,4.0,0,0,0,37.4,Sedang (25-50),2,-1.4339776694165252,0.3292537947061429,Digital Beginner
+UMKM0417,Jawa Barat,Kuliner,Mikro,1-3 tahun,1,1,1,3,1,1,31.2,1,0,0,75.12,Sangat Tinggi (75-100),3,2.2457243236201867,-0.6941674166664789,Digital Adopter
+UMKM0418,Jawa Barat,Kuliner,Kecil,< 1 tahun,1,0,1,1,0,1,61.6,1,0,1,59.49,Tinggi (50-75),3,1.783835265589588,-2.1055589975377726,Digital Adopter
+UMKM0419,DKI Jakarta,Fashion,Mikro,< 1 tahun,1,1,1,2,4,0,31.4,1,0,0,67.81,Tinggi (50-75),3,1.8012694304210717,0.897160591854965,Digital Adopter
+UMKM0420,Sumatera Utara,Elektronik,Mikro,1-3 tahun,1,1,0,0,2,0,3.4,0,0,1,34.34,Sedang (25-50),2,-1.1703359223236662,1.1214956503124895,Digital Beginner
+UMKM0421,Sumatera Utara,Kuliner,Kecil,1-3 tahun,1,0,0,0,0,0,6.7,1,1,0,20.67,Rendah (0-25),0,-1.37517793876903,-1.02904577621402,Digital Laggard
+UMKM0422,Sumatera Utara,Fashion,Mikro,< 1 tahun,0,1,0,0,2,1,2.6,1,0,0,34.26,Sedang (25-50),2,-0.8506560020343521,1.1758037958621008,Digital Beginner
+UMKM0423,Jawa Timur,Kuliner,Kecil,> 5 tahun,1,1,1,3,1,1,49.9,0,0,0,71.99,Tinggi (50-75),3,2.387982384899758,-0.9498435216401466,Digital Adopter
+UMKM0424,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,1,0,0,2,0,7.1,0,0,0,29.71,Sedang (25-50),2,-1.4774298638282901,0.8706145009325726,Digital Beginner
+UMKM0425,Jawa Timur,Pertanian,Kecil,1-3 tahun,1,1,0,0,3,1,5.2,0,0,1,46.52,Sedang (25-50),2,-0.8028201515125316,1.383644613091282,Digital Beginner
+UMKM0426,Jawa Tengah,Pertanian,Mikro,> 5 tahun,1,1,0,0,4,0,6.8,0,0,0,33.68,Sedang (25-50),2,-1.2803182550205074,1.7073722785439742,Digital Beginner
+UMKM0427,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,1,2.7,0,0,0,20.27,Rendah (0-25),0,-1.99793395457272,-1.4998469831025067,Digital Laggard
+UMKM0428,Sulawesi Selatan,Pertanian,Mikro,> 5 tahun,1,1,1,2,3,0,11.1,0,0,1,63.78,Tinggi (50-75),3,1.286595003585652,0.7006493340111032,Digital Adopter
+UMKM0429,Jawa Barat,Kerajinan,Kecil,1-3 tahun,1,1,1,1,1,1,38.7,1,0,1,74.2,Tinggi (50-75),3,1.756976624646473,-0.12172663736959477,Digital Adopter
+UMKM0430,Jawa Timur,Jasa,Mikro,> 5 tahun,1,0,0,0,0,1,6.0,0,0,0,20.6,Rendah (0-25),0,-1.9173682828319052,-1.5209467443333513,Digital Laggard
+UMKM0431,Jawa Timur,Fashion,Mikro,3-5 tahun,1,0,0,0,0,1,2.9,1,0,0,25.29,Sedang (25-50),0,-1.678770441336715,-1.3650149651782224,Digital Laggard
+UMKM0432,Sumatera Utara,Fashion,Menengah,> 5 tahun,1,1,1,2,1,0,35.1,1,1,1,72.18,Tinggi (50-75),1,2.4145450355947005,0.0649716973074941,Digital Champion
+UMKM0433,DKI Jakarta,Fashion,Kecil,> 5 tahun,1,0,0,0,0,1,8.1,0,0,0,20.81,Rendah (0-25),0,-1.866099218996841,-1.5343738651166163,Digital Laggard
+UMKM0434,Jawa Timur,Kerajinan,Mikro,1-3 tahun,1,1,1,1,3,1,11.3,1,0,0,70.46,Tinggi (50-75),3,0.8950480223686924,0.6610810956831071,Digital Adopter
+UMKM0435,Jawa Timur,Kuliner,Kecil,> 5 tahun,1,1,1,2,1,0,57.0,0,0,0,59.37,Tinggi (50-75),3,1.80532934598238,-0.6548926219415465,Digital Adopter
+UMKM0436,DKI Jakarta,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,0,6.6,0,0,0,10.66,Rendah (0-25),0,-2.1240729574394277,-1.3810211792575502,Digital Laggard
+UMKM0437,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,1,7.0,0,0,1,44.7,Sedang (25-50),2,-0.8610931200460156,0.9547158436701585,Digital Beginner
+UMKM0438,Sulawesi Selatan,Kerajinan,Mikro,1-3 tahun,1,0,0,0,0,0,7.0,1,0,0,15.7,Rendah (0-25),0,-1.8000266762191306,-1.2474679347411959,Digital Laggard
+UMKM0439,DKI Jakarta,Kuliner,Menengah,3-5 tahun,0,1,1,3,1,1,72.6,1,1,1,79.26,Sangat Tinggi (75-100),1,4.287057752637545,-0.231077685141012,Digital Champion
+UMKM0440,Jawa Timur,Kerajinan,Menengah,1-3 tahun,1,1,1,2,1,1,83.1,0,0,1,76.98,Sangat Tinggi (75-100),3,3.0613086957068814,-0.7383105956427884,Digital Adopter
+UMKM0441,Jawa Timur,Pertanian,Mikro,3-5 tahun,1,1,0,0,4,1,3.9,0,1,1,53.39,Tinggi (50-75),2,-0.30016737359178003,2.025880447407861,Digital Beginner
+UMKM0442,Kalimantan Timur,Kuliner,Mikro,3-5 tahun,1,1,0,0,3,0,2.5,0,0,0,31.25,Sedang (25-50),2,-1.4875156470748916,1.3174460980647158,Digital Beginner
+UMKM0443,Jawa Barat,Kerajinan,Mikro,> 5 tahun,1,1,1,1,5,0,45.9,0,1,0,67.92,Tinggi (50-75),1,1.8407418100498236,1.498848005993385,Digital Champion
+UMKM0444,Jawa Barat,Fashion,Menengah,> 5 tahun,1,1,0,0,1,1,6.9,0,1,1,47.69,Sedang (25-50),2,-0.533579495003733,0.7544394200396514,Digital Beginner
+UMKM0445,Sumatera Utara,Jasa,Menengah,1-3 tahun,1,1,1,1,1,1,44.1,0,0,0,64.74,Tinggi (50-75),3,1.1771054657566165,-0.5195881520491308,Digital Adopter
+UMKM0446,Bali,Kuliner,Mikro,1-3 tahun,0,1,1,2,1,0,14.3,0,0,1,50.1,Tinggi (50-75),3,1.3612859481784936,0.12941732920319726,Digital Adopter
+UMKM0447,Kalimantan Timur,Kerajinan,Kecil,1-3 tahun,1,0,0,0,0,0,8.3,1,0,1,20.83,Rendah (0-25),0,-1.3708635351072116,-1.0285561205595286,Digital Laggard
+UMKM0448,Sumatera Utara,Jasa,Kecil,1-3 tahun,1,1,0,0,5,1,8.6,0,0,0,45.86,Sedang (25-50),2,-0.9128024842093734,1.9695212413227663,Digital Beginner
+UMKM0449,Jawa Barat,Elektronik,Mikro,< 1 tahun,1,1,0,0,3,0,9.1,0,0,0,31.91,Sedang (25-50),2,-1.3263843035932616,1.2752465756030265,Digital Beginner
+UMKM0450,Jawa Timur,Kerajinan,Mikro,1-3 tahun,1,1,1,3,2,1,26.9,1,0,1,81.69,Sangat Tinggi (75-100),3,2.6403878415640456,-0.022030138313018897,Digital Adopter
+UMKM0451,Sumatera Utara,Fashion,Mikro,1-3 tahun,1,1,1,1,4,0,49.3,1,0,0,66.26,Tinggi (50-75),3,1.7036388412158492,0.9792958422257548,Digital Adopter
+UMKM0452,Jawa Tengah,Kerajinan,Kecil,> 5 tahun,1,0,0,0,0,1,1.6,1,0,0,25.16,Sedang (25-50),0,-1.7105084332346119,-1.3567029380266775,Digital Laggard
+UMKM0453,Jawa Tengah,Jasa,Kecil,3-5 tahun,1,1,1,1,1,1,53.2,0,0,1,70.65,Tinggi (50-75),3,1.7966965582559162,-0.3505485007767328,Digital Adopter
+UMKM0454,Bali,Fashion,Mikro,1-3 tahun,1,1,0,0,4,1,7.8,0,1,0,48.78,Sedang (25-50),2,-0.6023785471121121,1.7737205246200143,Digital Beginner
+UMKM0455,Jawa Timur,Kuliner,Menengah,3-5 tahun,1,1,0,0,2,1,0.7,0,1,1,49.07,Sedang (25-50),2,-0.5827274221246691,1.2115012044352342,Digital Beginner
+UMKM0456,Jawa Tengah,Elektronik,Mikro,< 1 tahun,1,1,0,0,1,0,9.9,0,0,0,27.99,Sedang (25-50),2,-1.5112889924403148,0.4352918644717996,Digital Beginner
+UMKM0457,Jawa Timur,Kerajinan,Mikro,1-3 tahun,1,1,0,0,1,1,6.7,0,0,0,37.67,Sedang (25-50),2,-1.3680603016285857,0.3119903536990882,Digital Beginner
+UMKM0458,Jawa Tengah,Kerajinan,Kecil,3-5 tahun,1,1,0,0,2,1,7.5,1,0,1,49.75,Sedang (25-50),2,-0.534605454833573,1.087629701482548,Digital Beginner
+UMKM0459,Jawa Timur,Kuliner,Kecil,3-5 tahun,1,1,0,0,2,1,2.5,1,0,0,44.25,Sedang (25-50),2,-1.0540998036548908,0.8923751953475852,Digital Beginner
+UMKM0460,Jawa Timur,Kerajinan,Mikro,1-3 tahun,1,0,0,0,0,1,6.7,0,0,0,20.67,Rendah (0-25),0,-1.9002785948868837,-1.5254224512611063,Digital Laggard
+UMKM0461,Jawa Timur,Fashion,Mikro,> 5 tahun,1,0,1,1,0,0,15.8,0,0,0,34.91,Sedang (25-50),0,-0.26737747583937077,-2.032292634487641,Digital Laggard
+UMKM0462,DKI Jakarta,Kerajinan,Mikro,> 5 tahun,1,1,1,1,4,1,19.2,0,0,0,68.25,Tinggi (50-75),3,0.8758544928886159,0.8918785634874119,Digital Adopter
+UMKM0463,Sumatera Utara,Kuliner,Mikro,3-5 tahun,0,1,0,0,5,1,1.7,0,0,1,40.17,Sedang (25-50),2,-0.48283041282502526,2.524930752448043,Digital Beginner
+UMKM0464,Jawa Tengah,Kerajinan,Mikro,3-5 tahun,1,1,1,1,4,0,12.7,0,0,0,57.6,Tinggi (50-75),3,0.4958115548387342,1.077200584544728,Digital Adopter
+UMKM0465,Kalimantan Timur,Pertanian,Mikro,3-5 tahun,1,1,1,2,1,0,28.6,1,0,0,61.53,Tinggi (50-75),3,1.426257037464656,-0.33719600668327465,Digital Adopter
+UMKM0466,Jawa Barat,Kuliner,Kecil,1-3 tahun,1,1,0,0,1,1,0.7,1,0,0,42.07,Sedang (25-50),2,-1.200262595905627,0.4864643472692019,Digital Beginner
+UMKM0467,Jawa Barat,Pertanian,Mikro,1-3 tahun,1,0,0,0,0,1,4.8,0,0,0,20.48,Rendah (0-25),0,-1.9466648907376558,-1.5132741038857715,Digital Laggard
+UMKM0468,Sulawesi Selatan,Fashion,Kecil,< 1 tahun,1,1,0,0,1,0,1.7,0,0,1,32.17,Sedang (25-50),2,-1.3140573305822567,0.714945415530141,Digital Beginner
+UMKM0469,Jawa Barat,Elektronik,Kecil,3-5 tahun,1,0,1,1,0,1,38.6,1,0,1,57.19,Tinggi (50-75),3,1.2223169473960294,-1.9585000556258243,Digital Adopter
+UMKM0470,Kalimantan Timur,Jasa,Mikro,3-5 tahun,1,1,0,0,3,1,2.4,0,0,0,41.24,Sedang (25-50),2,-1.2686040525066395,1.1743235994690897,Digital Beginner
+UMKM0471,Jawa Timur,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,3.4,0,0,1,25.34,Sedang (25-50),0,-1.5834191174136762,-1.2770988486970494,Digital Laggard
+UMKM0472,Kalimantan Timur,Kerajinan,Kecil,> 5 tahun,0,0,0,0,0,0,5.7,0,1,1,10.57,Rendah (0-25),0,-1.1154449570997864,-0.6474708719548918,Digital Laggard
+UMKM0473,Jawa Timur,Elektronik,Mikro,> 5 tahun,1,1,0,0,1,1,2.8,0,0,0,37.28,Sedang (25-50),2,-1.463274277322276,0.33692643515372284,Digital Beginner
+UMKM0474,Bali,Fashion,Kecil,> 5 tahun,1,0,1,1,0,0,41.7,1,0,1,47.5,Sedang (25-50),3,1.0766468725921545,-1.8345591581491478,Digital Adopter
+UMKM0475,Jawa Tengah,Kuliner,Kecil,3-5 tahun,1,1,0,0,3,1,8.2,1,1,0,51.82,Tinggi (50-75),2,-0.38055014628392553,1.4898539603866152,Digital Beginner
+UMKM0476,Kalimantan Timur,Kerajinan,Kecil,> 5 tahun,1,0,0,0,0,1,1.8,0,0,1,25.18,Sedang (25-50),0,-1.6224812612880106,-1.2668686614336095,Digital Laggard
+UMKM0477,Jawa Timur,Jasa,Menengah,< 1 tahun,1,1,1,2,1,1,39.1,1,1,1,82.58,Sangat Tinggi (75-100),1,2.7335533738409348,-0.10436565615069698,Digital Champion
+UMKM0478,Jawa Tengah,Jasa,Mikro,> 5 tahun,1,0,1,2,0,0,45.6,0,0,1,46.23,Sedang (25-50),3,1.3922184268334716,-2.19219150131652,Digital Adopter
+UMKM0479,Kalimantan Timur,Jasa,Mikro,< 1 tahun,1,0,1,1,0,1,37.6,0,0,0,47.09,Sedang (25-50),3,0.48619721300883467,-2.3154408212516007,Digital Adopter
+UMKM0480,Jawa Tengah,Fashion,Mikro,> 5 tahun,1,1,1,2,1,0,15.8,0,0,0,55.25,Tinggi (50-75),3,0.7994791412182664,-0.3914652999079699,Digital Adopter
+UMKM0481,DKI Jakarta,Jasa,Mikro,1-3 tahun,1,0,0,0,0,0,3.7,1,0,1,20.37,Rendah (0-25),0,-1.4831671987459232,-0.9991443321771393,Digital Laggard
+UMKM0482,DKI Jakarta,Kuliner,Mikro,> 5 tahun,1,1,0,0,4,1,7.9,0,0,0,43.79,Sedang (25-50),2,-1.0321100525465048,1.5565771395007681,Digital Beginner
+UMKM0483,Jawa Tengah,Fashion,Mikro,> 5 tahun,1,1,1,2,1,0,38.0,1,0,0,62.47,Tinggi (50-75),3,1.655747132726371,-0.3972983568559839,Digital Adopter
+UMKM0484,DKI Jakarta,Kuliner,Menengah,< 1 tahun,1,1,1,2,1,1,89.8,1,0,1,82.65,Sangat Tinggi (75-100),3,3.5391621684323704,-0.6450387134762288,Digital Adopter
+UMKM0485,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,0,1,1,0,0,44.7,1,0,0,42.8,Sedang (25-50),3,0.7524632431425091,-2.0809646006013094,Digital Adopter
+UMKM0486,Bali,Fashion,Mikro,> 5 tahun,1,0,1,1,0,0,22.1,0,0,0,35.54,Sedang (25-50),0,-0.11357028433417869,-2.0725739968374355,Digital Laggard
+UMKM0487,Jawa Timur,Fashion,Mikro,3-5 tahun,1,1,0,0,2,1,9.7,0,0,1,44.97,Sedang (25-50),2,-0.7951757522580761,0.9374524026631038,Digital Beginner
+UMKM0488,Jawa Barat,Kerajinan,Mikro,> 5 tahun,1,0,0,0,0,0,5.1,1,0,0,15.51,Rendah (0-25),0,-1.846412972069903,-1.2353195873658611,Digital Laggard
+UMKM0489,Kalimantan Timur,Fashion,Mikro,3-5 tahun,1,0,0,0,0,1,9.9,1,0,0,25.99,Sedang (25-50),0,-1.5078735618865016,-1.4097720344557718,Digital Laggard
+UMKM0490,Bali,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,3.0,0,0,0,20.3,Rendah (0-25),0,-1.9906098025962822,-1.5017651432144017,Digital Laggard
+UMKM0491,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,1,1,3,4,0,47.2,1,0,0,72.72,Tinggi (50-75),3,2.721646424979464,0.5995520222479732,Digital Adopter
+UMKM0492,DKI Jakarta,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,1.7,0,0,0,20.17,Rendah (0-25),0,-2.0223477944941792,-1.4934531160628568,Digital Laggard
+UMKM0493,Jawa Barat,Kuliner,Kecil,> 5 tahun,1,1,1,1,2,1,45.4,1,0,0,71.87,Tinggi (50-75),3,1.6253420832983363,0.025630420881291856,Digital Adopter
+UMKM0494,Jawa Timur,Kuliner,Kecil,1-3 tahun,1,1,1,2,1,1,52.3,1,0,0,73.9,Tinggi (50-75),3,2.226218022163633,-0.632492540822569,Digital Adopter
+UMKM0495,Jawa Tengah,Kerajinan,Kecil,3-5 tahun,1,0,0,0,0,1,1.0,1,0,0,25.1,Sedang (25-50),0,-1.7251567371874872,-1.3528666178028876,Digital Laggard
+UMKM0496,Jawa Barat,Kerajinan,Mikro,3-5 tahun,1,1,1,2,5,1,30.6,1,0,0,79.73,Sangat Tinggi (75-100),3,2.105309217436412,1.1759336089368475,Digital Adopter
+UMKM0497,Jawa Tengah,Kerajinan,Kecil,3-5 tahun,1,1,1,1,3,0,69.5,0,0,0,61.28,Tinggi (50-75),3,1.7802997819854989,0.2966091279428591,Digital Adopter
+UMKM0498,Jawa Timur,Fashion,Kecil,> 5 tahun,1,1,1,1,2,1,25.8,1,1,0,74.91,Tinggi (50-75),1,1.5790037102642773,0.36745421327371125,Digital Champion
+UMKM0499,Kalimantan Timur,Fashion,Mikro,> 5 tahun,1,1,0,0,4,1,3.0,0,0,1,48.3,Sedang (25-50),2,-0.7543127189476316,1.815130929328265,Digital Beginner
+UMKM0500,Kalimantan Timur,Jasa,Kecil,1-3 tahun,1,1,1,3,4,1,26.5,1,0,1,85.65,Sangat Tinggi (75-100),3,2.835058066379682,0.8153670260023475,Digital Adopter
+UMKM0501,DKI Jakarta,Fashion,Mikro,> 5 tahun,1,1,0,0,4,1,3.0,0,0,0,43.3,Sedang (25-50),2,-1.1517378681616541,1.5879070879950528,Digital Beginner
+UMKM0502,Jawa Tengah,Fashion,Kecil,> 5 tahun,1,1,0,0,1,0,7.1,0,1,0,32.71,Sedang (25-50),2,-1.1474748547938618,0.6696986905981005,Digital Beginner
+UMKM0503,Jawa Barat,Kuliner,Menengah,3-5 tahun,1,1,1,2,1,1,67.9,1,0,1,80.46,Sangat Tinggi (75-100),3,3.004499074152417,-0.5050130253078956,Digital Adopter
+UMKM0504,Sumatera Utara,Kuliner,Mikro,> 5 tahun,1,1,1,1,3,1,13.1,0,0,0,65.64,Tinggi (50-75),3,0.6247121889756054,0.513461343679523,Digital Adopter
+UMKM0505,DKI Jakarta,Fashion,Kecil,1-3 tahun,1,1,1,2,2,1,51.4,1,1,0,80.81,Sangat Tinggi (75-100),1,2.738636336052969,0.007185746678150247,Digital Champion
+UMKM0506,Jawa Timur,Fashion,Mikro,< 1 tahun,1,1,1,2,5,0,37.3,0,0,0,65.4,Tinggi (50-75),3,1.7332482210980769,1.14074579373857,Digital Adopter
+UMKM0507,Bali,Fashion,Menengah,> 5 tahun,1,1,1,3,3,1,78.3,0,0,1,83.83,Sangat Tinggi (75-100),3,3.6831963486674377,-0.06936588673348557,Digital Adopter
+UMKM0508,Sulawesi Selatan,Fashion,Mikro,1-3 tahun,1,1,0,0,5,0,3.5,0,0,0,35.35,Sedang (25-50),2,-1.2586660463692123,2.1458918485245726,Digital Beginner
+UMKM0509,Bali,Kerajinan,Kecil,> 5 tahun,1,0,1,1,0,0,24.4,1,1,1,50.77,Tinggi (50-75),1,1.0864603313774512,-1.507441259947923,Digital Champion
+UMKM0510,Sumatera Utara,Jasa,Mikro,> 5 tahun,1,1,0,0,4,0,1.2,0,0,0,33.12,Sedang (25-50),2,-1.4170357585806783,1.7431779339660138,Digital Beginner
+UMKM0511,DKI Jakarta,Jasa,Mikro,< 1 tahun,1,1,0,0,2,1,8.8,0,0,0,39.88,Sedang (25-50),2,-1.2145733574014117,0.7159830416655765,Digital Beginner
+UMKM0512,Jawa Barat,Kerajinan,Mikro,> 5 tahun,1,0,1,2,0,0,26.0,0,0,0,39.27,Sedang (25-50),3,0.5162820151588513,-2.2940955486725936,Digital Adopter
+UMKM0513,Bali,Pertanian,Menengah,1-3 tahun,1,1,1,3,1,1,90.0,0,0,0,76.0,Sangat Tinggi (75-100),3,3.366977365750266,-1.2062375899301079,Digital Adopter
+UMKM0514,Sulawesi Selatan,Kuliner,Kecil,3-5 tahun,1,1,0,0,2,1,4.9,0,0,1,44.49,Sedang (25-50),2,-0.9123621838810795,0.9681429644534234,Digital Beginner
+UMKM0515,Jawa Timur,Kuliner,Kecil,3-5 tahun,1,1,0,0,4,1,8.7,1,0,0,48.87,Sedang (25-50),2,-0.6982982353576246,1.6875728372012624,Digital Beginner
+UMKM0516,Jawa Timur,Kuliner,Menengah,> 5 tahun,1,1,1,2,2,1,70.9,0,1,1,82.76,Sangat Tinggi (75-100),1,3.29785061848373,-0.026381610594025166,Digital Champion
+UMKM0517,Jawa Barat,Kerajinan,Mikro,< 1 tahun,1,0,1,1,0,1,39.6,0,0,0,47.29,Sedang (25-50),3,0.5350248928517526,-2.3282285553309006,Digital Adopter
+UMKM0518,Sumatera Utara,Elektronik,Mikro,3-5 tahun,1,0,1,1,0,0,31.6,1,0,1,46.49,Sedang (25-50),3,0.830067089385418,-1.7699811010486834,Digital Adopter
+UMKM0519,Kalimantan Timur,Kuliner,Mikro,3-5 tahun,1,1,0,0,2,1,7.2,1,0,1,49.72,Sedang (25-50),2,-0.5419296068100108,1.089547861594443,Digital Beginner
+UMKM0520,Jawa Timur,Elektronik,Mikro,> 5 tahun,1,0,1,3,0,1,29.1,0,0,0,52.91,Tinggi (50-75),3,1.3479562212751122,-2.654263892175623,Digital Adopter
+UMKM0521,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,1.8,0,0,0,20.18,Rendah (0-25),0,-2.019906410502033,-1.4940925027668217,Digital Laggard
+UMKM0522,Jawa Barat,Elektronik,Mikro,< 1 tahun,1,1,0,0,4,1,7.9,1,0,0,48.79,Sedang (25-50),2,-0.7178293072947918,1.6926879308329823,Digital Beginner
+UMKM0523,Kalimantan Timur,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,8.4,0,1,0,25.84,Sedang (25-50),0,-1.4266021775938649,-1.3197880268132303,Digital Laggard
+UMKM0524,Sulawesi Selatan,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,0,5.5,1,0,0,34.55,Sedang (25-50),2,-1.2022112624509114,1.016955479528227,Digital Beginner
+UMKM0525,Sulawesi Selatan,Fashion,Mikro,> 5 tahun,1,1,0,0,1,0,5.5,1,0,0,32.55,Sedang (25-50),2,-1.3044291428430215,0.5995356707784735,Digital Beginner
+UMKM0526,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,1,0,0,3,0,6.3,0,0,0,31.63,Sedang (25-50),2,-1.394743055373347,1.293149403314046,Digital Beginner
+UMKM0527,Jawa Barat,Kuliner,Menengah,1-3 tahun,1,1,1,1,1,1,66.4,0,1,1,76.97,Sangat Tinggi (75-100),1,2.5511321346457145,-0.21844354728483062,Digital Champion
+UMKM0528,Jawa Barat,Kuliner,Kecil,> 5 tahun,1,0,1,2,0,1,29.5,1,0,1,59.62,Tinggi (50-75),3,1.5347893279100917,-2.0969013359455335,Digital Adopter
+UMKM0529,Jawa Timur,Jasa,Menengah,< 1 tahun,1,1,0,0,3,1,1.1,0,1,1,51.11,Tinggi (50-75),2,-0.47074400576397546,1.6263634663691275,Digital Beginner
+UMKM0530,Sulawesi Selatan,Fashion,Mikro,> 5 tahun,1,1,0,0,1,1,9.6,0,0,0,37.96,Sedang (25-50),2,-1.2972601658563545,0.2934481392841034,Digital Beginner
+UMKM0531,Sumatera Utara,Kuliner,Mikro,3-5 tahun,1,1,1,3,1,0,35.7,0,0,0,60.57,Tinggi (50-75),3,1.8199528794546416,-0.7152887243775266,Digital Adopter
+UMKM0532,Kalimantan Timur,Kerajinan,Kecil,> 5 tahun,1,0,0,0,0,0,6.3,0,1,1,20.63,Rendah (0-25),0,-1.3017990707753044,-0.9353751793971622,Digital Laggard
+UMKM0533,Kalimantan Timur,Kerajinan,Mikro,1-3 tahun,1,0,0,0,0,1,3.2,0,0,0,20.32,Rendah (0-25),0,-1.9857270346119904,-1.5030439166223317,Digital Laggard
+UMKM0534,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,0,1,1,0,1,46.3,0,0,0,47.96,Sedang (25-50),3,0.6985976203255283,-2.371067464496555,Digital Adopter
+UMKM0535,Sumatera Utara,Fashion,Mikro,> 5 tahun,1,1,0,0,1,1,4.1,0,0,0,37.41,Sedang (25-50),2,-1.4315362854243794,0.32861440800217795,Digital Beginner
+UMKM0536,Bali,Kuliner,Mikro,> 5 tahun,1,1,0,0,3,1,6.6,0,0,0,41.66,Sedang (25-50),2,-1.1660659248365117,1.1474693579025599,Digital Beginner
+UMKM0537,Sulawesi Selatan,Kuliner,Mikro,> 5 tahun,1,1,0,0,3,1,6.3,0,0,0,41.63,Sedang (25-50),2,-1.1733900768129493,1.1493875180144548,Digital Beginner
+UMKM0538,Jawa Barat,Kerajinan,Mikro,< 1 tahun,1,0,1,2,0,0,44.0,0,1,1,51.07,Tinggi (50-75),1,1.7853291723856755,-1.9654573156377992,Digital Champion
+UMKM0539,Jawa Tengah,Kuliner,Kecil,> 5 tahun,1,1,1,2,1,0,34.6,0,0,0,57.13,Tinggi (50-75),3,1.258459331741697,-0.5116700002533884,Digital Adopter
+UMKM0540,Jawa Timur,Fashion,Mikro,> 5 tahun,1,1,1,2,1,1,24.4,0,0,0,66.11,Tinggi (50-75),3,1.2307911431032124,-0.5902144417485505,Digital Adopter
+UMKM0541,Kalimantan Timur,Kerajinan,Mikro,3-5 tahun,1,1,0,0,1,1,0.3,0,0,0,37.03,Sedang (25-50),2,-1.5243088771259237,0.35291110275284765,Digital Beginner
+UMKM0542,DKI Jakarta,Kuliner,Kecil,> 5 tahun,1,0,1,1,0,1,68.2,0,1,1,60.15,Tinggi (50-75),1,2.062858753246043,-2.067365312916395,Digital Champion
+UMKM0543,Jawa Barat,Fashion,Mikro,> 5 tahun,1,0,1,2,0,1,32.5,1,0,1,59.92,Tinggi (50-75),3,1.608030847674469,-2.116082937064483,Digital Adopter
+UMKM0544,DKI Jakarta,Kuliner,Mikro,3-5 tahun,1,0,1,1,0,0,49.7,0,1,0,43.3,Sedang (25-50),1,0.9924245869246299,-2.0325407287164925,Digital Champion
+UMKM0545,DKI Jakarta,Pertanian,Kecil,< 1 tahun,1,1,1,1,1,1,36.7,1,0,0,69.0,Tinggi (50-75),3,1.3107237955895326,-0.33616274462350715,Digital Adopter
+UMKM0546,Jawa Barat,Fashion,Mikro,3-5 tahun,1,1,0,0,1,0,5.2,1,0,0,32.52,Sedang (25-50),2,-1.3117532948194592,0.6014538308903684,Digital Beginner
+UMKM0547,Jawa Timur,Jasa,Mikro,< 1 tahun,1,1,1,2,3,0,41.7,1,0,1,71.84,Tinggi (50-75),3,2.3479392504340124,0.6411077939300299,Digital Adopter
+UMKM0548,DKI Jakarta,Fashion,Mikro,1-3 tahun,1,1,0,0,3,0,0.5,0,1,0,36.05,Sedang (25-50),2,-1.1041704374912713,1.5467378305592967,Digital Beginner
+UMKM0549,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,1,0,0,3,0,4.9,1,1,1,46.49,Sedang (25-50),2,-0.285043647371116,1.8819394482502634,Digital Beginner
+UMKM0550,Sumatera Utara,Kerajinan,Mikro,< 1 tahun,1,1,0,0,4,1,0.9,1,0,0,48.09,Sedang (25-50),2,-0.8887261867450053,1.7374450001105317,Digital Beginner
+UMKM0551,Jawa Tengah,Pertanian,Kecil,1-3 tahun,1,1,1,1,2,1,64.1,1,0,1,78.74,Sangat Tinggi (75-100),3,2.479306039043643,0.13328894857305063,Digital Adopter
+UMKM0552,Sulawesi Selatan,Kerajinan,Mikro,< 1 tahun,1,1,0,0,1,1,3.8,0,0,0,37.38,Sedang (25-50),2,-1.4388604374008171,0.3305325681140729,Digital Beginner
+UMKM0553,Jawa Tengah,Jasa,Mikro,> 5 tahun,1,0,0,0,0,0,1.6,0,0,0,10.16,Rendah (0-25),0,-2.246142157046723,-1.3490518440593005,Digital Laggard
+UMKM0554,Jawa Tengah,Elektronik,Mikro,> 5 tahun,1,0,0,0,0,1,9.6,0,0,0,20.96,Rendah (0-25),0,-1.8294784591146525,-1.543964665676091,Digital Laggard
+UMKM0555,Sulawesi Selatan,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,0,9.5,0,0,0,10.95,Rendah (0-25),0,-2.0532728216671963,-1.399563393672535,Digital Laggard
+UMKM0556,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,0,1,2,0,1,20.1,1,0,0,53.68,Tinggi (50-75),3,0.907874083434354,-2.264022827106036,Digital Adopter
+UMKM0557,Jawa Timur,Kerajinan,Mikro,3-5 tahun,1,1,0,0,3,1,6.4,0,0,1,46.64,Sedang (25-50),2,-0.773523543606781,1.375971972643702,Digital Beginner
+UMKM0558,Jawa Timur,Fashion,Mikro,1-3 tahun,1,0,0,0,0,0,5.3,0,0,0,10.53,Rendah (0-25),0,-2.1558109493373245,-1.3727091521060053,Digital Laggard
+UMKM0559,Sumatera Utara,Jasa,Mikro,< 1 tahun,1,1,1,1,4,1,37.6,0,0,0,70.09,Tinggi (50-75),3,1.3250691474434628,0.7742314099578533,Digital Adopter
+UMKM0560,DKI Jakarta,Elektronik,Mikro,3-5 tahun,0,0,1,2,0,1,48.4,0,0,0,41.51,Sedang (25-50),3,1.4855074255883252,-2.297012068441863,Digital Adopter
+UMKM0561,DKI Jakarta,Fashion,Mikro,> 5 tahun,1,1,0,0,4,1,0.0,0,1,0,48.0,Sedang (25-50),2,-0.7928064984994928,1.8235926875292836,Digital Beginner
+UMKM0562,Jawa Barat,Kuliner,Kecil,> 5 tahun,1,1,1,1,1,1,52.2,0,1,0,70.55,Tinggi (50-75),1,1.8070304585469732,-0.354874476655014,Digital Champion
+UMKM0563,Jawa Timur,Jasa,Mikro,< 1 tahun,1,1,1,3,3,0,32.1,0,0,0,64.21,Tinggi (50-75),3,1.9364988165216095,0.14256881446471967,Digital Adopter
+UMKM0564,Jawa Timur,Kuliner,Mikro,< 1 tahun,1,1,1,1,5,0,13.5,1,0,1,69.68,Tinggi (50-75),3,1.3292664016337472,1.8528399323281877,Digital Adopter
+UMKM0565,Jawa Barat,Jasa,Mikro,1-3 tahun,1,0,0,0,0,1,9.0,0,0,0,20.9,Rendah (0-25),0,-1.844126763067528,-1.5401283454523012,Digital Laggard
+UMKM0566,Jawa Tengah,Fashion,Kecil,1-3 tahun,1,1,1,1,4,1,64.1,1,0,0,77.74,Sangat Tinggi (75-100),3,2.286316650613841,0.7409047247393449,Digital Adopter
+UMKM0567,Jawa Barat,Kerajinan,Mikro,1-3 tahun,1,0,1,1,0,1,36.5,0,1,0,51.98,Tinggi (50-75),1,0.891514878521768,-2.091903569092705,Digital Champion
+UMKM0568,Jawa Tengah,Kuliner,Kecil,1-3 tahun,1,1,0,0,1,0,6.1,0,1,1,37.61,Sedang (25-50),2,-0.7744635455012981,0.9033163989709625,Digital Beginner
+UMKM0569,Bali,Kerajinan,Kecil,> 5 tahun,1,1,1,1,3,0,52.6,0,1,0,64.59,Tinggi (50-75),1,1.7998787767393793,0.6211694793282236,Digital Champion
+UMKM0570,Jawa Barat,Fashion,Kecil,> 5 tahun,1,1,0,0,1,1,3.0,1,0,1,47.3,Sedang (25-50),2,-0.7466856148722488,0.6989822944112192,Digital Beginner
+UMKM0571,Jawa Tengah,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,3.2,0,0,0,20.32,Rendah (0-25),0,-1.9857270346119904,-1.5030439166223317,Digital Laggard
+UMKM0572,Sumatera Utara,Kuliner,Mikro,> 5 tahun,1,1,0,0,4,1,1.8,0,0,1,48.18,Sedang (25-50),2,-0.7836093268533825,1.822803569775845,Digital Beginner
+UMKM0573,Jawa Barat,Kerajinan,Kecil,1-3 tahun,1,1,1,1,1,1,26.8,1,0,0,68.01,Tinggi (50-75),3,1.0690267803670879,-0.2728634609309729,Digital Adopter
+UMKM0574,DKI Jakarta,Jasa,Menengah,3-5 tahun,1,1,1,1,1,1,57.3,0,1,1,76.06,Sangat Tinggi (75-100),1,2.3289661913604367,-0.16025935722401635,Digital Champion
+UMKM0575,Sulawesi Selatan,Kuliner,Kecil,1-3 tahun,1,1,1,2,3,1,28.0,1,0,1,80.47,Sangat Tinggi (75-100),3,2.234822622070421,0.5849418870736425,Digital Adopter
+UMKM0576,Bali,Kuliner,Mikro,3-5 tahun,1,1,0,0,2,0,9.8,0,0,0,29.98,Sedang (25-50),2,-1.4115124960403505,0.8533510599255177,Digital Beginner
+UMKM0577,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,0,1,2,0,1,11.1,1,0,1,57.78,Tinggi (50-75),3,1.085574673355245,-1.9792541824159748,Digital Adopter
+UMKM0578,Bali,Kerajinan,Mikro,3-5 tahun,1,0,0,0,0,1,8.5,0,0,0,20.85,Rendah (0-25),0,-1.8563336830282573,-1.5369314119324762,Digital Laggard
+UMKM0579,Jawa Tengah,Kerajinan,Kecil,1-3 tahun,0,1,1,2,2,1,26.8,1,0,1,68.35,Tinggi (50-75),3,2.304310551400953,0.4592627059899494,Digital Adopter
+UMKM0580,Jawa Barat,Fashion,Mikro,3-5 tahun,1,1,0,0,1,0,5.0,0,0,0,27.5,Sedang (25-50),2,-1.6309168080554641,0.46662181296608424,Digital Beginner
+UMKM0581,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,1,0,0,4,1,7.0,1,0,0,48.7,Sedang (25-50),2,-0.739801763224105,1.6984424111686673,Digital Beginner
+UMKM0582,Kalimantan Timur,Fashion,Kecil,> 5 tahun,1,0,1,1,0,1,55.0,1,0,1,58.83,Tinggi (50-75),3,1.6227039221079578,-2.063359475076083,Digital Adopter
+UMKM0583,Jawa Tengah,Fashion,Mikro,3-5 tahun,1,0,1,3,0,1,14.2,0,0,0,51.42,Tinggi (50-75),3,0.984190006445372,-2.558995273284839,Digital Adopter
+UMKM0584,Jawa Barat,Fashion,Kecil,1-3 tahun,1,1,1,2,4,1,61.5,1,1,1,90.82,Sangat Tinggi (75-100),1,3.5870770292579484,1.0046711484104047,Digital Champion
+UMKM0585,DKI Jakarta,Pertanian,Mikro,3-5 tahun,1,1,0,0,1,1,3.7,0,0,1,42.37,Sedang (25-50),2,-1.0438766721789405,0.55839579615125,Digital Beginner
+UMKM0586,Jawa Barat,Kuliner,Mikro,3-5 tahun,0,1,0,0,1,1,8.5,1,0,0,32.85,Sedang (25-50),2,-0.8088322268898537,0.7206601715784128,Digital Beginner
+UMKM0587,Jawa Timur,Kerajinan,Mikro,< 1 tahun,1,1,1,1,1,0,36.1,0,0,0,53.94,Tinggi (50-75),3,0.7604417678245458,-0.3246753304323401,Digital Adopter
+UMKM0588,Jawa Timur,Fashion,Kecil,3-5 tahun,1,1,1,1,4,1,53.4,1,0,1,81.67,Sangat Tinggi (75-100),3,2.4225137126682514,1.0365429433968112,Digital Adopter
+UMKM0589,Jawa Timur,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,0.4,1,0,1,30.04,Sedang (25-50),0,-1.3423798919263403,-1.1218064562458856,Digital Laggard
+UMKM0590,Jawa Timur,Kerajinan,Mikro,> 5 tahun,1,0,1,2,0,1,35.7,0,0,0,50.24,Tinggi (50-75),3,0.9744492409574025,-2.4998779442567893,Digital Adopter
+UMKM0591,Jawa Timur,Kerajinan,Menengah,> 5 tahun,1,1,1,1,4,1,75.1,1,0,0,78.84,Sangat Tinggi (75-100),3,2.5548688897498906,0.6705721873031958,Digital Adopter
+UMKM0592,DKI Jakarta,Pertanian,Mikro,> 5 tahun,1,1,0,0,3,1,8.1,1,0,0,46.81,Sedang (25-50),2,-0.8151644197026101,1.2739893486752991,Digital Beginner
+UMKM0593,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,1,0,0,2,0,6.5,0,0,0,29.65,Sedang (25-50),2,-1.4920781677811654,0.8744508211563625,Digital Beginner
+UMKM0594,Jawa Barat,Kuliner,Mikro,3-5 tahun,1,0,1,1,0,0,16.4,0,0,0,34.97,Sedang (25-50),0,-0.25272917188649535,-2.036128954711431,Digital Laggard
+UMKM0595,Bali,Kerajinan,Mikro,< 1 tahun,1,1,1,3,1,1,41.3,0,0,0,71.13,Tinggi (50-75),3,2.17802336157521,-0.8948562650991573,Digital Adopter
+UMKM0596,Jawa Tengah,Fashion,Mikro,> 5 tahun,1,1,0,0,1,1,0.5,0,0,0,37.05,Sedang (25-50),2,-1.519426109141632,0.3516323293449176,Digital Beginner
+UMKM0597,DKI Jakarta,Kuliner,Mikro,1-3 tahun,1,1,0,0,3,0,1.8,0,0,0,31.18,Sedang (25-50),2,-1.504605335019913,1.3219218049924708,Digital Beginner
+UMKM0598,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,6.3,0,0,0,20.63,Rendah (0-25),0,-1.9100441308554674,-1.5228649044452465,Digital Laggard
+UMKM0599,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,1,6.4,1,0,1,30.64,Sedang (25-50),0,-1.195896852397586,-1.160169658483785,Digital Laggard
+UMKM0600,Jawa Timur,Elektronik,Kecil,< 1 tahun,1,1,1,2,3,0,34.0,1,0,0,66.07,Tinggi (50-75),3,1.7625275338247552,0.46311672880212224,Digital Adopter
+UMKM0601,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,1,0,0,1,1,4.0,1,0,1,47.4,Sedang (25-50),2,-0.7222717749507898,0.6925884273715692,Digital Beginner
+UMKM0602,Jawa Barat,Kuliner,Mikro,< 1 tahun,1,1,1,2,2,1,36.3,0,0,0,69.3,Tinggi (50-75),3,1.6235337185606855,-0.2488816507706313,Digital Adopter
+UMKM0603,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,1,1,3,2,1,15.0,1,0,1,80.5,Sangat Tinggi (75-100),3,2.3498631464986826,0.05405687945881511,Digital Adopter
+UMKM0604,Jawa Timur,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,9.6,0,0,0,20.96,Rendah (0-25),0,-1.8294784591146525,-1.543964665676091,Digital Laggard
+UMKM0605,Jawa Timur,Kuliner,Mikro,< 1 tahun,1,1,0,0,4,1,2.2,0,0,1,48.22,Sedang (25-50),2,-0.7738437908847989,1.8202460229599848,Digital Beginner
+UMKM0606,Jawa Tengah,Fashion,Mikro,3-5 tahun,1,1,0,0,2,1,5.5,0,0,0,39.55,Sedang (25-50),2,-1.2951390291422267,0.7370828028964213,Digital Beginner
+UMKM0607,Jawa Barat,Kuliner,Kecil,< 1 tahun,1,1,0,0,3,0,6.0,0,0,1,36.6,Sedang (25-50),2,-1.0046420581357625,1.5222914047591534,Digital Beginner
+UMKM0608,Jawa Barat,Jasa,Mikro,1-3 tahun,1,0,0,0,0,0,10.0,0,0,0,11.0,Rendah (0-25),0,-2.041065901706467,-1.4027603271923599,Digital Laggard
+UMKM0609,Jawa Tengah,Kuliner,Menengah,> 5 tahun,0,1,1,1,4,1,71.4,1,0,1,73.47,Tinggi (50-75),3,3.0629652488829078,1.205521323901593,Digital Adopter
+UMKM0610,DKI Jakarta,Fashion,Menengah,< 1 tahun,1,1,0,0,4,1,5.2,1,0,1,53.52,Tinggi (50-75),2,-0.3863215258687086,1.9371752131732494,Digital Beginner
+UMKM0611,Jawa Timur,Elektronik,Mikro,> 5 tahun,1,1,0,0,1,0,3.5,0,0,0,27.35,Sedang (25-50),2,-1.6675375679376527,0.47621261352555905,Digital Beginner
+UMKM0612,Sumatera Utara,Kerajinan,Mikro,< 1 tahun,1,0,1,1,0,0,24.5,0,0,0,35.78,Sedang (25-50),0,-0.054977068522676975,-2.0879192777325954,Digital Laggard
+UMKM0613,DKI Jakarta,Fashion,Mikro,1-3 tahun,1,0,1,1,0,1,40.3,1,0,0,52.36,Tinggi (50-75),3,0.8663953260484871,-2.196593470926441,Digital Adopter
+UMKM0614,Jawa Timur,Kuliner,Kecil,> 5 tahun,1,1,1,3,1,1,40.2,1,0,1,81.02,Sangat Tinggi (75-100),3,2.862874032127341,-0.524488378690116,Digital Adopter
+UMKM0615,Sulawesi Selatan,Kuliner,Mikro,1-3 tahun,1,1,0,0,5,1,5.7,0,0,0,45.57,Sedang (25-50),2,-0.9836026199816047,1.9880634557377508,Digital Beginner
+UMKM0616,Bali,Kerajinan,Mikro,< 1 tahun,1,0,1,2,0,0,24.8,0,0,0,39.15,Sedang (25-50),3,0.4869854072531006,-2.286422908225014,Digital Adopter
+UMKM0617,Jawa Timur,Pertanian,Mikro,1-3 tahun,1,0,1,1,0,1,26.9,0,0,0,46.02,Sedang (25-50),3,0.2249691258492226,-2.247026443927347,Digital Adopter
+UMKM0618,Jawa Barat,Kerajinan,Kecil,1-3 tahun,1,1,0,0,1,1,3.2,0,0,0,37.32,Sedang (25-50),2,-1.4535087413536925,0.3343688883378629,Digital Beginner
+UMKM0619,Sumatera Utara,Fashion,Kecil,> 5 tahun,1,1,0,0,1,0,0.5,0,0,0,27.05,Sedang (25-50),2,-1.74077908770203,0.4953942146445089,Digital Beginner
+UMKM0620,Sumatera Utara,Kerajinan,Mikro,1-3 tahun,1,1,0,0,3,1,9.5,0,0,0,41.95,Sedang (25-50),2,-1.0952657890642805,1.1289271434875752,Digital Beginner
+UMKM0621,Jawa Timur,Fashion,Kecil,> 5 tahun,1,1,1,2,3,0,50.4,0,0,1,67.71,Tinggi (50-75),3,2.246058912498993,0.44937035935286157,Digital Adopter
+UMKM0622,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,1,8.1,1,0,0,25.81,Sedang (25-50),0,-1.551818473745128,-1.3982630737844022,Digital Laggard
+UMKM0623,Jawa Barat,Fashion,Mikro,1-3 tahun,1,0,0,0,0,0,4.2,0,0,1,15.42,Rendah (0-25),0,-1.7852410240369068,-1.138452057029178,Digital Laggard
+UMKM0624,Jawa Tengah,Pertanian,Kecil,> 5 tahun,1,1,0,0,1,0,9.0,1,1,0,37.9,Sedang (25-50),2,-0.7868078136913764,0.7936611345549799,Digital Beginner
+UMKM0625,DKI Jakarta,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,1,4.8,0,0,0,39.48,Sedang (25-50),2,-1.3122287170872478,0.7415585098241761,Digital Beginner
+UMKM0626,Jawa Barat,Kerajinan,Mikro,> 5 tahun,1,0,0,0,0,1,5.7,0,0,0,20.57,Rendah (0-25),0,-1.9246924348083427,-1.5190285842214564,Digital Laggard
+UMKM0627,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,1,0,0,2,1,4.9,1,0,1,49.49,Sedang (25-50),2,-0.5980814386293666,1.1042537557856378,Digital Beginner
+UMKM0628,Sumatera Utara,Fashion,Kecil,3-5 tahun,1,1,0,0,5,1,7.3,1,0,1,55.73,Tinggi (50-75),2,-0.2328345816415344,2.3411679011397375,Digital Beginner
+UMKM0629,Jawa Timur,Kuliner,Kecil,3-5 tahun,1,1,1,1,3,1,68.8,0,1,0,76.21,Sangat Tinggi (75-100),1,2.4167359620274134,0.3738269479863039,Digital Champion
+UMKM0630,Jawa Barat,Fashion,Mikro,1-3 tahun,1,1,1,1,3,0,45.0,1,0,0,63.83,Tinggi (50-75),3,1.496441449161465,0.5893696617464962,Digital Adopter
+UMKM0631,DKI Jakarta,Jasa,Kecil,3-5 tahun,1,1,1,3,2,0,65.8,1,0,0,70.58,Tinggi (50-75),3,2.9713080867343824,-0.35421352218902147,Digital Adopter
+UMKM0632,Bali,Kuliner,Mikro,> 5 tahun,1,1,0,0,1,1,6.1,0,0,0,37.61,Sedang (25-50),2,-1.3827086055814612,0.3158266739228781,Digital Beginner
+UMKM0633,Jawa Tengah,Kerajinan,Mikro,< 1 tahun,1,1,0,0,1,1,4.9,1,0,0,42.49,Sedang (25-50),2,-1.0977244682354992,0.4596101057026722,Digital Beginner
+UMKM0634,Jawa Tengah,Jasa,Mikro,1-3 tahun,1,1,0,0,2,0,1.0,0,0,0,29.1,Sedang (25-50),2,-1.6263542873491903,0.9096170898744371,Digital Beginner
+UMKM0635,Jawa Timur,Elektronik,Mikro,> 5 tahun,1,1,0,0,3,0,4.0,0,1,1,41.4,Sedang (25-50),2,-0.6212968485521421,1.751583137253734,Digital Beginner
+UMKM0636,Jawa Tengah,Kuliner,Mikro,3-5 tahun,0,1,1,1,1,0,28.3,0,0,1,48.16,Sedang (25-50),3,1.1684413832795806,0.23648866102862162,Digital Adopter
+UMKM0637,Jawa Tengah,Fashion,Menengah,> 5 tahun,1,1,1,2,3,1,41.6,0,0,1,76.83,Sangat Tinggi (75-100),3,2.252570099750551,0.36187450400218946,Digital Adopter
+UMKM0638,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,1,0.8,0,0,0,20.08,Rendah (0-25),0,-2.044320250423492,-1.4876986357271718,Digital Laggard
+UMKM0639,Jawa Barat,Pertanian,Mikro,> 5 tahun,1,1,0,0,2,0,3.5,1,0,0,34.35,Sedang (25-50),2,-1.2510389422938295,1.0297432136075269,Digital Beginner
+UMKM0640,Jawa Barat,Elektronik,Mikro,> 5 tahun,1,1,0,0,3,0,8.2,0,0,0,31.82,Sedang (25-50),2,-1.348356759522575,1.2810010559387113,Digital Beginner
+UMKM0641,Jawa Timur,Fashion,Mikro,1-3 tahun,1,1,1,3,2,1,21.1,0,0,0,71.11,Tinggi (50-75),3,1.7870816755538472,-0.34828034214847575,Digital Adopter
+UMKM0642,Jawa Barat,Jasa,Menengah,< 1 tahun,1,1,0,0,3,1,2.9,1,1,0,51.29,Tinggi (50-75),2,-0.5099434978676586,1.52374145569676,Digital Beginner
+UMKM0643,Jawa Barat,Fashion,Mikro,> 5 tahun,1,1,0,0,4,0,8.5,0,0,1,38.85,Sedang (25-50),2,-0.8413895779400046,1.9237265459097816,Digital Beginner
+UMKM0644,Jawa Barat,Kerajinan,Mikro,3-5 tahun,1,1,0,0,5,0,4.9,0,0,1,40.49,Sedang (25-50),2,-0.827061521265147,2.3641642760022745,Digital Beginner
+UMKM0645,Jawa Timur,Kuliner,Kecil,< 1 tahun,1,1,1,1,2,0,61.6,0,0,0,58.49,Tinggi (50-75),3,1.4852125662138624,-0.07029913119365971,Digital Adopter
+UMKM0646,Bali,Jasa,Mikro,1-3 tahun,1,1,0,0,2,0,9.8,1,0,0,34.98,Sedang (25-50),2,-1.0972317507886375,0.9894618512577321,Digital Beginner
+UMKM0647,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,1,0,0,1,0,9.5,0,0,1,32.95,Sedang (25-50),2,-1.123629379194876,0.6650732526208717,Digital Beginner
+UMKM0648,DKI Jakarta,Jasa,Mikro,3-5 tahun,1,0,0,0,0,0,3.6,0,0,1,15.36,Rendah (0-25),0,-1.7998893279897823,-1.1346157368053882,Digital Laggard
+UMKM0649,Sumatera Utara,Jasa,Mikro,1-3 tahun,1,0,1,1,0,1,23.9,0,0,0,45.72,Sedang (25-50),0,0.15172760608484545,-2.227844842808397,Digital Laggard
+UMKM0650,Jawa Tengah,Kerajinan,Menengah,3-5 tahun,1,1,1,2,5,1,38.8,1,1,1,90.55,Sangat Tinggi (75-100),1,3.1351007434329374,1.5672317389602113,Digital Champion
+UMKM0651,Jawa Timur,Kuliner,Kecil,1-3 tahun,1,1,1,1,2,1,36.8,0,0,1,71.01,Tinggi (50-75),3,1.4985274639360977,0.1717307274232791,Digital Adopter
+UMKM0652,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,1,0.2,0,0,0,20.02,Rendah (0-25),0,-2.0589685543763676,-1.4838623155033819,Digital Laggard
+UMKM0653,Jawa Tengah,Kuliner,Kecil,1-3 tahun,1,1,1,1,1,1,67.8,1,0,0,72.11,Tinggi (50-75),3,2.0699942171469092,-0.5350120095566195,Digital Adopter
+UMKM0654,Sumatera Utara,Fashion,Mikro,< 1 tahun,1,1,0,0,2,0,9.4,0,0,1,34.94,Sedang (25-50),2,-1.0238528827949118,1.08313244807459,Digital Beginner
+UMKM0655,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,1,0,0,1,0,8.7,0,0,0,27.87,Sedang (25-50),2,-1.5405856003460656,0.4429645049193795,Digital Beginner
+UMKM0656,Jawa Timur,Elektronik,Mikro,1-3 tahun,1,1,0,0,1,0,5.1,1,0,0,32.51,Sedang (25-50),2,-1.314194678811605,0.6020932175943334,Digital Beginner
+UMKM0657,Jawa Barat,Fashion,Mikro,> 5 tahun,1,0,0,0,0,1,5.7,0,0,0,20.57,Rendah (0-25),0,-1.9246924348083427,-1.5190285842214564,Digital Laggard
+UMKM0658,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,1,0.1,0,0,0,20.01,Rendah (0-25),0,-2.061409938368514,-1.483222928799417,Digital Laggard
+UMKM0659,DKI Jakarta,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,2.2,0,0,1,25.22,Sedang (25-50),0,-1.612715725319427,-1.2694262082494696,Digital Laggard
+UMKM0660,Jawa Tengah,Fashion,Menengah,3-5 tahun,1,1,1,1,4,1,58.2,1,1,1,87.15,Sangat Tinggi (75-100),1,2.971873033717794,1.2223563800217727,Digital Champion
+UMKM0661,Jawa Barat,Kerajinan,Mikro,3-5 tahun,1,1,0,0,1,0,7.5,0,0,1,32.75,Sedang (25-50),2,-1.172457059037794,0.6778609867001716,Digital Beginner
+UMKM0662,Kalimantan Timur,Fashion,Mikro,> 5 tahun,1,1,0,0,3,1,1.5,0,0,0,41.15,Sedang (25-50),2,-1.2905765084359526,1.1800780798047745,Digital Beginner
+UMKM0663,DKI Jakarta,Elektronik,Mikro,1-3 tahun,1,0,0,0,0,0,8.7,0,0,0,10.87,Rendah (0-25),0,-2.0728038936043633,-1.394448300040815,Digital Laggard
+UMKM0664,Jawa Barat,Fashion,Mikro,3-5 tahun,1,1,0,0,3,0,6.4,0,1,0,36.64,Sedang (25-50),2,-0.960128781954663,1.5090140150253621,Digital Beginner
+UMKM0665,Jawa Timur,Pertanian,Mikro,3-5 tahun,1,0,0,0,0,1,2.3,1,0,0,25.23,Sedang (25-50),0,-1.6934187452895906,-1.3611786449544325,Digital Laggard
+UMKM0666,Jawa Timur,Jasa,Mikro,1-3 tahun,1,0,0,0,0,0,1.6,1,0,0,15.16,Rendah (0-25),0,-1.9318614117950097,-1.2129410527270863,Digital Laggard
+UMKM0667,Jawa Barat,Kuliner,Kecil,< 1 tahun,1,1,1,2,4,1,50.6,1,0,0,79.73,Sangat Tinggi (75-100),3,2.491368135473483,0.6306364593940955,Digital Adopter
+UMKM0668,Jawa Timur,Elektronik,Mikro,3-5 tahun,1,0,0,0,0,1,9.0,0,0,0,20.9,Rendah (0-25),0,-1.844126763067528,-1.5401283454523012,Digital Laggard
+UMKM0669,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,1,0,0,2,0,7.2,0,0,0,29.72,Sedang (25-50),2,-1.4749884798361441,0.8699751142286075,Digital Beginner
+UMKM0670,Jawa Barat,Jasa,Mikro,1-3 tahun,1,0,1,1,0,0,32.8,0,0,0,36.61,Sedang (25-50),3,0.14765780282543314,-2.1409883741616897,Digital Adopter
+UMKM0671,Jawa Timur,Fashion,Mikro,3-5 tahun,1,0,1,1,0,1,10.7,0,0,0,44.4,Sedang (25-50),0,-0.1705350808784141,-2.143445797885018,Digital Laggard
+UMKM0672,Bali,Elektronik,Mikro,1-3 tahun,1,1,0,0,1,1,3.1,0,0,0,37.31,Sedang (25-50),2,-1.4559501253458385,0.33500827504182784,Digital Beginner
+UMKM0673,Jawa Timur,Jasa,Kecil,> 5 tahun,1,1,1,1,3,1,42.8,1,0,1,78.61,Sangat Tinggi (75-100),3,2.0615091291086753,0.686898125267347,Digital Adopter
+UMKM0674,Jawa Tengah,Jasa,Mikro,1-3 tahun,1,1,0,0,1,1,7.5,0,1,0,42.75,Sedang (25-50),2,-0.9163563402648803,0.5233792584826492,Digital Beginner
+UMKM0675,Jawa Barat,Jasa,Mikro,> 5 tahun,1,0,0,0,0,0,6.1,1,0,1,20.61,Rendah (0-25),0,-1.4245739829344215,-1.014489613072299,Digital Laggard
+UMKM0676,Kalimantan Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,4,0,4.2,0,0,0,33.42,Sedang (25-50),2,-1.3437942388163011,1.7239963328470642,Digital Beginner
+UMKM0677,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,1,1,6.2,0,0,0,37.62,Sedang (25-50),2,-1.3802672215893153,0.3151872872189131,Digital Beginner
+UMKM0678,Jawa Barat,Fashion,Mikro,< 1 tahun,0,1,1,2,4,0,13.4,0,0,0,51.01,Tinggi (50-75),3,1.2485419842114887,1.1602073944549298,Digital Adopter
+UMKM0679,Kalimantan Timur,Kuliner,Kecil,< 1 tahun,1,1,1,2,3,1,54.2,1,1,0,83.09,Sangat Tinggi (75-100),1,2.9092129682251646,0.40670272771688365,Digital Champion
+UMKM0680,Sulawesi Selatan,Kerajinan,Mikro,3-5 tahun,1,1,0,0,1,1,4.0,0,0,0,37.4,Sedang (25-50),2,-1.4339776694165252,0.3292537947061429,Digital Beginner
+UMKM0681,Sumatera Utara,Kuliner,Kecil,1-3 tahun,1,1,1,1,3,1,28.8,1,0,0,72.21,Tinggi (50-75),3,1.3222902209942262,0.5491884224892336,Digital Adopter
+UMKM0682,Jawa Barat,Pertanian,Mikro,> 5 tahun,1,1,1,1,3,0,40.9,0,1,0,63.42,Tinggi (50-75),1,1.5142368496583083,0.6959777236921277,Digital Champion
+UMKM0683,Jawa Timur,Kerajinan,Kecil,< 1 tahun,1,0,1,2,0,1,50.9,1,1,1,66.76,Tinggi (50-75),1,2.489418391655854,-2.0172260921787606,Digital Champion
+UMKM0684,DKI Jakarta,Jasa,Mikro,1-3 tahun,1,1,0,0,1,1,8.8,0,0,0,37.88,Sedang (25-50),2,-1.3167912377935218,0.2985632329158233,Digital Beginner
+UMKM0685,Bali,Kuliner,Kecil,1-3 tahun,1,1,1,3,2,0,25.7,0,0,0,61.57,Tinggi (50-75),3,1.6780323606321612,-0.23393024523127406,Digital Adopter
+UMKM0686,Jawa Tengah,Jasa,Mikro,< 1 tahun,1,0,0,0,0,1,2.4,0,0,0,20.24,Rendah (0-25),0,-2.005258106549158,-1.4979288229906116,Digital Laggard
+UMKM0687,Jawa Tengah,Elektronik,Menengah,< 1 tahun,1,1,1,1,3,0,57.4,1,0,1,70.07,Tinggi (50-75),3,2.19659821340158,0.7373095517880494,Digital Adopter
+UMKM0688,Jawa Barat,Fashion,Mikro,1-3 tahun,1,0,0,0,0,0,5.8,0,0,0,10.58,Rendah (0-25),0,-2.143604029376595,-1.3759060856258303,Digital Laggard
+UMKM0689,Sumatera Utara,Kerajinan,Mikro,3-5 tahun,1,1,0,0,3,1,5.4,1,0,0,46.54,Sedang (25-50),2,-0.8810817874905496,1.291252789682354,Digital Beginner
+UMKM0690,Jawa Timur,Jasa,Mikro,1-3 tahun,0,0,0,0,0,0,4.9,0,0,1,5.49,Rendah (0-25),0,-1.5671489184634921,-0.858859776738453,Digital Laggard
+UMKM0691,Jawa Barat,Kuliner,Kecil,3-5 tahun,1,1,0,0,3,0,7.2,1,0,1,41.72,Sedang (25-50),2,-0.6610647049782986,1.6507295556437875,Digital Beginner
+UMKM0692,Jawa Tengah,Fashion,Mikro,3-5 tahun,1,1,1,2,3,1,21.5,1,0,0,74.82,Tinggi (50-75),3,1.6787075133669147,0.3992781814981549,Digital Adopter
+UMKM0693,Jawa Tengah,Fashion,Kecil,< 1 tahun,1,1,1,2,2,0,54.2,0,0,1,66.09,Tinggi (50-75),3,2.2366136238084273,0.007653855852438687,Digital Adopter
+UMKM0694,Jawa Barat,Kuliner,Mikro,3-5 tahun,1,1,0,0,4,1,1.8,1,1,0,53.18,Tinggi (50-75),2,-0.43458084138915337,1.948194518190128,Digital Beginner
+UMKM0695,Jawa Timur,Fashion,Mikro,> 5 tahun,1,0,0,0,0,0,7.8,0,0,0,10.78,Rendah (0-25),0,-2.0947763495336766,-1.38869381970513,Digital Laggard
+UMKM0696,DKI Jakarta,Kuliner,Mikro,3-5 tahun,1,1,0,0,3,1,6.6,0,0,0,41.66,Sedang (25-50),2,-1.1660659248365117,1.1474693579025599,Digital Beginner
+UMKM0697,Jawa Barat,Kuliner,Menengah,3-5 tahun,1,1,0,0,1,1,6.8,1,0,1,47.68,Sedang (25-50),2,-0.6539130231707045,0.6746855996605494,Digital Beginner
+UMKM0698,Jawa Tengah,Kuliner,Kecil,1-3 tahun,1,1,0,0,4,1,4.8,1,0,1,53.48,Tinggi (50-75),2,-0.39608706183729225,1.9397327599891092,Digital Beginner
+UMKM0699,Jawa Timur,Pertanian,Menengah,> 5 tahun,1,1,1,3,5,1,45.3,1,0,0,84.53,Sangat Tinggi (75-100),3,2.9988309880812,0.8853582930734702,Digital Adopter
+UMKM0700,Jawa Tengah,Fashion,Mikro,> 5 tahun,0,1,0,0,1,1,0.8,0,0,0,27.08,Sedang (25-50),2,-1.3110995395368013,0.6337821564515028,Digital Beginner
+UMKM0701,Jawa Tengah,Pertanian,Mikro,3-5 tahun,1,1,1,1,2,0,41.4,1,0,0,61.47,Tinggi (50-75),3,1.3063337450521022,0.1949677743394828,Digital Adopter
+UMKM0702,Jawa Timur,Fashion,Kecil,> 5 tahun,1,1,1,1,1,1,62.3,1,1,1,81.56,Sangat Tinggi (75-100),1,2.7653161362194454,-0.05611790109005177,Digital Champion
+UMKM0703,Jawa Barat,Kuliner,Mikro,< 1 tahun,1,1,0,0,4,0,1.5,0,1,0,38.15,Sedang (25-50),2,-0.9775387171777022,1.9577637722693997,Digital Beginner
+UMKM0704,Jawa Timur,Fashion,Kecil,< 1 tahun,1,1,0,0,3,1,5.8,0,1,0,46.58,Sedang (25-50),2,-0.7534241073471405,1.3690884499495608,Digital Beginner
+UMKM0705,Jawa Timur,Fashion,Menengah,> 5 tahun,1,1,1,1,1,1,88.7,0,1,1,79.2,Sangat Tinggi (75-100),1,3.0955607648942514,-0.3610267822690238,Digital Champion
+UMKM0706,Kalimantan Timur,Kuliner,Kecil,> 5 tahun,1,0,1,2,0,1,39.3,1,0,0,55.6,Tinggi (50-75),3,1.3766198099263682,-2.3867850742673142,Digital Adopter
+UMKM0707,Jawa Barat,Kerajinan,Kecil,< 1 tahun,1,0,1,3,0,1,37.2,1,0,0,58.72,Tinggi (50-75),3,1.8599890698906438,-2.5699434238645726,Digital Adopter
+UMKM0708,Sumatera Utara,Kuliner,Mikro,1-3 tahun,1,1,0,0,4,1,9.7,0,1,0,48.97,Sedang (25-50),2,-0.55599225126134,1.7615721772446793,Digital Beginner
+UMKM0709,Jawa Barat,Kerajinan,Mikro,< 1 tahun,1,0,0,0,0,0,6.1,0,0,0,10.61,Rendah (0-25),0,-2.1362798774001575,-1.3778242457377252,Digital Laggard
+UMKM0710,DKI Jakarta,Kerajinan,Menengah,1-3 tahun,1,1,1,2,2,1,63.2,1,1,1,86.99,Sangat Tinggi (75-100),1,3.4241447963402085,0.15896195694349338,Digital Champion
+UMKM0711,Sumatera Utara,Kuliner,Mikro,> 5 tahun,1,1,1,3,1,1,15.6,0,0,0,68.56,Tinggi (50-75),3,1.5505876755937125,-0.7305338821801545,Digital Adopter
+UMKM0712,Jawa Tengah,Kuliner,Kecil,3-5 tahun,1,1,0,0,1,1,3.3,0,0,1,42.33,Sedang (25-50),2,-1.053642208147524,0.56095334296711,Digital Beginner
+UMKM0713,Jawa Tengah,Jasa,Kecil,1-3 tahun,1,1,1,2,3,1,68.4,1,0,0,79.51,Sangat Tinggi (75-100),3,2.8237166056833445,0.09940581733857377,Digital Adopter
+UMKM0714,Jawa Barat,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,9.2,0,0,0,20.92,Rendah (0-25),0,-1.839243995083236,-1.5414071188602312,Digital Laggard
+UMKM0715,Jawa Barat,Kuliner,Menengah,< 1 tahun,1,1,0,0,1,1,9.6,1,1,1,52.96,Tinggi (50-75),2,-0.15338138196408055,0.8732867703648108,Digital Beginner
+UMKM0716,Bali,Pertanian,Mikro,1-3 tahun,1,1,1,1,1,1,24.1,0,1,0,67.74,Tinggi (50-75),1,1.1210015567539735,-0.1752068128408513,Digital Champion
+UMKM0717,Sulawesi Selatan,Kuliner,Mikro,3-5 tahun,1,1,0,0,1,0,2.6,0,0,0,27.26,Sedang (25-50),2,-1.6895100238669658,0.481967093861244,Digital Beginner
+UMKM0718,Kalimantan Timur,Kerajinan,Mikro,> 5 tahun,0,1,1,2,3,0,23.1,0,0,0,49.98,Sedang (25-50),3,1.3831383510575315,0.6807670754205721,Digital Adopter
+UMKM0719,Jawa Timur,Pertanian,Mikro,> 5 tahun,1,1,1,1,3,1,19.7,1,0,0,71.3,Tinggi (50-75),3,1.1001242777089486,0.6073726125500478,Digital Adopter
+UMKM0720,Sumatera Utara,Kuliner,Mikro,< 1 tahun,1,1,0,0,1,1,4.4,0,0,0,37.44,Sedang (25-50),2,-1.4242121334479416,0.32669624789028295,Digital Beginner
+UMKM0721,Bali,Kuliner,Mikro,> 5 tahun,1,1,0,0,3,1,3.1,1,0,1,51.31,Tinggi (50-75),2,-0.5398084700958827,1.533182525206761,Digital Beginner
+UMKM0722,Jawa Timur,Kuliner,Kecil,> 5 tahun,1,1,1,3,1,1,59.9,0,0,1,77.99,Sangat Tinggi (75-100),3,3.029545933328371,-0.7865583507034336,Digital Adopter
+UMKM0723,Jawa Timur,Kuliner,Menengah,> 5 tahun,1,1,1,1,5,1,59.6,1,1,1,89.29,Sangat Tinggi (75-100),1,3.1082702899999464,1.6308247749160163,Digital Champion
+UMKM0724,Sumatera Utara,Kuliner,Mikro,3-5 tahun,1,1,0,0,5,1,7.6,0,0,0,45.76,Sedang (25-50),2,-0.9372163241308324,1.9759151083624162,Digital Beginner
+UMKM0725,Jawa Tengah,Kerajinan,Mikro,1-3 tahun,1,1,1,2,3,0,39.7,0,0,1,66.64,Tinggi (50-75),3,1.9848308253393812,0.5177847366771156,Digital Adopter
+UMKM0726,Sulawesi Selatan,Kuliner,Menengah,1-3 tahun,1,1,1,1,5,1,72.0,0,1,1,85.53,Sangat Tinggi (75-100),1,3.0967211597743254,1.4154300322921431,Digital Champion
+UMKM0727,Jawa Timur,Fashion,Mikro,< 1 tahun,1,1,0,0,4,0,0.3,1,0,0,38.03,Sedang (25-50),2,-1.1247274692582785,1.885043205633913,Digital Beginner
+UMKM0728,Sumatera Utara,Pertanian,Mikro,1-3 tahun,1,1,0,0,4,0,0.5,0,0,0,33.05,Sedang (25-50),2,-1.4341254465256996,1.7476536408937688,Digital Beginner
+UMKM0729,Jawa Barat,Jasa,Mikro,1-3 tahun,1,1,0,0,3,1,7.9,1,0,0,46.79,Sedang (25-50),2,-0.8200471876869019,1.2752681220832291,Digital Beginner
+UMKM0730,Jawa Timur,Kerajinan,Mikro,3-5 tahun,1,0,0,0,0,1,5.3,0,0,1,25.53,Sedang (25-50),0,-1.537032821562904,-1.2892471960723844,Digital Laggard
+UMKM0731,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,1,5.8,1,0,0,25.58,Sedang (25-50),0,-1.6079703055644838,-1.3835571795932073,Digital Laggard
+UMKM0732,Sumatera Utara,Kerajinan,Menengah,3-5 tahun,1,1,0,0,2,1,0.5,1,0,1,49.05,Sedang (25-50),2,-0.7055023342837864,1.1323867707600972,Digital Beginner
+UMKM0733,DKI Jakarta,Fashion,Mikro,< 1 tahun,1,0,0,0,0,0,2.6,0,0,0,10.26,Rendah (0-25),0,-2.221728317125264,-1.3554457110989504,Digital Laggard
+UMKM0734,Jawa Tengah,Fashion,Mikro,> 5 tahun,1,1,0,0,1,0,6.4,0,0,1,32.64,Sedang (25-50),2,-1.1993122829513991,0.6848942404437864,Digital Beginner
+UMKM0735,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,0,8.6,0,0,0,10.86,Rendah (0-25),0,-2.0752452775965096,-1.3938089133368499,Digital Laggard
+UMKM0736,Sulawesi Selatan,Elektronik,Mikro,> 5 tahun,1,0,1,2,0,1,27.3,0,0,0,49.4,Sedang (25-50),3,0.769372985617146,-2.4461694611237297,Digital Adopter
+UMKM0737,Jawa Barat,Fashion,Kecil,> 5 tahun,1,0,0,0,0,1,5.0,0,0,0,20.5,Rendah (0-25),0,-1.941782122753364,-1.5145528772937016,Digital Laggard
+UMKM0738,Sumatera Utara,Kuliner,Kecil,3-5 tahun,1,1,1,2,3,0,33.9,1,0,1,71.06,Tinggi (50-75),3,2.157511299046632,0.6909799568392994,Digital Adopter
+UMKM0739,Jawa Tengah,Fashion,Kecil,> 5 tahun,1,1,1,2,5,0,65.8,0,1,0,73.25,Tinggi (50-75),1,2.8612155482861983,1.1750245815238285,Digital Champion
+UMKM0740,Jawa Barat,Fashion,Mikro,< 1 tahun,1,1,0,0,3,0,5.4,0,0,0,31.54,Sedang (25-50),2,-1.4167155113026602,1.298903883649731,Digital Beginner
+UMKM0741,Jawa Tengah,Jasa,Menengah,1-3 tahun,1,1,1,1,3,1,54.8,0,1,1,79.81,Sangat Tinggi (75-100),1,2.4723673523410095,0.6905649278746149,Digital Champion
+UMKM0742,Jawa Barat,Kerajinan,Kecil,1-3 tahun,1,1,1,1,3,1,36.4,0,0,1,72.97,Tinggi (50-75),3,1.5909798083596243,0.5917080829888922,Digital Adopter
+UMKM0743,Sumatera Utara,Jasa,Kecil,1-3 tahun,1,1,0,0,2,0,7.9,0,0,1,34.79,Sedang (25-50),2,-1.0604736426771004,1.092723248634065,Digital Beginner
+UMKM0744,Jawa Tengah,Kuliner,Mikro,< 1 tahun,0,0,0,0,0,0,9.1,1,0,0,5.91,Rendah (0-25),0,-1.5477551947556734,-0.9768270683059807,Digital Laggard
+UMKM0745,Jawa Barat,Fashion,Mikro,3-5 tahun,1,1,0,0,4,1,2.2,0,0,0,43.22,Sedang (25-50),2,-1.1712689400988214,1.5930221816267727,Digital Beginner
+UMKM0746,Bali,Fashion,Mikro,> 5 tahun,1,0,0,0,0,1,5.2,1,0,0,25.52,Sedang (25-50),0,-1.6226186095173591,-1.3797208593694172,Digital Laggard
+UMKM0747,Jawa Barat,Kuliner,Kecil,3-5 tahun,1,1,0,0,1,1,8.4,0,0,0,37.84,Sedang (25-50),2,-1.3265567737621053,0.3011207797316833,Digital Beginner
+UMKM0748,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,0,1.1,0,0,1,15.11,Rendah (0-25),0,-1.8609239277934302,-1.1186310692062635,Digital Laggard
+UMKM0749,Bali,Jasa,Mikro,> 5 tahun,1,0,0,0,0,0,7.9,0,1,0,15.79,Rendah (0-25),0,-1.6601620761149922,-1.172829207993814,Digital Laggard
+UMKM0750,DKI Jakarta,Kuliner,Kecil,3-5 tahun,1,1,0,0,2,0,1.8,0,1,1,39.18,Sedang (25-50),2,-0.7772251767714621,1.3482298359912106,Digital Beginner
+UMKM0751,Jawa Timur,Fashion,Kecil,1-3 tahun,1,1,1,2,1,1,22.5,0,0,0,65.92,Tinggi (50-75),3,1.1844048472524402,-0.5780660943732157,Digital Adopter
+UMKM0752,Bali,Kuliner,Menengah,3-5 tahun,1,1,1,3,1,1,39.5,0,0,1,75.95,Sangat Tinggi (75-100),3,2.5315035989306063,-0.6561234630945754,Digital Adopter
+UMKM0753,DKI Jakarta,Kuliner,Mikro,1-3 tahun,1,1,0,0,1,1,1.9,0,0,0,37.19,Sedang (25-50),2,-1.4852467332515893,0.34268091548940777,Digital Beginner
+UMKM0754,Jawa Barat,Kuliner,Kecil,1-3 tahun,1,1,0,0,1,1,4.7,0,0,1,42.47,Sedang (25-50),2,-1.0194628322574815,0.5520019291116001,Digital Beginner
+UMKM0755,Jawa Timur,Pertanian,Mikro,> 5 tahun,1,0,1,1,0,1,14.7,0,0,0,44.8,Sedang (25-50),0,-0.07287972119257788,-2.1690212660436177,Digital Laggard
+UMKM0756,Sumatera Utara,Jasa,Mikro,1-3 tahun,1,1,1,2,4,0,23.2,0,0,0,61.99,Tinggi (50-75),3,1.2867951978133942,0.8134795102478801,Digital Adopter
+UMKM0757,DKI Jakarta,Pertanian,Mikro,3-5 tahun,1,0,0,0,0,1,4.3,0,0,0,20.43,Rendah (0-25),0,-1.9588718106983853,-1.5100771703659466,Digital Laggard
+UMKM0758,Jawa Tengah,Fashion,Mikro,> 5 tahun,1,1,0,0,4,0,9.0,1,0,0,38.9,Sedang (25-50),2,-0.9123270619415847,1.8294165623889587,Digital Beginner
+UMKM0759,Bali,Kuliner,Mikro,> 5 tahun,1,1,0,0,1,1,5.2,1,0,0,42.52,Sedang (25-50),2,-1.0904003162590614,0.45769194559077725,Digital Beginner
+UMKM0760,Sumatera Utara,Fashion,Kecil,< 1 tahun,0,1,1,2,2,1,53.0,0,1,0,65.97,Tinggi (50-75),1,2.664420152303983,0.14491275530097633,Digital Champion
+UMKM0761,Jawa Timur,Fashion,Mikro,< 1 tahun,1,0,0,0,0,1,0.6,0,0,0,20.06,Rendah (0-25),0,-2.049203018407784,-1.486419862319242,Digital Laggard
+UMKM0762,Jawa Barat,Jasa,Kecil,< 1 tahun,0,1,1,1,3,0,32.1,0,0,0,47.54,Sedang (25-50),3,1.0682245865513234,0.819807742444246,Digital Adopter
+UMKM0763,Jawa Barat,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,1.8,0,1,1,30.18,Sedang (25-50),0,-1.1903083718614722,-1.0503646630183285,Digital Laggard
+UMKM0764,Sumatera Utara,Fashion,Mikro,1-3 tahun,1,1,1,1,3,0,33.8,1,0,1,67.71,Tinggi (50-75),3,1.620431591255146,0.8882048139237875,Digital Adopter
+UMKM0765,Jawa Timur,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,0,8.0,0,0,0,10.8,Rendah (0-25),0,-2.089893581549385,-1.38997259311306,Digital Laggard
+UMKM0766,Jawa Tengah,Kuliner,Mikro,> 5 tahun,0,0,1,2,0,1,22.5,0,0,0,38.92,Sedang (25-50),3,0.8531889716225354,-2.13141091211493,Digital Adopter
+UMKM0767,Sumatera Utara,Kerajinan,Mikro,3-5 tahun,1,1,1,1,3,1,10.8,1,0,0,70.41,Tinggi (50-75),3,0.8828411024079629,0.6642780292029321,Digital Adopter
+UMKM0768,Sulawesi Selatan,Fashion,Mikro,1-3 tahun,1,1,0,0,5,0,2.4,1,0,0,40.24,Sedang (25-50),2,-0.9712405250311044,2.289035893600402,Digital Beginner
+UMKM0769,Jawa Barat,Fashion,Mikro,3-5 tahun,1,1,0,0,1,0,7.6,0,0,0,27.76,Sedang (25-50),2,-1.5674408242596705,0.44999775866299446,Digital Beginner
+UMKM0770,Sulawesi Selatan,Fashion,Mikro,3-5 tahun,1,0,0,0,0,1,5.6,0,0,0,20.56,Rendah (0-25),0,-1.9271338188004887,-1.5183891975174915,Digital Laggard
+UMKM0771,Jawa Timur,Fashion,Mikro,< 1 tahun,1,0,0,0,0,0,8.6,0,0,0,10.86,Rendah (0-25),0,-2.0752452775965096,-1.3938089133368499,Digital Laggard
+UMKM0772,Sulawesi Selatan,Jasa,Menengah,1-3 tahun,1,1,1,1,3,1,85.6,1,0,1,82.89,Sangat Tinggi (75-100),3,3.106421477747123,0.41324061597033057,Digital Adopter
+UMKM0773,Jawa Timur,Elektronik,Mikro,> 5 tahun,1,1,0,0,1,0,6.5,0,0,1,32.65,Sedang (25-50),2,-1.1968708989592531,0.6842548537398214,Digital Beginner
+UMKM0774,Jawa Barat,Pertanian,Kecil,3-5 tahun,1,1,1,1,2,1,48.6,0,0,1,72.19,Tinggi (50-75),3,1.7866107750093148,0.09628309635541006,Digital Adopter
+UMKM0775,Sumatera Utara,Jasa,Kecil,3-5 tahun,1,1,0,0,2,0,5.5,0,0,1,34.55,Sedang (25-50),2,-1.119066858488602,1.1080685295292247,Digital Beginner
+UMKM0776,Jawa Timur,Kuliner,Menengah,1-3 tahun,1,1,1,1,2,1,61.2,0,1,0,73.45,Tinggi (50-75),1,2.128972898232215,0.005000528737890027,Digital Champion
+UMKM0777,Jawa Barat,Kerajinan,Kecil,< 1 tahun,1,1,1,1,1,1,30.3,1,0,0,68.36,Tinggi (50-75),3,1.1544752200921946,-0.2952419955697476,Digital Adopter
+UMKM0778,Sumatera Utara,Fashion,Mikro,1-3 tahun,1,1,0,0,5,0,9.1,0,0,1,40.91,Sedang (25-50),2,-0.7245233935950192,2.337310034435745,Digital Beginner
+UMKM0779,Sumatera Utara,Kuliner,Kecil,1-3 tahun,1,0,1,3,0,1,60.2,0,0,1,61.02,Tinggi (50-75),3,2.504651792046511,-2.6258893157755234,Digital Adopter
+UMKM0780,DKI Jakarta,Jasa,Kecil,1-3 tahun,1,1,0,0,2,0,3.1,0,0,0,29.31,Sedang (25-50),2,-1.5750852235141262,0.8961899690911723,Digital Beginner
+UMKM0781,DKI Jakarta,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,0,3.9,1,0,0,15.39,Rendah (0-25),0,-1.8757095799756538,-1.2276469469182811,Digital Laggard
+UMKM0782,Jawa Tengah,Elektronik,Mikro,> 5 tahun,1,1,1,2,4,1,32.7,0,0,0,72.94,Tinggi (50-75),3,1.7400796556276532,0.6089758880716147,Digital Adopter
+UMKM0783,Jawa Barat,Fashion,Mikro,> 5 tahun,1,1,0,0,1,1,0.7,0,0,0,37.07,Sedang (25-50),2,-1.5145433411573401,0.3503535559369877,Digital Beginner
+UMKM0784,Jawa Barat,Kerajinan,Kecil,> 5 tahun,1,1,0,0,1,1,5.0,1,0,1,47.5,Sedang (25-50),2,-0.6978579350293307,0.6861945603319193,Digital Beginner
+UMKM0785,Jawa Timur,Kerajinan,Kecil,> 5 tahun,1,1,1,2,2,1,64.3,1,0,1,82.1,Sangat Tinggi (75-100),3,3.0188271308272747,-0.06457529521540259,Digital Adopter
+UMKM0786,Bali,Elektronik,Mikro,1-3 tahun,1,0,0,0,0,1,5.9,0,1,0,25.59,Sedang (25-50),0,-1.4876367773975125,-1.3038033592141054,Digital Laggard
+UMKM0787,Jawa Tengah,Kerajinan,Mikro,> 5 tahun,1,1,0,0,1,0,3.6,0,0,0,27.36,Sedang (25-50),2,-1.6650961839455067,0.47557322682159414,Digital Beginner
+UMKM0788,Jawa Barat,Kerajinan,Mikro,1-3 tahun,1,0,1,2,0,1,35.3,1,0,0,55.2,Tinggi (50-75),3,1.2789644502405317,-2.361209606108715,Digital Adopter
+UMKM0789,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,0,8.8,0,0,0,10.88,Rendah (0-25),0,-2.0703625096122176,-1.39508768674478,Digital Laggard
+UMKM0790,Bali,Fashion,Menengah,> 5 tahun,1,1,1,2,2,0,66.7,0,1,0,67.34,Tinggi (50-75),1,2.5765343630391815,-0.08298932506111638,Digital Champion
+UMKM0791,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,1,1,2,1,1,45.9,0,0,0,68.26,Tinggi (50-75),3,1.755688701414582,-0.7276825831010238,Digital Adopter
+UMKM0792,Jawa Tengah,Kerajinan,Mikro,> 5 tahun,0,0,0,0,0,1,0.4,1,0,0,15.04,Rendah (0-25),0,-1.5388026235119694,-1.0649623103606174,Digital Laggard
+UMKM0793,Jawa Tengah,Fashion,Mikro,3-5 tahun,1,0,0,0,0,0,9.7,0,0,0,10.97,Rendah (0-25),0,-2.0483900536829047,-1.400842167080465,Digital Laggard
+UMKM0794,DKI Jakarta,Kerajinan,Kecil,1-3 tahun,1,1,1,1,5,1,68.4,1,0,0,80.17,Sangat Tinggi (75-100),3,2.493514042668225,1.1308309052186039,Digital Adopter
+UMKM0795,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,0,3.4,0,0,0,29.34,Sedang (25-50),2,-1.5677610715376886,0.8942718089792774,Digital Beginner
+UMKM0796,Sulawesi Selatan,Kuliner,Kecil,3-5 tahun,1,1,1,3,5,0,49.0,0,0,1,74.9,Tinggi (50-75),3,2.95095362119251,1.0965759203273548,Digital Adopter
+UMKM0797,Bali,Kerajinan,Mikro,< 1 tahun,1,1,0,0,4,0,1.4,1,0,0,38.14,Sedang (25-50),2,-1.0978722453446736,1.878009951890298,Digital Beginner
+UMKM0798,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,0,1.7,0,0,0,10.17,Rendah (0-25),0,-2.2437007730545773,-1.3496912307632656,Digital Laggard
+UMKM0799,DKI Jakarta,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,0,0.5,0,0,1,15.05,Rendah (0-25),0,-1.8755722317463053,-1.1147947489824734,Digital Laggard
+UMKM0800,Bali,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,0,9.0,0,0,0,29.9,Sedang (25-50),2,-1.4310435679775177,0.8584661535572379,Digital Beginner
+UMKM0801,DKI Jakarta,Pertanian,Mikro,> 5 tahun,1,1,1,1,3,0,48.9,0,0,0,59.22,Tinggi (50-75),3,1.2773746796034422,0.4283227889596473,Digital Adopter
+UMKM0802,Jawa Timur,Kerajinan,Menengah,> 5 tahun,1,1,0,0,1,1,7.0,0,1,1,47.7,Sedang (25-50),2,-0.531138111011587,0.7538000333356863,Digital Beginner
+UMKM0803,Jawa Tengah,Fashion,Kecil,> 5 tahun,1,1,1,1,3,0,41.4,0,1,0,63.47,Tinggi (50-75),1,1.5264437696190378,0.6927807901723028,Digital Champion
+UMKM0804,DKI Jakarta,Kuliner,Menengah,> 5 tahun,1,1,0,0,1,1,7.9,0,0,1,42.79,Sedang (25-50),2,-0.9413385445088124,0.5315415545847203,Digital Beginner
+UMKM0805,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,1,1,3,4,0,48.3,0,0,1,72.83,Tinggi (50-75),3,2.831646052855378,0.6836318185053563,Digital Adopter
+UMKM0806,Sumatera Utara,Jasa,Menengah,> 5 tahun,1,1,1,1,4,1,76.3,1,1,1,88.96,Sangat Tinggi (75-100),1,3.4137635362962024,1.1066273866041092,Digital Champion
+UMKM0807,Bali,Kerajinan,Mikro,> 5 tahun,1,1,0,0,1,1,4.4,1,0,0,42.44,Sedang (25-50),2,-1.1099313881962287,0.46280703922249716,Digital Beginner
+UMKM0808,Bali,Kuliner,Mikro,1-3 tahun,0,0,1,1,0,1,38.3,0,0,0,37.16,Sedang (25-50),3,0.7042893185822486,-2.0358485409608753,Digital Adopter
+UMKM0809,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,7.2,0,0,0,20.72,Rendah (0-25),0,-1.8880716749261541,-1.5286193847809313,Digital Laggard
+UMKM0810,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,1,0,0,3,1,0.7,1,0,0,46.07,Sedang (25-50),2,-0.9958268351214071,1.3213039647687086,Digital Beginner
+UMKM0811,Kalimantan Timur,Kerajinan,Kecil,1-3 tahun,1,1,1,3,1,1,51.0,0,0,0,72.1,Tinggi (50-75),3,2.4148376088133627,-0.9568767753837615,Digital Adopter
+UMKM0812,Sulawesi Selatan,Jasa,Mikro,3-5 tahun,1,0,0,0,0,1,6.9,0,0,0,20.69,Rendah (0-25),0,-1.895395826902592,-1.5267012246690363,Digital Laggard
+UMKM0813,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,0,1,1,0,1,12.6,0,0,0,44.59,Sedang (25-50),0,-0.12414878502764191,-2.155594145260353,Digital Laggard
+UMKM0814,Bali,Kuliner,Mikro,1-3 tahun,1,1,0,0,1,1,3.7,0,0,0,37.37,Sedang (25-50),2,-1.441301821392963,0.3311719548180379,Digital Beginner
+UMKM0815,Sulawesi Selatan,Kuliner,Mikro,3-5 tahun,1,1,1,1,1,0,34.3,0,0,1,58.76,Tinggi (50-75),3,1.1139220051799419,-0.08594252842775804,Digital Adopter
+UMKM0816,Jawa Tengah,Pertanian,Mikro,> 5 tahun,1,1,1,2,1,1,14.9,0,1,0,70.16,Tinggi (50-75),1,1.4310325532758899,-0.31296870645659525,Digital Champion
+UMKM0817,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,1,0,0,4,1,3.3,0,0,0,43.33,Sedang (25-50),2,-1.1444137161852164,1.5859889278831578,Digital Beginner
+UMKM0818,Jawa Barat,Jasa,Kecil,< 1 tahun,1,0,1,1,0,1,26.3,1,0,0,50.96,Tinggi (50-75),3,0.5246015671480603,-2.107079332371342,Digital Adopter
+UMKM0819,Jawa Timur,Kerajinan,Kecil,< 1 tahun,1,0,1,2,0,1,31.2,1,0,1,59.79,Tinggi (50-75),3,1.576292855776572,-2.1077709099129383,Digital Adopter
+UMKM0820,Jawa Barat,Fashion,Mikro,1-3 tahun,1,1,0,0,2,1,8.2,0,0,0,39.82,Sedang (25-50),2,-1.2292216613542872,0.7198193618893665,Digital Beginner
+UMKM0821,Sumatera Utara,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,1,2.1,1,0,0,25.21,Sedang (25-50),0,-1.6983015132738821,-1.3598998715465025,Digital Laggard
+UMKM0822,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,1,2,3,1,19.4,0,0,0,69.61,Tinggi (50-75),3,1.3131577042801374,0.27659451094920556,Digital Adopter
+UMKM0823,Jawa Barat,Kerajinan,Kecil,3-5 tahun,1,0,0,0,0,1,2.0,0,0,0,20.2,Rendah (0-25),0,-2.0150236425177415,-1.4953712761747517,Digital Laggard
+UMKM0824,Jawa Barat,Jasa,Mikro,1-3 tahun,1,0,0,0,0,1,1.2,0,0,0,20.12,Rendah (0-25),0,-2.0345547144549085,-1.4902561825430318,Digital Laggard
+UMKM0825,Jawa Tengah,Kerajinan,Mikro,1-3 tahun,1,1,1,2,5,0,14.6,0,0,1,68.13,Tinggi (50-75),3,1.5764792040949789,1.5131104168718352,Digital Adopter
+UMKM0826,Bali,Fashion,Mikro,> 5 tahun,1,1,0,0,1,1,0.8,0,0,0,37.08,Sedang (25-50),2,-1.5121019571651941,0.3497141692330227,Digital Beginner
+UMKM0827,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,0,1,1,0,1,18.7,1,0,0,50.2,Tinggi (50-75),3,0.3390563837449715,-2.058485942870003,Digital Adopter
+UMKM0828,Jawa Barat,Pertanian,Mikro,< 1 tahun,1,1,0,0,1,1,0.3,0,0,0,37.03,Sedang (25-50),2,-1.5243088771259237,0.35291110275284765,Digital Beginner
+UMKM0829,Sumatera Utara,Jasa,Kecil,1-3 tahun,1,1,0,0,2,1,1.1,1,1,0,49.11,Sedang (25-50),2,-0.6561062901183952,1.1178306076183764,Digital Beginner
+UMKM0830,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,1,0,0,1,1,5.5,1,1,0,47.55,Sedang (25-50),2,-0.6509032748560852,0.6722777838941633,Digital Beginner
+UMKM0831,Jawa Barat,Pertanian,Mikro,3-5 tahun,1,0,0,0,0,1,5.9,1,0,1,30.59,Sedang (25-50),0,-1.2081037723583155,-1.15697272496396,Digital Laggard
+UMKM0832,Jawa Tengah,Kerajinan,Kecil,3-5 tahun,1,1,0,0,1,1,0.3,0,0,0,37.03,Sedang (25-50),2,-1.5243088771259237,0.35291110275284765,Digital Beginner
+UMKM0833,Jawa Timur,Fashion,Kecil,< 1 tahun,1,1,1,2,2,0,33.9,0,1,0,64.06,Tinggi (50-75),1,1.7757604136153244,0.1267295138394009,Digital Champion
+UMKM0834,Jawa Timur,Kerajinan,Mikro,1-3 tahun,1,1,0,0,2,0,8.4,0,0,0,29.84,Sedang (25-50),2,-1.4456918719303933,0.8623024737810278,Digital Beginner
+UMKM0835,Jawa Tengah,Jasa,Mikro,1-3 tahun,1,0,1,2,0,1,27.1,0,0,0,49.38,Sedang (25-50),3,0.7644902176328542,-2.4448906877158,Digital Adopter
+UMKM0836,Jawa Barat,Kerajinan,Mikro,> 5 tahun,1,1,0,0,3,0,1.3,0,0,0,31.13,Sedang (25-50),2,-1.5168122549806424,1.3251187385122958,Digital Beginner
+UMKM0837,Bali,Kuliner,Menengah,> 5 tahun,1,1,1,2,5,1,60.7,1,0,1,87.74,Sangat Tinggi (75-100),3,3.2375909482863525,1.210702052376597,Digital Adopter
+UMKM0838,Jawa Barat,Kuliner,Mikro,< 1 tahun,1,1,0,0,2,0,6.7,0,0,0,29.67,Sedang (25-50),2,-1.4871953997968737,0.8731720477484325,Digital Beginner
+UMKM0839,Jawa Tengah,Elektronik,Menengah,> 5 tahun,1,1,1,1,1,0,39.6,0,0,1,59.29,Tinggi (50-75),3,1.2433153567636752,-0.11983002373790264,Digital Adopter
+UMKM0840,DKI Jakarta,Kuliner,Kecil,1-3 tahun,1,0,0,0,0,1,8.6,0,1,0,25.86,Sedang (25-50),0,-1.421719409609573,-1.32106680022116,Digital Laggard
+UMKM0841,Jawa Timur,Fashion,Mikro,1-3 tahun,0,1,0,0,4,1,9.1,0,0,0,33.91,Sedang (25-50),2,-0.801811027012361,1.8329724862716685,Digital Beginner
+UMKM0842,DKI Jakarta,Fashion,Mikro,> 5 tahun,0,1,1,2,3,1,10.4,1,0,0,63.71,Tinggi (50-75),3,1.6087163078671123,0.7543180928567491,Digital Adopter
+UMKM0843,Jawa Timur,Fashion,Mikro,> 5 tahun,1,1,0,0,2,1,8.2,0,0,1,44.82,Sedang (25-50),2,-0.8317965121402647,0.9470432032225786,Digital Beginner
+UMKM0844,Kalimantan Timur,Kerajinan,Mikro,> 5 tahun,1,1,1,2,1,1,23.7,1,0,0,71.04,Tinggi (50-75),3,1.5279822004099042,-0.4496279434885814,Digital Adopter
+UMKM0845,Jawa Timur,Elektronik,Mikro,3-5 tahun,1,0,0,0,0,1,6.3,1,0,0,25.63,Sedang (25-50),0,-1.5957633856037543,-1.3867541131130323,Digital Laggard
+UMKM0846,Jawa Barat,Kuliner,Kecil,1-3 tahun,1,1,1,1,1,0,63.5,1,0,1,66.68,Tinggi (50-75),3,2.1410868761382598,-0.13653265465332143,Digital Adopter
+UMKM0847,Jawa Timur,Kuliner,Menengah,> 5 tahun,1,1,1,3,5,1,39.5,0,0,0,78.95,Sangat Tinggi (75-100),3,2.542949971285024,0.7863319305712254,Digital Adopter
+UMKM0848,Kalimantan Timur,Kuliner,Mikro,1-3 tahun,1,0,1,2,0,1,24.2,0,0,1,54.09,Tinggi (50-75),3,1.0911152310746455,-2.199124631967603,Digital Adopter
+UMKM0849,Jawa Tengah,Elektronik,Kecil,3-5 tahun,1,1,1,1,1,1,69.1,0,0,1,72.24,Tinggi (50-75),3,2.1848766130071153,-0.4522109867071665,Digital Adopter
+UMKM0850,Jawa Tengah,Kerajinan,Mikro,1-3 tahun,1,1,0,0,2,1,3.8,0,0,0,39.38,Sedang (25-50),2,-1.336642557008707,0.7479523768638261,Digital Beginner
+UMKM0851,Jawa Timur,Kuliner,Mikro,3-5 tahun,0,1,1,1,1,1,39.9,0,0,0,54.32,Tinggi (50-75),3,1.2755697557148813,-0.20866592326412087,Digital Adopter
+UMKM0852,Sumatera Utara,Jasa,Mikro,1-3 tahun,1,0,0,0,0,0,0.2,0,0,0,10.02,Rendah (0-25),0,-2.2803215329367656,-1.3401004302037907,Digital Laggard
+UMKM0853,Jawa Barat,Jasa,Mikro,1-3 tahun,1,0,0,0,0,0,7.0,0,0,0,10.7,Rendah (0-25),0,-2.1143074214708437,-1.38357872607341,Digital Laggard
+UMKM0854,Bali,Jasa,Menengah,> 5 tahun,1,1,1,2,2,1,61.8,1,0,1,81.85,Sangat Tinggi (75-100),3,2.957792531023627,-0.048590627616277776,Digital Adopter
+UMKM0855,Jawa Barat,Elektronik,Kecil,< 1 tahun,1,1,0,0,2,1,7.1,1,0,1,49.71,Sedang (25-50),2,-0.5443709908021567,1.0901872482984079,Digital Beginner
+UMKM0856,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,0,9.9,0,1,0,15.99,Rendah (0-25),0,-1.611334396272074,-1.1856169420731137,Digital Laggard
+UMKM0857,Jawa Timur,Jasa,Mikro,1-3 tahun,1,1,0,0,4,1,6.9,0,0,0,43.69,Sedang (25-50),2,-1.0565238924679639,1.562971006540418,Digital Beginner
+UMKM0858,Jawa Tengah,Fashion,Mikro,< 1 tahun,1,1,0,0,3,0,0.3,0,1,0,36.03,Sedang (25-50),2,-1.109053205475563,1.5480166039672267,Digital Beginner
+UMKM0859,Jawa Tengah,Jasa,Mikro,< 1 tahun,1,1,0,0,2,1,8.3,1,0,0,44.83,Sedang (25-50),2,-0.9124995321104283,0.8552907665176157,Digital Beginner
+UMKM0860,Jawa Timur,Kerajinan,Kecil,1-3 tahun,1,1,1,2,1,0,41.4,0,0,0,57.81,Tinggi (50-75),3,1.4244734432076187,-0.5551482961230078,Digital Adopter
+UMKM0861,Sumatera Utara,Jasa,Kecil,> 5 tahun,1,1,0,0,2,1,4.5,1,0,0,44.45,Sedang (25-50),2,-1.0052721238119728,0.8795874612682855,Digital Beginner
+UMKM0862,Jawa Tengah,Kerajinan,Mikro,1-3 tahun,1,1,1,1,5,1,16.7,0,0,0,70.0,Tinggi (50-75),3,0.9170377734770784,1.3252830398362903,Digital Adopter
+UMKM0863,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,1,1,2,2,1,21.7,0,0,0,67.84,Tinggi (50-75),3,1.2670916557073832,-0.1555311919917425,Digital Adopter
+UMKM0864,Jawa Tengah,Fashion,Mikro,3-5 tahun,1,1,0,0,2,0,4.3,1,0,0,34.43,Sedang (25-50),2,-1.2315078703566622,1.024628119975807,Digital Beginner
+UMKM0865,Jawa Barat,Pertanian,Mikro,1-3 tahun,1,0,0,0,0,0,3.8,0,0,1,15.38,Rendah (0-25),0,-1.7950065600054907,-1.1358945102133182,Digital Laggard
+UMKM0866,Jawa Tengah,Elektronik,Mikro,3-5 tahun,1,1,1,1,4,0,12.5,0,0,1,62.58,Tinggi (50-75),3,0.8883539360684649,1.3057031992858699,Digital Adopter
+UMKM0867,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,0,8.1,1,0,0,15.81,Rendah (0-25),0,-1.7731714523055258,-1.254501188484811,Digital Laggard
+UMKM0868,Jawa Timur,Kuliner,Kecil,> 5 tahun,1,1,1,1,1,1,59.6,0,1,0,71.29,Tinggi (50-75),1,1.9876928739657707,-0.4021890927484234,Digital Champion
+UMKM0869,Sulawesi Selatan,Kuliner,Kecil,1-3 tahun,1,1,0,0,3,1,2.1,0,0,0,41.21,Sedang (25-50),2,-1.2759282044830773,1.1762417595809846,Digital Beginner
+UMKM0870,Bali,Kerajinan,Mikro,1-3 tahun,1,1,0,0,3,1,6.7,0,0,1,46.67,Sedang (25-50),2,-0.7661993916303432,1.3740538125318071,Digital Beginner
+UMKM0871,Jawa Barat,Jasa,Mikro,> 5 tahun,1,1,1,3,3,0,11.8,0,0,0,62.18,Tinggi (50-75),3,1.4408978661159906,0.27236431536961303,Digital Adopter
+UMKM0872,Jawa Barat,Kuliner,Mikro,> 5 tahun,1,1,0,0,4,1,9.0,0,0,0,43.9,Sedang (25-50),2,-1.0052548286329,1.5495438857571533,Digital Beginner
+UMKM0873,DKI Jakarta,Fashion,Mikro,> 5 tahun,1,0,1,1,0,0,48.1,0,0,0,38.14,Sedang (25-50),3,0.5211895536237567,-2.2388145398683337,Digital Adopter
+UMKM0874,Jawa Barat,Jasa,Kecil,1-3 tahun,1,1,1,2,1,1,24.5,0,0,1,71.12,Tinggi (50-75),3,1.6306576763093807,-0.36362998711930333,Digital Adopter
+UMKM0875,Jawa Timur,Kerajinan,Mikro,> 5 tahun,1,1,1,2,5,1,39.3,0,0,0,75.6,Sangat Tinggi (75-100),3,2.0034288795013926,0.9841961743596789,Digital Adopter
+UMKM0876,Jawa Timur,Fashion,Mikro,3-5 tahun,1,1,0,0,2,1,6.2,0,0,0,39.62,Sedang (25-50),2,-1.2780493411972054,0.7326070959686664,Digital Beginner
+UMKM0877,DKI Jakarta,Fashion,Mikro,3-5 tahun,1,0,0,0,0,1,0.9,1,0,0,25.09,Sedang (25-50),0,-1.7275981211796332,-1.3522272310989227,Digital Laggard
+UMKM0878,DKI Jakarta,Fashion,Kecil,1-3 tahun,1,1,1,1,3,0,69.5,1,0,1,71.28,Tinggi (50-75),3,2.4920056764512344,0.6599437606082854,Digital Adopter
+UMKM0879,Jawa Timur,Kuliner,Mikro,3-5 tahun,1,1,0,0,2,0,2.3,1,0,0,34.23,Sedang (25-50),2,-1.2803355501995803,1.0374158540551066,Digital Beginner
+UMKM0880,Jawa Barat,Fashion,Mikro,1-3 tahun,1,1,0,0,1,0,2.5,0,0,0,27.25,Sedang (25-50),2,-1.6919514078591118,0.482606480565209,Digital Beginner
+UMKM0881,Jawa Barat,Kerajinan,Mikro,1-3 tahun,1,1,0,0,4,1,5.0,0,0,0,43.5,Sedang (25-50),2,-1.1029101883187362,1.5751193539157529,Digital Beginner
+UMKM0882,DKI Jakarta,Elektronik,Kecil,> 5 tahun,1,1,1,1,4,1,40.4,1,0,1,80.37,Sangat Tinggi (75-100),3,2.105133793689284,1.11966321491226,Digital Adopter
+UMKM0883,Jawa Timur,Kerajinan,Menengah,1-3 tahun,1,1,1,1,3,1,73.9,1,0,0,76.72,Sangat Tinggi (75-100),3,2.4233544014520296,0.2608250190010224,Digital Adopter
+UMKM0884,Jawa Timur,Jasa,Mikro,< 1 tahun,1,0,0,0,0,1,5.9,0,0,0,20.59,Rendah (0-25),0,-1.919809666824051,-1.5203073576293864,Digital Laggard
+UMKM0885,Sumatera Utara,Kuliner,Kecil,< 1 tahun,1,0,1,2,0,1,61.8,0,1,0,57.85,Tinggi (50-75),1,2.043823352334022,-2.450253875576371,Digital Champion
+UMKM0886,Jawa Timur,Fashion,Menengah,> 5 tahun,1,1,1,1,1,1,61.8,0,0,1,71.51,Tinggi (50-75),3,2.006655581580464,-0.405535757317722,Digital Adopter
+UMKM0887,DKI Jakarta,Kuliner,Menengah,3-5 tahun,1,1,1,1,2,1,88.9,1,1,0,81.22,Sangat Tinggi (75-100),1,3.119517009308344,-0.03599879692819847,Digital Champion
+UMKM0888,Jawa Barat,Kuliner,Mikro,1-3 tahun,1,0,1,1,0,1,31.1,0,0,0,46.44,Sedang (25-50),3,0.3275072535193507,-2.2738806854938765,Digital Adopter
+UMKM0889,Jawa Timur,Kerajinan,Mikro,> 5 tahun,1,0,0,0,0,1,2.5,1,0,0,25.25,Sedang (25-50),0,-1.6885359773052986,-1.3624574183623626,Digital Laggard
+UMKM0890,Jawa Barat,Pertanian,Mikro,> 5 tahun,1,1,0,0,4,0,2.3,0,0,0,33.23,Sedang (25-50),2,-1.3901805346670733,1.736144680222399,Digital Beginner
+UMKM0891,Sumatera Utara,Kuliner,Kecil,1-3 tahun,1,1,0,0,3,1,6.1,1,0,1,51.61,Tinggi (50-75),2,-0.46656695033150564,1.5140009240878112,Digital Beginner
+UMKM0892,Sulawesi Selatan,Fashion,Mikro,3-5 tahun,1,1,1,1,2,0,37.8,0,0,1,61.11,Tinggi (50-75),3,1.301588325297159,0.3090987456832205,Digital Adopter
+UMKM0893,Sulawesi Selatan,Jasa,Kecil,> 5 tahun,1,0,0,0,0,1,0.1,1,0,0,25.01,Sedang (25-50),0,-1.7471291931168005,-1.3471121374672028,Digital Laggard
+UMKM0894,Jawa Barat,Kuliner,Mikro,3-5 tahun,1,1,0,0,5,0,8.3,1,0,0,40.83,Sedang (25-50),2,-0.8271988694944958,2.251312078066467,Digital Beginner
+UMKM0895,DKI Jakarta,Fashion,Kecil,1-3 tahun,1,1,0,0,2,1,7.0,1,0,0,44.7,Sedang (25-50),2,-0.9442375240083252,0.8636027936691606,Digital Beginner
+UMKM0896,Jawa Barat,Kerajinan,Kecil,> 5 tahun,1,0,1,1,0,1,53.4,1,0,0,53.67,Tinggi (50-75),3,1.1862166290196012,-2.280353129145855,Digital Adopter
+UMKM0897,Jawa Barat,Kerajinan,Mikro,3-5 tahun,1,0,0,0,0,0,0.7,1,0,0,15.07,Rendah (0-25),0,-1.9538338677243228,-1.2071865723914015,Digital Laggard
+UMKM0898,Bali,Kuliner,Kecil,1-3 tahun,1,1,0,0,4,1,3.6,0,0,0,43.36,Sedang (25-50),2,-1.1370895642087786,1.5840707677712629,Digital Beginner
+UMKM0899,Jawa Timur,Fashion,Mikro,1-3 tahun,1,0,0,0,0,0,9.4,0,0,0,10.94,Rendah (0-25),0,-2.055714205659342,-1.39892400696857,Digital Laggard
+UMKM0900,Jawa Timur,Jasa,Kecil,< 1 tahun,1,1,1,1,1,1,43.8,0,0,1,69.71,Tinggi (50-75),3,1.567206462994201,-0.2904461506040235,Digital Adopter
+UMKM0901,Jawa Barat,Fashion,Mikro,< 1 tahun,1,0,0,0,0,1,2.9,1,0,0,25.29,Sedang (25-50),0,-1.678770441336715,-1.3650149651782224,Digital Laggard
+UMKM0902,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,1,1,3,1,0,25.2,0,1,0,64.52,Tinggi (50-75),1,1.9957804497058602,-0.4316491220459212,Digital Champion
+UMKM0903,Jawa Timur,Jasa,Menengah,< 1 tahun,1,1,1,2,1,1,37.8,0,0,1,72.45,Tinggi (50-75),3,1.9553617472647862,-0.44866841874664726,Digital Adopter
+UMKM0904,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,1,1,1,4,0,10.8,0,0,0,57.41,Tinggi (50-75),3,0.44942525898796204,1.0893489319200627,Digital Adopter
+UMKM0905,Jawa Tengah,Kerajinan,Kecil,3-5 tahun,1,1,0,0,4,1,6.8,1,1,0,53.68,Tinggi (50-75),2,-0.3125116417818581,1.9162251829918782,Digital Beginner
+UMKM0906,Bali,Kuliner,Mikro,< 1 tahun,1,0,0,0,0,1,9.7,1,0,0,25.97,Sedang (25-50),0,-1.5127563298707936,-1.408493261047842,Digital Laggard
+UMKM0907,Sumatera Utara,Pertanian,Mikro,> 5 tahun,0,1,0,0,3,0,3.6,1,0,0,26.36,Sedang (25-50),2,-0.9453772602811807,1.7305916228717952,Digital Beginner
+UMKM0908,Jawa Barat,Fashion,Mikro,1-3 tahun,1,0,0,0,0,1,0.6,0,0,0,20.06,Rendah (0-25),0,-2.049203018407784,-1.486419862319242,Digital Laggard
+UMKM0909,Jawa Barat,Kuliner,Mikro,1-3 tahun,1,1,0,0,4,0,9.0,0,0,1,38.9,Sedang (25-50),2,-0.829182657979275,1.9205296123899567,Digital Beginner
+UMKM0910,Jawa Barat,Kuliner,Mikro,1-3 tahun,1,1,1,1,4,1,28.5,0,0,1,74.18,Tinggi (50-75),3,1.5003283533722078,1.0596394413518797,Digital Adopter
+UMKM0911,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,1,1,3,3,0,16.7,0,1,1,72.67,Tinggi (50-75),1,2.390123720371701,0.6847622066238216,Digital Champion
+UMKM0912,Jawa Barat,Elektronik,Mikro,< 1 tahun,1,0,1,2,0,1,10.7,1,0,1,57.74,Tinggi (50-75),3,1.0758091373866612,-1.9766966356001148,Digital Adopter
+UMKM0913,DKI Jakarta,Pertanian,Mikro,> 5 tahun,1,0,1,1,0,0,34.4,0,0,0,36.77,Sedang (25-50),3,0.18671994669976769,-2.1512185614251296,Digital Adopter
+UMKM0914,Jawa Barat,Fashion,Menengah,> 5 tahun,1,1,0,0,1,1,2.0,1,0,0,42.2,Sedang (25-50),2,-1.1685246040077304,0.4781523201176569,Digital Beginner
+UMKM0915,Jawa Tengah,Fashion,Menengah,1-3 tahun,1,1,0,0,4,1,0.4,0,0,1,48.04,Sedang (25-50),2,-0.8177887027434251,1.8317549836313547,Digital Beginner
+UMKM0916,Jawa Tengah,Kerajinan,Mikro,3-5 tahun,1,1,0,0,2,0,4.9,0,0,0,29.49,Sedang (25-50),2,-1.5311403116555,0.8846810084198024,Digital Beginner
+UMKM0917,Jawa Barat,Elektronik,Kecil,> 5 tahun,1,1,1,3,2,0,37.7,1,0,1,72.77,Tinggi (50-75),3,2.6827043341554053,0.05267798295835331,Digital Adopter
+UMKM0918,Bali,Fashion,Mikro,> 5 tahun,1,0,1,3,0,0,42.3,0,0,0,44.23,Sedang (25-50),3,1.448865929677974,-2.59490105179941,Digital Adopter
+UMKM0919,Sumatera Utara,Fashion,Kecil,1-3 tahun,1,1,1,1,1,1,44.7,1,0,1,74.8,Tinggi (50-75),3,1.9034596641752275,-0.16008983960749434,Digital Adopter
+UMKM0920,Jawa Timur,Fashion,Kecil,1-3 tahun,1,1,1,2,2,1,69.7,0,0,0,72.64,Tinggi (50-75),3,2.4389559719374176,-0.46243680989493846,Digital Adopter
+UMKM0921,Sulawesi Selatan,Kerajinan,Menengah,1-3 tahun,0,1,1,2,4,1,50.3,0,1,1,74.7,Tinggi (50-75),1,3.2003636945142864,1.2242396551407497,Digital Champion
+UMKM0922,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,1,1.6,0,0,0,20.16,Rendah (0-25),0,-2.024789178486325,-1.4928137293588917,Digital Laggard
+UMKM0923,Bali,Kerajinan,Kecil,> 5 tahun,1,1,0,0,2,0,7.3,0,0,1,34.73,Sedang (25-50),2,-1.0751219466299757,1.0965595688578549,Digital Beginner
+UMKM0924,Sumatera Utara,Fashion,Mikro,1-3 tahun,1,0,1,3,0,1,36.4,0,0,0,53.64,Tinggi (50-75),3,1.5261772527017634,-2.7009391215650673,Digital Adopter
+UMKM0925,Jawa Tengah,Jasa,Menengah,1-3 tahun,1,1,1,1,2,1,33.8,1,0,1,75.71,Sangat Tinggi (75-100),3,1.7395666894234336,0.327023119874443,Digital Adopter
+UMKM0926,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,1,9.2,1,0,0,25.92,Sedang (25-50),0,-1.5249632498315229,-1.405296327528017,Digital Laggard
+UMKM0927,Jawa Barat,Fashion,Mikro,> 5 tahun,1,0,0,0,0,1,1.7,0,0,0,20.17,Rendah (0-25),0,-2.0223477944941792,-1.4934531160628568,Digital Laggard
+UMKM0928,Jawa Tengah,Fashion,Kecil,> 5 tahun,1,1,0,0,2,1,2.7,1,0,0,44.27,Sedang (25-50),2,-1.049217035670599,0.8910964219396553,Digital Beginner
+UMKM0929,DKI Jakarta,Kerajinan,Kecil,> 5 tahun,1,1,0,0,3,1,0.6,0,0,1,46.06,Sedang (25-50),2,-0.9151238151512432,1.4130564014736715,Digital Beginner
+UMKM0930,Jawa Barat,Kuliner,Mikro,1-3 tahun,1,0,1,1,0,0,44.1,0,0,0,37.74,Sedang (25-50),3,0.4235341939379207,-2.213239071709734,Digital Adopter
+UMKM0931,Jawa Timur,Fashion,Menengah,3-5 tahun,1,1,0,0,2,1,6.2,0,1,1,49.62,Sedang (25-50),2,-0.44845130255664445,1.1763349357171597,Digital Beginner
+UMKM0932,Sulawesi Selatan,Fashion,Mikro,3-5 tahun,1,1,0,0,4,0,3.1,0,0,0,33.31,Sedang (25-50),2,-1.370649462729906,1.731029586590679,Digital Beginner
+UMKM0933,Kalimantan Timur,Fashion,Mikro,< 1 tahun,0,1,0,0,2,1,1.6,0,0,0,29.16,Sedang (25-50),2,-1.189350587207524,1.0460868715695366,Digital Beginner
+UMKM0934,Jawa Tengah,Kerajinan,Mikro,3-5 tahun,1,0,1,1,0,0,15.2,0,0,0,34.85,Sedang (25-50),0,-0.28202577979224625,-2.028456314263851,Digital Laggard
+UMKM0935,Jawa Timur,Kerajinan,Mikro,> 5 tahun,1,1,0,0,3,0,1.7,0,0,0,31.17,Sedang (25-50),2,-1.5070467190120589,1.3225611916964357,Digital Beginner
+UMKM0936,Jawa Barat,Jasa,Mikro,1-3 tahun,1,0,0,0,0,1,4.5,0,0,0,20.45,Rendah (0-25),0,-1.9539890427140938,-1.5113559437738766,Digital Laggard
+UMKM0937,Jawa Timur,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,0,2.5,0,0,0,10.25,Rendah (0-25),0,-2.2241697011174097,-1.3548063243949855,Digital Laggard
+UMKM0938,Bali,Jasa,Mikro,3-5 tahun,1,1,1,1,1,0,28.6,0,0,1,58.19,Tinggi (50-75),3,0.9747631176276254,-0.049497486301753546,Digital Adopter
+UMKM0939,Jawa Timur,Fashion,Mikro,> 5 tahun,1,1,0,0,1,1,8.8,0,0,0,37.88,Sedang (25-50),2,-1.3167912377935218,0.2985632329158233,Digital Beginner
+UMKM0940,Jawa Tengah,Kuliner,Mikro,< 1 tahun,1,1,0,0,1,0,5.2,0,0,1,32.52,Sedang (25-50),2,-1.22860889085715,0.6925668808913663,Digital Beginner
+UMKM0941,Jawa Barat,Kuliner,Kecil,1-3 tahun,1,0,0,0,0,1,7.3,0,0,0,20.73,Rendah (0-25),0,-1.8856302909340084,-1.5292587714848962,Digital Laggard
+UMKM0942,Jawa Tengah,Kuliner,Kecil,3-5 tahun,1,0,1,1,0,1,24.8,1,0,1,55.81,Tinggi (50-75),3,0.8854059564798943,-1.8702646904786557,Digital Adopter
+UMKM0943,DKI Jakarta,Jasa,Mikro,1-3 tahun,1,1,1,1,1,1,34.7,1,0,0,68.8,Tinggi (50-75),3,1.2618961157466144,-0.3233750105442073,Digital Adopter
+UMKM0944,Sulawesi Selatan,Kerajinan,Mikro,> 5 tahun,1,0,1,3,0,1,33.0,0,0,0,53.3,Tinggi (50-75),3,1.4431701969688027,-2.6791999736302574,Digital Adopter
+UMKM0945,Jawa Barat,Jasa,Mikro,> 5 tahun,1,0,0,0,0,1,1.9,0,0,0,20.19,Rendah (0-25),0,-2.0174650265098872,-1.4947318894707868,Digital Laggard
+UMKM0946,Jawa Timur,Fashion,Mikro,< 1 tahun,1,1,1,2,2,0,22.3,0,0,0,57.9,Tinggi (50-75),3,1.060386981099861,-0.015605626915941136,Digital Adopter
+UMKM0947,Jawa Timur,Fashion,Kecil,3-5 tahun,1,1,1,1,2,1,22.8,1,0,1,74.61,Tinggi (50-75),3,1.471014450287384,0.3973556573105921,Digital Adopter
+UMKM0948,Bali,Kuliner,Mikro,3-5 tahun,1,1,1,1,1,1,33.0,0,0,0,63.63,Tinggi (50-75),3,0.9061118426284208,-0.4486162279090166,Digital Adopter
+UMKM0949,Sulawesi Selatan,Kuliner,Mikro,1-3 tahun,1,0,0,0,0,1,0.8,0,0,0,20.08,Rendah (0-25),0,-2.044320250423492,-1.4876986357271718,Digital Laggard
+UMKM0950,Jawa Tengah,Fashion,Mikro,> 5 tahun,1,0,0,0,0,0,3.5,0,0,0,10.35,Rendah (0-25),0,-2.1997558611959507,-1.3612001914346354,Digital Laggard
+UMKM0951,DKI Jakarta,Kuliner,Mikro,> 5 tahun,1,1,0,0,2,0,9.6,1,0,0,34.96,Sedang (25-50),2,-1.1021145187729293,0.9907406246656622,Digital Beginner
+UMKM0952,DKI Jakarta,Kuliner,Kecil,3-5 tahun,1,1,0,0,4,1,0.8,1,1,1,58.08,Tinggi (50-75),2,-0.061569532096589955,2.18181222656299,Digital Beginner
+UMKM0953,Jawa Timur,Fashion,Menengah,> 5 tahun,1,1,1,1,3,1,66.2,1,1,1,85.95,Sangat Tinggi (75-100),1,3.064965872697356,0.75378563495482,Digital Champion
+UMKM0954,Bali,Kerajinan,Mikro,3-5 tahun,1,0,0,0,0,0,9.7,0,0,0,10.97,Rendah (0-25),0,-2.0483900536829047,-1.400842167080465,Digital Laggard
+UMKM0955,Jawa Barat,Pertanian,Mikro,> 5 tahun,1,1,0,0,2,0,9.8,0,0,0,29.98,Sedang (25-50),2,-1.4115124960403505,0.8533510599255177,Digital Beginner
+UMKM0956,Jawa Barat,Elektronik,Kecil,3-5 tahun,1,1,1,2,3,1,65.1,0,0,0,74.18,Tinggi (50-75),3,2.4288701886908157,-0.01560521276279558,Digital Adopter
+UMKM0957,Jawa Tengah,Kerajinan,Menengah,> 5 tahun,1,1,1,2,5,1,76.4,1,1,0,89.31,Sangat Tinggi (75-100),1,3.655635975265776,1.0995984969361623,Digital Champion
+UMKM0958,Jawa Timur,Fashion,Mikro,> 5 tahun,1,1,1,3,4,1,47.5,1,0,0,82.75,Sangat Tinggi (75-100),3,2.9503235555162997,0.453871976836487,Digital Adopter
+UMKM0959,Jawa Timur,Kerajinan,Mikro,1-3 tahun,1,0,0,0,0,0,8.9,0,0,0,10.89,Rendah (0-25),0,-2.067921125620072,-1.395727073448745,Digital Laggard
+UMKM0960,Sumatera Utara,Jasa,Mikro,> 5 tahun,1,0,1,3,0,1,48.4,0,0,0,54.84,Tinggi (50-75),3,1.8191433317592718,-2.7776655260408663,Digital Adopter
+UMKM0961,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,1,1,6.1,1,0,1,47.61,Sedang (25-50),2,-0.6710027111157258,0.6791613065883044,Digital Beginner
+UMKM0962,DKI Jakarta,Fashion,Mikro,1-3 tahun,1,0,0,0,0,0,7.7,0,0,0,10.77,Rendah (0-25),0,-2.0972177335258224,-1.388054433001165,Digital Laggard
+UMKM0963,Jawa Barat,Jasa,Mikro,1-3 tahun,1,1,0,0,4,0,7.4,1,0,0,38.74,Sedang (25-50),2,-0.9513892058159192,1.8396467496523985,Digital Beginner
+UMKM0964,Jawa Barat,Fashion,Mikro,> 5 tahun,1,0,0,0,0,1,6.6,0,0,0,20.66,Rendah (0-25),0,-1.9027199788790297,-1.5247830645571414,Digital Laggard
+UMKM0965,Jawa Barat,Fashion,Mikro,> 5 tahun,1,1,0,0,1,0,8.3,1,0,0,32.83,Sedang (25-50),2,-1.236070391062936,0.5816328430674537,Digital Beginner
+UMKM0966,Jawa Barat,Fashion,Kecil,> 5 tahun,1,1,1,1,1,0,28.5,1,0,0,58.18,Tinggi (50-75),3,0.8891773296731701,-0.13997114959878648,Digital Adopter
+UMKM0967,DKI Jakarta,Kuliner,Mikro,> 5 tahun,0,0,0,0,0,0,5.3,0,0,1,5.53,Rendah (0-25),0,-1.5573833824949086,-0.8614173235543129,Digital Laggard
+UMKM0968,Jawa Barat,Fashion,Mikro,3-5 tahun,1,1,1,1,3,0,26.0,0,0,1,61.93,Tinggi (50-75),3,1.115722894616052,0.8019661855008425,Digital Adopter
+UMKM0969,Jawa Tengah,Kuliner,Mikro,> 5 tahun,0,0,0,0,0,0,7.4,0,0,0,0.74,Rendah (0-25),0,-1.9035394678738669,-1.10206828567079,Digital Laggard
+UMKM0970,Jawa Tengah,Kuliner,Mikro,3-5 tahun,1,0,0,0,0,1,4.7,0,0,0,20.47,Rendah (0-25),0,-1.9491062747298018,-1.5126347171818064,Digital Laggard
+UMKM0971,DKI Jakarta,Kuliner,Menengah,1-3 tahun,1,0,1,1,0,1,49.3,1,1,1,63.26,Tinggi (50-75),1,1.9157179239821798,-1.8104104345347973,Digital Champion
+UMKM0972,Bali,Jasa,Mikro,1-3 tahun,1,1,0,0,5,1,8.0,0,0,0,45.8,Sedang (25-50),2,-0.9274507881622488,1.9733575615465562,Digital Beginner
+UMKM0973,Sumatera Utara,Kuliner,Mikro,> 5 tahun,1,0,0,0,0,0,7.0,0,0,0,10.7,Rendah (0-25),0,-2.1143074214708437,-1.38357872607341,Digital Laggard
+UMKM0974,Jawa Barat,Fashion,Kecil,> 5 tahun,1,1,1,2,2,1,55.2,1,0,1,81.19,Sangat Tinggi (75-100),3,2.7966611875419973,-0.006391105154588381,Digital Adopter
+UMKM0975,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,5,0,1.7,0,0,0,35.17,Sedang (25-50),2,-1.3026109582278385,2.1574008091959422,Digital Beginner
+UMKM0976,Jawa Barat,Elektronik,Menengah,< 1 tahun,1,1,1,3,3,1,82.1,0,0,1,84.21,Sangat Tinggi (75-100),3,3.7759689403689825,-0.09366258148415527,Digital Adopter
+UMKM0977,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,1,0,0,1,0,2.4,0,0,0,27.24,Sedang (25-50),2,-1.6943927918512578,0.483245867269174,Digital Beginner
+UMKM0978,Jawa Timur,Fashion,Mikro,< 1 tahun,1,1,1,3,1,1,17.3,1,1,1,83.73,Sangat Tinggi (75-100),1,2.7359699873524668,-0.16156482506685182,Digital Champion
+UMKM0979,Jawa Tengah,Elektronik,Mikro,> 5 tahun,1,1,0,0,1,1,1.0,0,0,0,37.1,Sedang (25-50),2,-1.5072191891809024,0.34843539582509264,Digital Beginner
+UMKM0980,Jawa Tengah,Jasa,Mikro,> 5 tahun,1,1,0,0,3,1,6.6,0,0,1,46.66,Sedang (25-50),2,-0.7686407756224892,1.374693199235772,Digital Beginner
+UMKM0981,Jawa Barat,Kuliner,Kecil,1-3 tahun,0,1,1,1,1,1,63.3,0,0,1,61.66,Tinggi (50-75),3,2.244278759091045,-0.13105857065871673,Digital Adopter
+UMKM0982,Sumatera Utara,Jasa,Kecil,1-3 tahun,1,1,0,0,2,1,3.5,0,0,0,39.35,Sedang (25-50),2,-1.3439667089851446,0.749870536975721,Digital Beginner
+UMKM0983,Jawa Timur,Fashion,Mikro,> 5 tahun,1,0,0,0,0,1,9.5,0,0,0,20.95,Rendah (0-25),0,-1.8319198431067985,-1.5433252789721261,Digital Laggard
+UMKM0984,Jawa Timur,Fashion,Mikro,> 5 tahun,1,1,0,0,5,1,8.5,1,0,0,50.85,Tinggi (50-75),2,-0.6009631229498061,2.106271419358946,Digital Beginner
+UMKM0985,Sumatera Utara,Kuliner,Kecil,3-5 tahun,1,0,0,0,0,0,2.9,0,0,0,10.29,Rendah (0-25),0,-2.214404165148826,-1.3573638712108453,Digital Laggard
+UMKM0986,Jawa Tengah,Kuliner,Menengah,> 5 tahun,1,1,1,2,5,1,83.7,0,0,0,80.04,Sangat Tinggi (75-100),3,3.087403372014175,0.7003084777992223,Digital Adopter
+UMKM0987,DKI Jakarta,Kerajinan,Mikro,< 1 tahun,1,1,0,0,5,1,3.0,1,0,0,50.3,Tinggi (50-75),2,-0.7352392425178309,2.1414376880770205,Digital Beginner
+UMKM0988,Jawa Tengah,Fashion,Mikro,3-5 tahun,1,0,1,1,0,1,44.1,0,0,0,47.74,Sedang (25-50),3,0.6448871724983185,-2.3570009570093253,Digital Adopter
+UMKM0989,Jawa Barat,Fashion,Mikro,> 5 tahun,1,0,1,2,0,1,38.3,0,0,0,50.5,Tinggi (50-75),3,1.0379252247531958,-2.516501998559879,Digital Adopter
+UMKM0990,Sumatera Utara,Kerajinan,Kecil,> 5 tahun,1,1,0,0,1,0,9.7,1,1,1,42.97,Sedang (25-50),2,-0.3722929765323325,1.0164092689604372,Digital Beginner
+UMKM0991,Sumatera Utara,Jasa,Mikro,1-3 tahun,0,1,0,0,5,1,0.7,0,0,0,35.07,Sedang (25-50),2,-0.9046694019605069,2.304100778154481,Digital Beginner
+UMKM0992,DKI Jakarta,Kuliner,Mikro,> 5 tahun,1,1,0,0,2,0,4.7,0,0,0,29.47,Sedang (25-50),2,-1.5360230796397918,0.8859597818277324,Digital Beginner
+UMKM0993,Jawa Barat,Kerajinan,Kecil,3-5 tahun,1,1,1,3,1,1,64.9,0,1,0,78.49,Sangat Tinggi (75-100),1,3.1863628731481826,-0.8292475288196143,Digital Champion
+UMKM0994,Jawa Tengah,Kuliner,Mikro,1-3 tahun,1,1,0,0,1,1,0.9,0,1,0,42.09,Sedang (25-50),2,-1.07748768374651,0.5655787809443387,Digital Beginner
+UMKM0995,Jawa Barat,Jasa,Mikro,< 1 tahun,1,1,0,0,2,0,3.8,0,0,0,29.38,Sedang (25-50),2,-1.5579955355691049,0.8917142621634174,Digital Beginner
+UMKM0996,Jawa Timur,Kerajinan,Mikro,> 5 tahun,1,0,0,0,0,1,3.2,0,0,0,20.32,Rendah (0-25),0,-1.9857270346119904,-1.5030439166223317,Digital Laggard
+UMKM0997,Bali,Pertanian,Mikro,1-3 tahun,1,1,0,0,3,0,5.4,1,0,0,36.54,Sedang (25-50),2,-1.1024347660509473,1.4350146749819452,Digital Beginner
+UMKM0998,Jawa Timur,Kuliner,Mikro,1-3 tahun,1,0,1,1,0,1,39.0,0,0,1,52.23,Tinggi (50-75),3,0.9178017381128998,-2.0971683937738987,Digital Adopter
+UMKM0999,Kalimantan Timur,Kuliner,Mikro,1-3 tahun,1,1,0,0,2,1,7.0,0,0,0,39.7,Sedang (25-50),2,-1.258518269260038,0.7274920023369463,Digital Beginner
+UMKM1000,Jawa Tengah,Kuliner,Mikro,> 5 tahun,1,1,1,1,1,0,42.9,0,0,0,54.62,Tinggi (50-75),3,0.9264558792904675,-0.36815362630195947,Digital Adopter

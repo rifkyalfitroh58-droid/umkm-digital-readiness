@@ -1,6 +1,3 @@
 __pycache__/
 *.pyc
-.streamlit/
-*.pkl
-data/
 .env

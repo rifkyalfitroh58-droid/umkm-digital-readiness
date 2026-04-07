@@ -32,7 +32,7 @@ tepat sasaran untuk mendorong digitalisasi UMKM Indonesia.
 
 | | Link |
 |--|------|
-| Live Demo | [LINK PRODUK] |
+| Live Demo | https://umkm-digital-readiness-4gv3rszqfebjgbvtm9uazz.streamlit.app/ |
 | Google Colab | https://colab.research.google.com/drive/1kVF2R0lwc5BNEEYjzJGCsq8-viqiNQZ0?usp=sharing |
 | Proposal | https://github.com/rifkyalfitroh58-droid/umkm-digital-readiness |
 
@@ -141,7 +141,7 @@ http://localhost:8501
 
 ## Cara Menjalankan Model di Colab
 
-1. Buka [Google Colab Notebook]([LINK COLAB])
+1. Buka [Google Colab Notebook](https://colab.research.google.com/drive/1kVF2R0lwc5BNEEYjzJGCsq8-viqiNQZ0?usp=sharing)
 2. Klik **Runtime → Run all**
 3. Semua sel akan berjalan otomatis:
    - Generate synthetic dataset
